@@ -45,6 +45,7 @@ RELATIONSHIP = {
     "family_member": "The sexual violence perpetrator was a family member of the victim."
 }
 
+
 def sample_narratives_for_validation(results_df, n_narratives=100, random_state=42):
     # Get unique narrative indices
     unique_narratives = results_df['narrative_index'].unique()
@@ -60,8 +61,7 @@ def sample_narratives_for_validation(results_df, n_narratives=100, random_state=
     sampled_df = results_df[results_df['narrative_index'].isin(sampled_indices)].copy()    
     return sampled_df
 
-def process_narratives_sentence_level(df, narrative_column, detector,
-                                      use_sample=False, sample_size=100):
+def process_narratives_sentence_level(df, narrative_column, detector, sample_size=100):
     """
     Process narratives with sentence-level contradiction detection.
     
@@ -69,28 +69,13 @@ def process_narratives_sentence_level(df, narrative_column, detector,
         df: DataFrame with narratives
         narrative_column: Name of column containing narratives
         detector: SentenceLevelContradictionDetector instance
-        use_sample: Whether to use stratified sample
         sample_size: Number of narratives to sample
     
     Returns:
         DataFrame with results
     """
     
-    # Stratified sampling if requested
-    if use_sample and len(df) > sample_size:
-        print(f"\n{'='*80}")
-        print(f"CREATING STRATIFIED SAMPLE OF {sample_size} NARRATIVES")
-        print(f"{'='*80}")
-        df_to_process = create_stratified_sample(
-            df,
-            text_column=narrative_column,
-            n_samples=sample_size,
-            n_bins=10,
-            random_state=42
-        )
-    else:
-        print(f"\nProcessing full dataset: {len(df)} narratives")
-        df_to_process = df.copy()
+    df_to_process = df.copy()
     
     # Process each narrative
     print(f"\n{'='*80}")
@@ -155,7 +140,7 @@ def process_narratives_sentence_level(df, narrative_column, detector,
                     'entailing_sentences_count': result.get('entailing_sentences_count', 0),  
                 }
                 
-                # Add contradicting sentence details
+                # Contradicting sentence
                 if result['contradicting_sentences']:
                     # Get top contradicting sentence
                     top_contra = result['contradicting_sentences'][0]
@@ -175,7 +160,7 @@ def process_narratives_sentence_level(df, narrative_column, detector,
                     row_result['all_contradicting_sentences'] = None
                     row_result['num_contradicting_sentences'] = 0
                 
-                # NEW: Add entailing sentence details (same as contradiction)
+                # Entailing sentence
                 if result.get('entailing_sentences'):
                     # Get top entailing sentence
                     top_entail = result['entailing_sentences'][0]
