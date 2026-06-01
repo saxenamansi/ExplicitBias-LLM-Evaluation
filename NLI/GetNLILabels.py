@@ -7,7 +7,7 @@ import os, sys
 import pandas as pd
 import numpy as np
 
-from SentenceContradictionDetectorNLI import SentenceLevelContradictionDetector, create_stratified_sample
+from SentenceContradictionDetectorNLI import SentenceLevelContradictionDetector
 
 from huggingface_hub import login
 login(token="xyz") # HuggingFace Token
