@@ -1,0 +1,19 @@
+# data & generated outputs
+Data/
+Results/
+Tables/
+*.csv
+*.pkl
+*.pdf
+*.png
+
+# logs & cache
+logs/
+log/
+*.err
+*.out
+__pycache__/
+.ipynb_checkpoints/
+
+# stray artifact
+mnt/

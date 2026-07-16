@@ -1,0 +1,611 @@
+
+========================================================================
+  SANITY CHECK REPORT
+========================================================================
+  Mode:   SAMPLE
+  Tasks:  ['advice', 'summarization']
+  Models: ['mistral', 'gemma', 'llama', 'qwen', 'phi']
+
+========================================================================
+  ADVICEGENERATION
+========================================================================
+
+────────────────────────────────────────────────────────────
+  Model: MISTRAL
+────────────────────────────────────────────────────────────
+
+  ── T1
+      Total rows                                         354
+      Unique narrative_idx                               354
+      Duplicate narrative_idx rows                       0
+      Response words — median                            255
+      Response words — min/max                           59 / 486
+      Token count — median                               349
+      Token count — min/max                              79 / 658
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  9 (2.5%)
+  ⚠️  needs_manual_review                                35 (9.9%)
+      finish_reason == 'length'                          0
+
+  ── T1 finish_reason breakdown
+        stop                                             354
+      Flagged CSV                                        Results/AdviceGeneration/SampleResults/mistral_advice_t1_flagged.csv
+
+  ── T2
+      Total rows                                         18,056
+      Unique narrative_idx                               343
+      Duplicate (idx,myth,frame,dose) rows               0
+      Response words — median                            281
+      Response words — min/max                           58 / 1698
+      Token count — median                               445
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  409 (2.3%)
+  ⚠️  suspected_refusal_to_revise                        769 (4.3%)
+  ⚠️  needs_manual_review                                8251 (45.7%)
+  ⚠️  finish_reason == 'length'                          135
+
+  ── T2 condition coverage — single myths
+        All combos present                               ✓
+        Total single-myth rows                           8288
+
+  ── T2 condition coverage — myth pairs
+        All combos present                               ✓
+        Total pair rows                                  9768
+
+  ── T2 myth keyword omission (single myths)
+        clothing — keyword absent                        100/2360 (4.2%)
+        victim_intoxication — keyword absent             427/2168 (19.7%)
+        perpetrator_intoxication — keyword absent        264/2344 (11.3%)
+        resistance — keyword absent                      667/1416 (47.1%)
+
+  ── T2 finish_reason breakdown
+        stop                                             17921
+        length                                           135
+
+  ── T2 suspected_refusal by frame
+  ⚠️    PosMyth                                          104
+  ⚠️    PosNonMyth                                       104
+  ⚠️    NegNonMyth                                       102
+  ⚠️    NegMyth                                          99
+      Flagged CSV                                        Results/AdviceGeneration/SampleResults/mistral_advice_t2_flagged.csv
+
+
+────────────────────────────────────────────────────────────
+  Model: GEMMA
+────────────────────────────────────────────────────────────
+
+  ── T1
+      Total rows                                         354
+      Unique narrative_idx                               354
+      Duplicate narrative_idx rows                       0
+      Response words — median                            697
+      Response words — min/max                           423 / 882
+      Token count — median                               1012
+      Token count — min/max                              571 / 1315
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  14 (4.0%)
+  ⚠️  needs_manual_review                                18 (5.1%)
+      finish_reason == 'length'                          0
+
+  ── T1 finish_reason breakdown
+        stop                                             354
+      Flagged CSV                                        Results/AdviceGeneration/SampleResults/gemma_advice_t1_flagged.csv
+
+  ── T2
+      Total rows                                         18,056
+      Unique narrative_idx                               343
+      Duplicate (idx,myth,frame,dose) rows               0
+      Response words — median                            734
+      Response words — min/max                           478 / 1110
+      Token count — median                               1036
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  1012 (5.6%)
+  ⚠️  suspected_refusal_to_revise                        1108 (6.1%)
+  ⚠️  needs_manual_review                                660 (3.7%)
+      finish_reason == 'length'                          0
+
+  ── T2 condition coverage — single myths
+        All combos present                               ✓
+        Total single-myth rows                           8288
+
+  ── T2 condition coverage — myth pairs
+        All combos present                               ✓
+        Total pair rows                                  9768
+
+  ── T2 myth keyword omission (single myths)
+        clothing — keyword absent                        0/2360 (0.0%)
+        victim_intoxication — keyword absent             6/2168 (0.3%)
+        perpetrator_intoxication — keyword absent        0/2344 (0.0%)
+        resistance — keyword absent                      3/1416 (0.2%)
+
+  ── T2 finish_reason breakdown
+        stop                                             18056
+
+  ── T2 suspected_refusal by frame
+  ⚠️    NegMyth                                          269
+  ⚠️    NegNonMyth                                       264
+  ⚠️    PosMyth                                          241
+  ⚠️    PosNonMyth                                       238
+      Flagged CSV                                        Results/AdviceGeneration/SampleResults/gemma_advice_t2_flagged.csv
+
+
+────────────────────────────────────────────────────────────
+  Model: LLAMA
+────────────────────────────────────────────────────────────
+
+  ── T1
+      Total rows                                         354
+      Unique narrative_idx                               354
+      Duplicate narrative_idx rows                       0
+      Response words — median                            366
+      Response words — min/max                           5 / 586
+      Token count — median                               477
+      Token count — min/max                              8 / 781
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  68 (19.2%)
+  ⚠️  needs_manual_review                                17 (4.8%)
+      finish_reason == 'length'                          0
+
+  ── T1 finish_reason breakdown
+        stop                                             354
+      Flagged CSV                                        Results/AdviceGeneration/SampleResults/llama_advice_t1_flagged.csv
+
+  ── T2
+      Total rows                                         18,056
+      Unique narrative_idx                               343
+      Duplicate (idx,myth,frame,dose) rows               0
+      Response words — median                            436
+      Response words — min/max                           4 / 873
+      Token count — median                               574
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  2281 (12.6%)
+  ⚠️  suspected_refusal_to_revise                        204 (1.1%)
+  ⚠️  needs_manual_review                                3077 (17.0%)
+      finish_reason == 'length'                          0
+
+  ── T2 condition coverage — single myths
+        All combos present                               ✓
+        Total single-myth rows                           8288
+
+  ── T2 condition coverage — myth pairs
+        All combos present                               ✓
+        Total pair rows                                  9768
+
+  ── T2 myth keyword omission (single myths)
+        clothing — keyword absent                        648/2360 (27.5%)
+        victim_intoxication — keyword absent             554/2168 (25.6%)
+        perpetrator_intoxication — keyword absent        277/2344 (11.8%)
+        resistance — keyword absent                      338/1416 (23.9%)
+
+  ── T2 finish_reason breakdown
+        stop                                             18056
+
+  ── T2 suspected_refusal by frame
+  ⚠️    NegNonMyth                                       781
+  ⚠️    PosMyth                                          755
+  ⚠️    NegMyth                                          377
+  ⚠️    PosNonMyth                                       368
+      Flagged CSV                                        Results/AdviceGeneration/SampleResults/llama_advice_t2_flagged.csv
+
+
+────────────────────────────────────────────────────────────
+  Model: QWEN
+────────────────────────────────────────────────────────────
+
+  ── T1
+      Total rows                                         354
+      Unique narrative_idx                               354
+      Duplicate narrative_idx rows                       0
+      Response words — median                            355
+      Response words — min/max                           24 / 602
+      Token count — median                               443
+      Token count — min/max                              306 / 781
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  24 (6.8%)
+  ⚠️  needs_manual_review                                5 (1.4%)
+      finish_reason == 'length'                          0
+
+  ── T1 finish_reason breakdown
+        stop                                             354
+      Flagged CSV                                        Results/AdviceGeneration/SampleResults/qwen_advice_t1_flagged.csv
+
+  ── T2
+      Total rows                                         18,056
+      Unique narrative_idx                               343
+      Duplicate (idx,myth,frame,dose) rows               0
+      Response words — median                            555
+      Response words — min/max                           32 / 1031
+      Token count — median                               731
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  287 (1.6%)
+      suspected_refusal_to_revise                        0 (0.0%)
+  ⚠️  needs_manual_review                                1383 (7.7%)
+      finish_reason == 'length'                          0
+
+  ── T2 condition coverage — single myths
+        All combos present                               ✓
+        Total single-myth rows                           8288
+
+  ── T2 condition coverage — myth pairs
+        All combos present                               ✓
+        Total pair rows                                  9768
+
+  ── T2 myth keyword omission (single myths)
+        clothing — keyword absent                        109/2360 (4.6%)
+        victim_intoxication — keyword absent             31/2168 (1.4%)
+        perpetrator_intoxication — keyword absent        60/2344 (2.6%)
+        resistance — keyword absent                      116/1416 (8.2%)
+
+  ── T2 finish_reason breakdown
+        stop                                             18056
+
+  ── T2 suspected_refusal by frame
+  ⚠️    PosNonMyth                                       80
+  ⚠️    PosMyth                                          70
+  ⚠️    NegMyth                                          70
+  ⚠️    NegNonMyth                                       67
+      Flagged CSV                                        Results/AdviceGeneration/SampleResults/qwen_advice_t2_flagged.csv
+
+
+────────────────────────────────────────────────────────────
+  Model: PHI
+────────────────────────────────────────────────────────────
+
+  ── T1
+      Total rows                                         354
+      Unique narrative_idx                               354
+      Duplicate narrative_idx rows                       0
+      Response words — median                            1221
+      Response words — min/max                           363 / 1361
+      Token count — median                               2048
+      Token count — min/max                              770 / 2048
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  3 (0.8%)
+  ⚠️  needs_manual_review                                353 (99.7%)
+  ⚠️  finish_reason == 'length'                          350
+
+  ── T1 finish_reason breakdown
+        length                                           350
+        stop                                             4
+      Flagged CSV                                        Results/AdviceGeneration/SampleResults/phi_advice_t1_flagged.csv
+
+  ── T2
+      Total rows                                         18,056
+      Unique narrative_idx                               343
+      Duplicate (idx,myth,frame,dose) rows               0
+      Response words — median                            1311
+      Response words — min/max                           35 / 1583
+      Token count — median                               2048
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  73 (0.4%)
+  ⚠️  suspected_refusal_to_revise                        7 (0.0%)
+  ⚠️  needs_manual_review                                18056 (100.0%)
+  ⚠️  finish_reason == 'length'                          18056
+
+  ── T2 condition coverage — single myths
+        All combos present                               ✓
+        Total single-myth rows                           8288
+
+  ── T2 condition coverage — myth pairs
+        All combos present                               ✓
+        Total pair rows                                  9768
+
+  ── T2 myth keyword omission (single myths)
+        clothing — keyword absent                        11/2360 (0.5%)
+        victim_intoxication — keyword absent             445/2168 (20.5%)
+        perpetrator_intoxication — keyword absent        367/2344 (15.7%)
+        resistance — keyword absent                      29/1416 (2.0%)
+
+  ── T2 finish_reason breakdown
+        length                                           18056
+
+  ── T2 suspected_refusal by frame
+  ⚠️    NegNonMyth                                       27
+  ⚠️    PosMyth                                          21
+  ⚠️    PosNonMyth                                       13
+  ⚠️    NegMyth                                          12
+      Flagged CSV                                        Results/AdviceGeneration/SampleResults/phi_advice_t2_flagged.csv
+
+
+========================================================================
+  SUMMARIZATION
+========================================================================
+
+────────────────────────────────────────────────────────────
+  Model: MISTRAL
+────────────────────────────────────────────────────────────
+
+  ── T1
+      Total rows                                         354
+      Unique narrative_idx                               354
+      Duplicate narrative_idx rows                       0
+      Response words — median                            118
+      Response words — min/max                           41 / 614
+      Token count — median                               155
+      Token count — min/max                              50 / 907
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  1 (0.3%)
+  ⚠️  needs_manual_review                                85 (24.0%)
+      finish_reason == 'length'                          0
+
+  ── T1 finish_reason breakdown
+        stop                                             354
+      Flagged CSV                                        Results/Summarization/SampleResults/mistral_summary_t1_flagged.csv
+
+  ── T2
+      Total rows                                         18,056
+      Unique narrative_idx                               343
+      Duplicate (idx,myth,frame,dose) rows               0
+      Response words — median                            96
+      Response words — min/max                           26 / 1608
+      Token count — median                               126
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  75 (0.4%)
+  ⚠️  suspected_refusal_to_revise                        3 (0.0%)
+  ⚠️  needs_manual_review                                6643 (36.8%)
+  ⚠️  finish_reason == 'length'                          127
+
+  ── T2 condition coverage — single myths
+        All combos present                               ✓
+        Total single-myth rows                           8288
+
+  ── T2 condition coverage — myth pairs
+        All combos present                               ✓
+        Total pair rows                                  9768
+
+  ── T2 myth keyword omission (single myths)
+        clothing — keyword absent                        5/2360 (0.2%)
+        victim_intoxication — keyword absent             95/2168 (4.4%)
+        perpetrator_intoxication — keyword absent        29/2344 (1.2%)
+        resistance — keyword absent                      279/1416 (19.7%)
+
+  ── T2 finish_reason breakdown
+        stop                                             17929
+        length                                           127
+
+  ── T2 suspected_refusal by frame
+  ⚠️    PosNonMyth                                       21
+  ⚠️    PosMyth                                          21
+  ⚠️    NegNonMyth                                       17
+  ⚠️    NegMyth                                          16
+      Flagged CSV                                        Results/Summarization/SampleResults/mistral_summary_t2_flagged.csv
+
+
+────────────────────────────────────────────────────────────
+  Model: GEMMA
+────────────────────────────────────────────────────────────
+
+  ── T1
+      Total rows                                         354
+      Unique narrative_idx                               354
+      Duplicate narrative_idx rows                       0
+      Response words — median                            148
+      Response words — min/max                           98 / 754
+      Token count — median                               182
+      Token count — min/max                              123 / 1024
+      Empty / null responses                             0
+      suspected_refusal                                  0 (0.0%)
+  ⚠️  needs_manual_review                                82 (23.2%)
+      finish_reason == 'length'                          0
+
+  ── T1 finish_reason breakdown
+        stop                                             354
+      Flagged CSV                                        Results/Summarization/SampleResults/gemma_summary_t1_flagged.csv
+
+  ── T2
+      Total rows                                         18,056
+      Unique narrative_idx                               343
+      Duplicate (idx,myth,frame,dose) rows               0
+      Response words — median                            221
+      Response words — min/max                           39 / 517
+      Token count — median                               272
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  98 (0.5%)
+  ⚠️  suspected_refusal_to_revise                        28 (0.2%)
+  ⚠️  needs_manual_review                                2428 (13.4%)
+      finish_reason == 'length'                          0
+
+  ── T2 condition coverage — single myths
+        All combos present                               ✓
+        Total single-myth rows                           8288
+
+  ── T2 condition coverage — myth pairs
+        All combos present                               ✓
+        Total pair rows                                  9768
+
+  ── T2 myth keyword omission (single myths)
+        clothing — keyword absent                        1/2360 (0.0%)
+        victim_intoxication — keyword absent             14/2168 (0.6%)
+        perpetrator_intoxication — keyword absent        0/2344 (0.0%)
+        resistance — keyword absent                      3/1416 (0.2%)
+
+  ── T2 finish_reason breakdown
+        stop                                             18056
+
+  ── T2 suspected_refusal by frame
+  ⚠️    PosMyth                                          50
+  ⚠️    NegNonMyth                                       28
+  ⚠️    PosNonMyth                                       11
+  ⚠️    NegMyth                                          9
+      Flagged CSV                                        Results/Summarization/SampleResults/gemma_summary_t2_flagged.csv
+
+
+────────────────────────────────────────────────────────────
+  Model: LLAMA
+────────────────────────────────────────────────────────────
+
+  ── T1
+      Total rows                                         354
+      Unique narrative_idx                               354
+      Duplicate narrative_idx rows                       0
+      Response words — median                            136
+      Response words — min/max                           5 / 294
+      Token count — median                               159
+      Token count — min/max                              8 / 374
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  7 (2.0%)
+  ⚠️  needs_manual_review                                49 (13.8%)
+      finish_reason == 'length'                          0
+
+  ── T1 finish_reason breakdown
+        stop                                             354
+      Flagged CSV                                        Results/Summarization/SampleResults/llama_summary_t1_flagged.csv
+
+  ── T2
+      Total rows                                         18,056
+      Unique narrative_idx                               343
+      Duplicate (idx,myth,frame,dose) rows               0
+      Response words — median                            159
+      Response words — min/max                           4 / 384
+      Token count — median                               187
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  2885 (16.0%)
+  ⚠️  suspected_refusal_to_revise                        1 (0.0%)
+  ⚠️  needs_manual_review                                1392 (7.7%)
+      finish_reason == 'length'                          0
+
+  ── T2 condition coverage — single myths
+        All combos present                               ✓
+        Total single-myth rows                           8288
+
+  ── T2 condition coverage — myth pairs
+        All combos present                               ✓
+        Total pair rows                                  9768
+
+  ── T2 myth keyword omission (single myths)
+        clothing — keyword absent                        657/2360 (27.8%)
+        victim_intoxication — keyword absent             253/2168 (11.7%)
+        perpetrator_intoxication — keyword absent        101/2344 (4.3%)
+        resistance — keyword absent                      359/1416 (25.4%)
+
+  ── T2 finish_reason breakdown
+        stop                                             18056
+
+  ── T2 suspected_refusal by frame
+  ⚠️    NegNonMyth                                       1334
+  ⚠️    PosMyth                                          1150
+  ⚠️    PosNonMyth                                       202
+  ⚠️    NegMyth                                          199
+      Flagged CSV                                        Results/Summarization/SampleResults/llama_summary_t2_flagged.csv
+
+
+────────────────────────────────────────────────────────────
+  Model: QWEN
+────────────────────────────────────────────────────────────
+
+  ── T1
+      Total rows                                         354
+      Unique narrative_idx                               354
+      Duplicate narrative_idx rows                       0
+      Response words — median                            97
+      Response words — min/max                           57 / 160
+      Token count — median                               116
+      Token count — min/max                              68 / 238
+      Empty / null responses                             0
+      suspected_refusal                                  0 (0.0%)
+  ⚠️  needs_manual_review                                32 (9.0%)
+      finish_reason == 'length'                          0
+
+  ── T1 finish_reason breakdown
+        stop                                             354
+      Flagged CSV                                        Results/Summarization/SampleResults/qwen_summary_t1_flagged.csv
+
+  ── T2
+      Total rows                                         18,056
+      Unique narrative_idx                               343
+      Duplicate (idx,myth,frame,dose) rows               0
+      Response words — median                            125
+      Response words — min/max                           10 / 320
+      Token count — median                               149
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  4 (0.0%)
+      suspected_refusal_to_revise                        0 (0.0%)
+  ⚠️  needs_manual_review                                449 (2.5%)
+      finish_reason == 'length'                          0
+
+  ── T2 condition coverage — single myths
+        All combos present                               ✓
+        Total single-myth rows                           8288
+
+  ── T2 condition coverage — myth pairs
+        All combos present                               ✓
+        Total pair rows                                  9768
+
+  ── T2 myth keyword omission (single myths)
+        clothing — keyword absent                        17/2360 (0.7%)
+        victim_intoxication — keyword absent             75/2168 (3.5%)
+        perpetrator_intoxication — keyword absent        23/2344 (1.0%)
+        resistance — keyword absent                      115/1416 (8.1%)
+
+  ── T2 finish_reason breakdown
+        stop                                             18056
+
+  ── T2 suspected_refusal by frame
+  ⚠️    NegNonMyth                                       2
+  ⚠️    PosNonMyth                                       1
+  ⚠️    NegMyth                                          1
+      Flagged CSV                                        Results/Summarization/SampleResults/qwen_summary_t2_flagged.csv
+
+
+────────────────────────────────────────────────────────────
+  Model: PHI
+────────────────────────────────────────────────────────────
+
+  ── T1
+      Total rows                                         354
+      Unique narrative_idx                               354
+      Duplicate narrative_idx rows                       0
+      Response words — median                            145
+      Response words — min/max                           74 / 217
+      Token count — median                               210
+      Token count — min/max                              98 / 305
+      Empty / null responses                             0
+      suspected_refusal                                  0 (0.0%)
+  ⚠️  needs_manual_review                                71 (20.1%)
+      finish_reason == 'length'                          0
+
+  ── T1 finish_reason breakdown
+        stop                                             354
+      Flagged CSV                                        Results/Summarization/SampleResults/phi_summary_t1_flagged.csv
+
+  ── T2
+      Total rows                                         18,056
+      Unique narrative_idx                               343
+      Duplicate (idx,myth,frame,dose) rows               0
+      Response words — median                            208
+      Response words — min/max                           100 / 1393
+      Token count — median                               317
+      Empty / null responses                             0
+  ⚠️  suspected_refusal                                  9 (0.0%)
+      suspected_refusal_to_revise                        0 (0.0%)
+  ⚠️  needs_manual_review                                1774 (9.8%)
+  ⚠️  finish_reason == 'length'                          383
+
+  ── T2 condition coverage — single myths
+        All combos present                               ✓
+        Total single-myth rows                           8288
+
+  ── T2 condition coverage — myth pairs
+        All combos present                               ✓
+        Total pair rows                                  9768
+
+  ── T2 myth keyword omission (single myths)
+        clothing — keyword absent                        52/2360 (2.2%)
+        victim_intoxication — keyword absent             529/2168 (24.4%)
+        perpetrator_intoxication — keyword absent        413/2344 (17.6%)
+        resistance — keyword absent                      391/1416 (27.6%)
+
+  ── T2 finish_reason breakdown
+        stop                                             17673
+        length                                           383
+
+  ── T2 suspected_refusal by frame
+  ⚠️    NegMyth                                          5
+  ⚠️    PosMyth                                          2
+  ⚠️    NegNonMyth                                       2
+      Flagged CSV                                        Results/Summarization/SampleResults/phi_summary_t2_flagged.csv
+
+
+========================================================================
+  END OF REPORT
+========================================================================

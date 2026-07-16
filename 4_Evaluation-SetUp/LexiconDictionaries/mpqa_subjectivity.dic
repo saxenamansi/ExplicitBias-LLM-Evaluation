@@ -1,0 +1,6896 @@
+%
+1	strongsubj
+2	weaksubj
+3	adj
+4	adverb
+5	noun
+6	verb
+7	negative
+8	neutral
+9	positive
+%
+abase	1	6	7
+abasement	1	7
+abash	1	6	7
+aberration	1	3	5	7
+abhor	1	6	7
+abhorred	1	3	7
+abhorrence	1	5	7
+abhorrent	1	3	7
+abhorrently	1	7
+abhors	1	3	5	7
+abidance	1	3	5	9
+abide	1	9
+abject	1	3	7
+abjectly	1	4	7
+abominable	1	3	7
+abominably	1	7
+abominate	1	6	7
+abomination	1	5	7
+abrasive	1	3	7
+abscond	1	6	7
+absent-minded	1	3	7
+absolve	1	6	9
+absolute	1	3	8
+absolutely	1	3	8
+absurd	1	3	7
+absurdity	1	5	7
+absurdly	1	7
+absurdness	1	5	7
+abuse	1	2	3	5	6	7
+abusive	1	3	7
+abysmal	1	3	7
+abysmally	1	7
+abyss	1	5	7
+accede	1	6	9
+accentuate	1	6	8
+acclaim	1	5	6	9
+acclaimed	1	3	9
+acclamation	1	9
+accolade	1	5	9
+accolades	1	5	9
+accursed	1	3	7
+accusation	1	3	5	7
+accusations	1	3	5	7
+accuse	1	6	7
+accuses	1	6	7
+accusing	1	7
+accusingly	1	7
+acerbate	1	6	7
+acerbic	1	3	7
+acerbically	1	4	7
+ache	1	6	7
+acrid	1	3	7
+acridly	1	7
+acridness	1	5	7
+acrimonious	1	3	7
+acrimoniously	1	7
+acrimony	1	5	7
+activist	1	3	5	8
+actual	1	8
+actuality	1	8
+actually	1	8
+acumen	1	5	9
+adamant	1	3	7
+adamantly	1	7
+admirable	1	3	9
+admirer	1	5	9
+admirably	1	9
+admiration	1	5	9
+admire	1	6	9
+admiring	1	3	9
+admiringly	1	3	9
+admit	1	6	9
+admittedly	1	9
+admonish	1	6	7
+admonisher	1	7
+admonishingly	1	7
+admonishment	1	7
+admonition	1	5	7
+adolescents	1	3	5	8
+adorable	1	3	9
+adore	1	6	9
+adored	1	3	9
+adorer	1	5	9
+adoring	1	3	9
+adoringly	1	9
+adroit	1	3	9
+adroitly	1	3	9
+adulate	1	6	9
+adulation	1	9
+adulatory	1	3	9
+adulterate	1	6	7
+adulterated	1	7
+adulteration	1	5	7
+advantageous	1	3	9
+adventuresome	1	5	9
+adventurism	1	5	9
+adversity	1	5	7
+advocate	1	6	9
+advocacy	1	5	9
+affable	1	3	9
+affected	1	3	8
+affection	1	3	5	9
+affectionate	1	3	9
+affirm	1	6	9
+affirmation	1	3	5	9
+afflictive	1	3	7
+affront	1	5	6	7
+afraid	1	3	7
+aggravate	1	6	7
+aggravating	1	3	7
+aggravation	1	5	7
+aggression	1	3	5	7
+aggressive	1	7
+aggressiveness	1	5	7
+aggressor	1	5	7
+aggrieve	1	6	7
+aggrieved	1	3	7
+aghast	1	3	7
+agitate	1	6	7
+agitated	1	3	7
+agitation	1	5	7
+agitator	1	5	7
+agonies	1	5	7
+agonize	1	6	7
+agonizing	1	3	7
+agonizingly	1	7
+agony	1	5	7
+agree	1	6	9
+agreeability	1	9
+agreeable	1	2	3	9
+agreeableness	1	9
+agreeably	1	9
+aha	1	8
+aimless	1	3	7
+air	1	6	8
+alarmed	1	3	7
+alarming	1	3	7
+alarmingly	1	7
+alas	1	7
+allay	1	6	9
+allegation	1	7
+allegations	1	3	5	7
+allegorize	1	6	8
+alliance	1	8
+alliances	1	3	5	8
+allure	1	5	6	9
+alluring	1	9
+alluringly	1	9
+allusion	1	3	5	8
+allusions	1	8
+ally	1	5	9
+almighty	1	3	9
+aloof	1	3	7
+altogether	1	8
+altruist	1	5	9
+altruistic	1	3	9
+altruistically	1	3	9
+amaze	1	6	9
+amazed	1	3	9
+amazement	1	5	9
+amazing	1	3	9
+amazingly	1	9
+ambiguous	1	3	7
+ambiguity	1	5	7
+ambivalence	1	7
+ambivalent	1	3	5	7
+ameliorate	1	6	9
+amenable	1	3	9
+amiability	1	5	9
+amiabily	1	4	9
+amiable	1	3	9
+amicability	1	5	9
+amicable	1	3	9
+amicably	1	4	9
+amiss	1	7
+amour	1	5	9
+amuse	1	6	9
+amusement	1	3	5	9
+amusing	1	3	9
+amusingly	1	9
+anarchism	1	5	7
+anarchist	1	5	7
+anarchistic	1	3	7
+anarchy	1	5	7
+angelic	1	3	9
+anger	1	3	5	6	7
+angrily	1	7
+angriness	1	7
+angry	1	3	7
+anguish	1	5	6	7
+annihilate	1	6	7
+annihilation	1	5	7
+animosity	1	5	7
+annoy	1	6	7
+annoyance	1	5	7
+annoyed	1	3	7
+annoying	1	3	7
+annoyingly	1	7
+antagonism	1	5	7
+antagonistic	1	3	7
+antagonize	1	6	7
+anti-	1	5	7
+anti-American	1	3	5	7
+anti-Israeli	1	3	5	7
+anti-Semites	1	3	5	7
+anti-US	1	3	5	7
+anti-occupation	1	3	5	7
+anti-proliferation	1	3	5	7
+anti-social	1	3	7
+anti-white	1	3	5	7
+antipathy	1	5	7
+antiquated	1	3	7
+antithetical	1	3	5	7
+anxieties	1	5	7
+anxiety	1	5	7
+anxious	1	7
+anxiously	1	7
+anxiousness	1	5	7
+anyhow	1	8
+anyway	1	8
+anyways	1	8
+apathetic	1	3	5	7
+apathetically	1	4	7
+apathy	1	5	7
+ape	1	6	7
+apocalypse	1	5	7
+apocalyptic	1	3	7
+apologist	1	3	5	7
+apologists	1	3	5	7
+apostle	1	3	5	9
+apotheosis	1	3	5	9
+appal	1	6	7
+appall	1	3	6	7
+appalled	1	3	7
+appalling	1	3	7
+appallingly	1	7
+appealing	1	3	9
+applaud	1	6	9
+appreciate	1	6	9
+appreciation	1	3	5	9
+appreciative	1	9
+appreciatively	1	9
+appreciativeness	1	9
+apprehension	1	5	7
+apprehensions	1	3	5	7
+apprehensive	1	3	5	7
+apprehensively	1	7
+arbitrary	1	3	7
+arcane	1	3	7
+archaic	1	3	7
+ardent	1	3	9
+ardently	1	9
+ardor	1	5	9
+arduous	1	3	7
+arduously	1	7
+argue	1	6	7
+argumentative	1	7
+arousal	1	9
+arouse	1	6	9
+arousing	1	9
+arresting	1	3	9
+arrogance	1	5	7
+arrogant	1	3	7
+arrogantly	1	7
+articulate	1	3	9
+ascendant	1	3	5	9
+ascertainable	1	3	5	9
+ashamed	1	3	7
+asinine	1	3	7
+asininely	1	4	7
+asinininity	1	5	7
+askance	1	4	7
+asperse	1	6	7
+aspersion	1	5	7
+aspersions	1	5	7
+aspiration	1	5	9
+aspirations	1	3	5	9
+aspire	1	6	9
+assassin	1	5	7
+assent	1	6	9
+assertions	1	3	5	9
+assess	1	6	8
+assiduous	1	3	9
+assiduously	1	4	9
+assure	1	6	9
+assuredly	1	9
+astonish	1	6	9
+astonished	1	3	9
+astonishing	1	3	9
+astonishingly	1	9
+astonishment	1	5	9
+astound	1	6	9
+astounded	1	3	9
+astounding	1	3	9
+astoundingly	1	9
+astronomic	1	3	8
+astronomical	1	3	8
+astronomically	1	8
+astute	1	3	9
+astutely	1	4	9
+asunder	1	7
+atrocious	1	3	7
+atrocities	1	5	7
+atrocity	1	5	7
+atrophy	1	6	7
+attentive	1	3	9
+attest	1	6	9
+attitude	1	3	5	8
+attraction	1	3	5	9
+attractive	1	3	5	9
+attractively	1	9
+audacious	1	3	7
+audaciously	1	7
+audaciousness	1	5	7
+audacity	1	5	7
+auspicious	1	3	9
+austere	1	3	7
+autocrat	1	5	7
+autocratic	1	3	5	7
+awareness	1	5	8
+aware	1	3	8
+avalanche	1	3	5	7
+avarice	1	5	7
+avaricious	1	3	7
+avariciously	1	3	7
+avenge	1	6	7
+aver	1	6	9
+averse	1	7
+aversion	1	5	7
+avid	1	3	9
+avidly	1	9
+awe	1	5	6	9
+awed	1	3	9
+awesome	1	3	9
+awesomely	1	9
+awesomeness	1	5	9
+awestruck	1	3	9
+awful	1	3	7
+awfully	1	7
+awfulness	1	5	7
+awkward	1	3	7
+awkwardness	1	5	7
+ax	1	6	7
+babble	1	6	7
+baby	1	3	5	8
+backbite	1	6	7
+backbiting	1	7
+backward	1	3	7
+backwardness	1	5	7
+bad	1	3	7
+badly	1	3	7
+baffle	1	6	7
+baffled	1	3	7
+bafflement	1	5	7
+baffling	1	7
+bait	1	6	7
+balk	1	6	7
+banal	1	3	7
+banalize	1	6	7
+bane	1	5	7
+banish	1	3	6	7
+banishment	1	5	7
+barbarian	1	3	5	7
+barbaric	1	3	7
+barbarically	1	7
+barbarity	1	3	5	7
+barbarous	1	3	7
+barbarously	1	7
+bargain	1	3	5	9
+barren	1	3	7
+baseless	1	3	7
+bashful	1	3	7
+bastard	1	5	7
+battle-lines	1	3	5	7
+battleground	1	3	5	7
+batty	1	3	7
+beast	1	3	5	7
+beastly	1	3	7
+beatify	1	6	9
+beauteous	1	3	9
+beautiful	1	3	9
+beautifully	1	9
+beautify	1	6	9
+beauty	1	5	9
+bedlam	1	5	7
+bedlamite	1	5	7
+befit	1	6	9
+befitting	1	3	9
+befoul	1	6	7
+befriend	1	6	9
+beg	1	6	7
+beggarly	1	3	7
+begging	1	3	5	7
+beguile	1	6	7
+belabor	1	6	7
+beleaguer	1	6	7
+belie	1	6	7
+belief	1	3	5	8
+believable	1	3	9
+believe	1	6	8
+belittle	1	6	7
+belittled	1	3	7
+belittling	1	7
+bellicose	1	3	5	7
+belligerence	1	5	7
+belligerent	1	3	7
+belligerently	1	7
+beloved	1	3	9
+bemoan	1	6	7
+bemoaning	1	3	7
+bemused	1	3	7
+beneficent	1	3	9
+beneficial	1	2	3	9
+beneficially	1	9
+beneficiary	1	3	5	9
+benevolence	1	5	9
+benevolent	1	3	9
+berate	1	6	7
+bereave	1	6	7
+bereavement	1	5	7
+bereft	1	7
+berserk	1	3	7
+beseech	1	6	7
+besides	1	8
+besmirch	1	6	7
+best	1	9
+best-known	1	3	9
+best-performing	1	3	9
+bestial	1	3	7
+betray	1	6	7
+betrayal	1	5	7
+betrayals	1	5	7
+betrayer	1	5	7
+better	1	2	3	9
+better-known	1	3	9
+better-than-expected	1	3	9
+bewail	1	6	7
+bewilder	1	6	7
+bewildered	1	3	7
+bewildering	1	3	7
+bewilderingly	1	7
+bewilderment	1	5	7
+bewitch	1	6	7
+bias	1	3	5	6	7
+biased	1	3	5	7
+biases	1	3	5	7
+bicker	1	6	7
+bickering	1	7
+bitch	1	6	7
+bitchy	1	3	7
+biting	1	3	7
+bitingly	1	7
+bitter	1	3	7
+bitterly	1	7
+bitterness	1	5	7
+bizarre	1	3	7
+blab	1	6	7
+blabber	1	6	7
+blah	1	7
+blame	1	3	5	6	7
+blameless	1	3	9
+blameworthy	1	3	7
+bland	1	3	7
+blandish	1	6	7
+blaspheme	1	6	7
+blasphemous	1	3	7
+blasphemy	1	5	7
+blasted	1	7
+blatant	1	3	7
+blatantly	1	3	7
+blather	1	6	7
+bleak	1	3	7
+bleakly	1	7
+bleakness	1	5	7
+bless	1	6	9
+blessing	1	3	5	9
+blinding	1	3	7
+blindingly	1	3	7
+blindside	1	6	7
+bliss	1	5	9
+blissful	1	3	9
+blissfully	1	4	9
+blister	1	6	7
+blistering	1	3	7
+blithe	1	3	9
+bloated	1	3	7
+blockhead	1	3	7
+bloodshed	1	5	7
+bloodthirsty	1	3	7
+blunder	1	3	5	7
+blundering	1	7
+blunders	1	7
+blunt	1	3	7
+blurt	1	6	7
+boast	1	6	7	9
+boastful	1	3	7
+boggle	1	6	7
+bogus	1	3	7
+boil	1	6	7
+boiling	1	4	7
+boisterous	1	3	7
+bold	1	3	9
+boldly	1	4	9
+boldness	1	5	9
+bolster	1	6	9
+bombardment	1	3	5	7
+bombastic	1	3	7
+bondage	1	5	7
+bonkers	1	3	5	7
+bonny	1	3	9
+bore	1	6	7
+boredom	1	5	7
+boring	1	3	7
+botch	1	6	7
+bother	1	5	6	7
+bothersome	1	3	7
+boundless	1	3	9
+bountiful	1	3	9
+bowdlerize	1	6	7
+brag	1	5	6
+braggart	1	5	7
+bragger	1	5	7
+brains	1	3	5	9
+brainwash	1	6	7
+brainy	1	3	9
+brash	1	3	7
+brashly	1	7
+brashness	1	5	7
+brat	1	5	7
+bravado	1	5	7
+brave	1	3	6	9
+bravery	1	3	5	9
+brazen	1	7
+brazenly	1	7
+brazenness	1	5	7
+break-point	1	3	5	7
+breathlessness	1	3	5	9
+breathtaking	1	3	9
+breathtakingly	1	9
+brilliant	1	3	9
+brilliantly	1	9
+brimstone	1	3	5	7
+bristle	1	6	7
+broken-hearted	1	3	7
+brood	1	6	7
+brook	1	6	9
+browbeat	1	6	7
+brusque	1	3	7
+brutal	1	3	7
+brutalising	1	3	5	7
+brutalities	1	5	7
+brutality	1	5	7
+brutalize	1	6	7
+brutalizing	1	3	7
+brutally	1	7
+brute	1	5	7
+brutish	1	3	7
+bullies	1	3	5	7
+bully	1	3	5	7
+bullyingly	1	7
+bungle	1	6	7
+bungler	1	7
+burden	1	3	5	7
+burdensome	1	3	7
+burdensomely	1	7
+burn	1	6	7
+busybody	1	5	7
+butchery	1	5	7
+byzantine	1	3	7
+cackle	1	6	7
+cajole	1	6	7
+calamities	1	5	7
+calamitous	1	3	7
+calamitously	1	7
+calamity	1	5	7
+callous	1	3	7
+calming	1	9
+calumniate	1	6	7
+calumniation	1	5	7
+calumnies	1	5	7
+calumnious	1	3	7
+calumniously	1	7
+calumny	1	5	7
+candid	1	3	9
+candor	1	5	9
+cannibal	1	5	7
+cannibalize	1	6	7
+capricious	1	3	7
+capriciously	1	7
+capriciousness	1	5	7
+captivate	1	6	9
+captivating	1	3	9
+captivation	1	5	9
+carefree	1	3	9
+careless	1	3	7
+carelessness	1	5	7
+caricature	1	6	7
+carnage	1	5	7
+carp	1	6	7
+cartoonish	1	7
+castigate	1	6	7
+cataclysm	1	5	7
+cataclysmal	1	3	7
+cataclysmic	1	3	7
+cataclysmically	1	7
+catalyst	1	3	5	9
+catastrophe	1	5	7
+catastrophes	1	5	7
+catastrophic	1	3	7
+catastrophically	1	7
+catchy	1	3	9
+caustic	1	3	7
+caustically	1	7
+cautionary	1	3	7
+celebrate	1	6	9
+celebrated	1	3	9
+celebration	1	5	9
+celebratory	1	9
+censure	1	3	5	6	7
+certainly	1	8
+chafe	1	6	7
+chaff	1	6	7
+chagrin	1	5	6	7
+chaos	1	5	7
+chaotic	1	3	7
+charisma	1	5	7
+charismatic	1	3	9
+charm	1	3	5	6	9
+charming	1	3	9
+charmingly	1	3	9
+chaste	1	3	9
+chasten	1	6	7
+chastise	1	6	7
+chastisement	1	7
+chatter	1	6	7
+chatterbox	1	7
+cheapen	1	6	7
+cheap	1	3	7
+cheat	1	5	6	7
+cheater	1	7
+cheer	1	5	6	9
+cheery	1	3	9
+cheerful	1	3	9
+cheerless	1	3	7
+cherish	1	6	9
+cherished	1	3	9
+cherub	1	5	9
+chic	1	3	9
+chide	1	6	7
+childish	1	3	7
+chit	1	7
+chivalry	1	5	9
+chivalrous	1	3	9
+civility	1	5	9
+clear-cut	1	3	9
+clearer	1	3	5	9
+clearly	1	9
+clever	1	3	9
+cliche	1	7
+cliched	1	7
+closeness	1	3	5	9
+cloud	1	6	7
+clout	1	3	5	9
+clumsy	1	3	7
+coax	1	6	9
+cocky	1	3	7
+coerce	1	6	7
+coercion	1	5	7
+coercive	1	3	7
+cogent	1	3	9
+cogitate	1	6	8
+cognizant	1	5	8
+coherence	1	3	5	9
+coldly	1	4	7
+collude	1	6	7
+collusion	1	5	7
+comely	1	3	9
+comforting	1	9
+commend	1	6	9
+commendable	1	3	9
+commendably	1	4	9
+commiserate	1	6	7
+commotion	1	3	5	7
+compassion	1	5	9
+compassionate	1	3	9
+compel	1	6	7
+compelling	1	3	5	9
+compensate	1	6	9
+complacent	1	3	5	7
+complain	1	6	7
+complaining	1	3	5	7
+complaint	1	5	7
+complaints	1	3	5	7
+complement	1	2	5	6	9
+compliant	1	3	5	9
+complicit	1	3	7
+compliment	1	6	9
+complimentary	1	9
+comprehend	1	6	8
+compulsion	1	5	7
+compulsive	1	3	7
+comrades	1	3	5	9
+concede	1	6	7
+conceit	1	5	7
+conceited	1	3	7
+conceivable	1	3	5	9
+concern	1	2	3	5	6	7
+concerned	1	7
+concerns	1	3	5	7
+conciliate	1	6	9
+conciliatory	1	3	9
+concur	1	6	9
+condescend	1	6	7
+condescending	1	3	7
+condescendingly	1	4	7
+condescension	1	5	7
+condemn	1	6	7
+condemnable	1	3	7
+condemnation	1	5	7
+condolence	1	5	7
+condolences	1	3	5	7
+condone	1	6	9
+confess	1	6	7
+confession	1	5	7
+confessions	1	3	5	7
+confide	1	6	8
+confidence	1	3	5	9
+confident	1	3	9
+confrontation	1	3	5	7
+confuse	1	6	7
+confused	1	7
+confusing	1	3	7
+confusion	1	3	5	7
+confute	1	6	9
+congenial	1	3	9
+congratulate	1	6	9
+congratulations	1	3	5	9
+congratulatory	1	9
+conjecture	1	6	8
+conscientious	1	3	9
+consensus	1	5	9
+consent	1	6	9
+consequently	1	8
+consider	1	6	8
+considerable	1	3	8
+considerably	1	8
+considerate	1	3	9
+conspicuous	1	3	5	7
+conspicuously	1	7
+conspirator	1	3	5	7
+conspiratorial	1	7
+conspire	1	6	7
+constancy	1	5	9
+consternation	1	5	7
+consummate	1	3	9
+contemplate	1	6	8
+contempt	1	5	7
+contemptible	1	3	7
+contemptuous	1	3	7
+contemptuously	1	7
+contend	1	6	7
+content	1	2	3	6	9
+contention	1	5	7
+contentment	1	5	9
+contentious	1	3	5	7
+contort	1	6	7
+contortions	1	3	5	7
+contradict	1	6	7
+contradiction	1	5	7
+contradictory	1	3	7
+contrariness	1	7
+contrary	1	3	7
+contravene	1	6	7
+contrive	1	6	7
+contrived	1	7
+convenient	1	2	3	9
+conveniently	1	9
+convincing	1	3	5	9
+convincingly	1	9
+convoluted	1	3	7
+cornerstone	1	3	5	9
+correctly	1	9
+corrupt	1	3	6	7
+corruption	1	5	7
+counterproductive	1	3	7
+coupists	1	3	5	7
+courage	1	3	5	9
+courageous	1	3	9
+courageously	1	9
+courageousness	1	5	9
+court	1	6	9
+courteous	1	3	9
+courtesy	1	5	9
+courtly	1	3	9
+covet	1	6
+coveting	1	3
+covetingly	1
+covetous	1	3	7
+covetously	1
+coward	1	5	7
+cowardly	1	7
+cozy	1	3	9
+crafty	1	3	7
+cranky	1	3	7
+crass	1	3	7
+crave	1	6	9
+craven	1	7
+cravenly	1	7
+craving	1	5	9
+craze	1	5	7
+crazily	1	7
+craziness	1	5	7
+crazy	1	7
+creative	1	3	9
+credence	1	3	5	9
+credible	1	3	9
+credulous	1	3	7
+cringe	1	6	7
+cripple	1	6	7
+crippling	1	3	7
+critic	1	5	7
+critical	1	7
+criticism	1	3	5	7
+criticisms	1	3	5	7
+criticize	1	6	7
+critics	1	3	5	7
+crook	1	5	7
+crooked	1	3	7
+cross	1	3	7
+cruel	1	3	7
+cruelties	1	5	7
+cruelty	1	5	7
+crusade	1	3	5	9
+crusader	1	5	9
+cry	1	6	7
+culpable	1	3	7
+cuplrit	1	5	7
+cumbersome	1	3	7
+cure-all	1	3	5	9
+curious	1	9
+curiously	1	9
+curse	1	5	6	7
+cursed	1	3	7
+curses	1	5	7
+cuss	1	6	7
+cute	1	3	9
+cutthroat	1	3	7
+cynical	1	3	7
+cynicism	1	5	7
+damn	1	3	5	6	7
+damnable	1	7
+damnably	1	7
+damnation	1	7
+damned	1	7
+damning	1	7
+dangerousness	1	3	5	7
+dangle	1	6	7
+dare	1	6	9
+daring	1	9
+daringly	1	9
+darling	1	9
+darn	1	7
+dashing	1	3	9
+dastard	1	5	7
+dastardly	1	7
+daunt	1	6	7
+daunting	1	7
+dauntingly	1	7
+dauntless	1	3	9
+dawdle	1	6	7
+daydream	1	6	9
+daydreamer	1	9
+daze	1	6	7
+dazed	1	3	7
+dazzle	1	6	9
+dazzled	1	3	9
+dazzling	1	9
+deadbeat	1	3	7
+deadlock	1	5	6	7
+deadweight	1	3	7
+dear	1	3	9
+dearth	1	5	7
+debacle	1	5	7
+debase	1	6	7
+debasement	1	5	7
+debaser	1	5	7
+debatable	1	7
+debate	1	6	7
+debauch	1	6	7
+debaucher	1	5	7
+debauchery	1	5	7
+decadence	1	5	7
+decadent	1	3	7
+decay	1	5	6	7
+decayed	1	7
+deceit	1	5	7
+deceitful	1	7
+deceitfully	1	7
+deceitfulness	1	7
+deceiving	1	3	7
+deceive	1	6	7
+deceiver	1	5	7
+deceivers	1	5	7
+deception	1	3	5	7
+deceptive	1	3	5	7
+deceptively	1	7
+declaim	1	6	7
+decrepit	1	3	7
+decrepitude	1	5	7
+decry	1	6	7
+dedicated	1	3	9
+deduce	1	6	8
+deeply	1	8
+deepening	1	3	5	7
+defamation	1	5	7
+defamations	1	5	7
+defamatory	1	7
+defame	1	6	7
+defective	1	3	7
+defender	1	3	5	9
+deference	1	5	9
+defiance	1	3	5	7
+defiant	1	3	7
+defiantly	1	7
+defile	1	6	7
+defiler	1	5	7
+definitively	1	9
+defrauding	1	3	5	7
+deft	1	3	9
+defunct	1	3	7
+defy	1	6	7
+degenerate	1	3	6	7
+degenerately	1	7
+degeneration	1	5	7
+degradation	1	5	7
+degrade	1	6	7
+degrading	1	3	7
+degradingly	1	7
+dehumanization	1	5	7
+dehumanize	1	6	7
+deign	1	6	7
+deject	1	6	7
+dejected	1	3	7
+dejectedly	1	3	7
+dejection	1	5	7
+delectable	1	3	9
+delicious	1	3	9
+delight	1	5	6	9
+delighted	1	3	9
+delightful	1	3	9
+delightfully	1	9
+delightfulness	1	5	9
+delirious	1	3	7
+delirium	1	5	7
+delude	1	6	7
+deluded	1	3	7
+delusion	1	3	5	7
+delusional	1	3	7
+delusions	1	3	5	7
+demand	1	2	3	5	6
+demean	1	6	7
+demeaning	1	3	7
+demise	1	5	7
+demon	1	5	7
+demonic	1	3	7
+demonize	1	6	7
+demoralize	1	6	7
+demoralizing	1	7
+demoralizingly	1	7
+demystify	1	6	9
+denial	1	5	7
+denigrate	1	6	7
+deny	1	6	7
+denounce	1	6	7
+denunciate	1	6	7
+denunciation	1	5	7
+denunciations	1	5	7
+deplorable	1	3	7
+deplorably	1	7
+deplore	1	6	7
+deploring	1	3	7
+deploringly	1	7
+deprave	1	6	7
+depraved	1	3	7
+depravedly	1	7
+deprecate	1	6	7
+depressed	1	3	7
+depressing	1	3	7
+depressingly	1	7
+deprive	1	6	7
+deprived	1	3	7
+deride	1	6	7
+derision	1	5	7
+derisive	1	7
+derisively	1	7
+derisiveness	1	7
+derogatory	1	3	7
+desecrate	1	6	7
+deserve	1	6	9
+deserved	1	3	9
+deservedly	1	4	9
+deserving	1	3	9
+desert	1	6	7
+desertion	1	5	7
+desiccate	1	6	7
+desiccated	1	3	7
+desirable	1	3	9
+desire	1	3	5	6	9
+desirous	1	9
+desolate	1	3	7
+desolately	1	7
+desolation	1	5	7
+despair	1	5	6	7
+despairing	1	3	7
+despairingly	1	7
+desperate	1	3	7
+desperately	1	7
+desperation	1	5	7
+despicable	1	3	7
+despicably	1	7
+despise	1	6	7
+despised	1	3	7
+despite	1	7
+despoil	1	6	7
+despoiler	1	5	7
+despondence	1	5	7
+despondency	1	5	7
+despondent	1	3	7
+despondently	1	7
+despot	1	5	7
+despotic	1	3	7
+despotism	1	3	5	7
+destabilisation	1	3	5	7
+destinies	1	3	5	9
+destiny	1	2	3	5	8	9
+destitute	1	3	7
+destitution	1	5	7
+destroyer	1	3	5	7
+destructive	1	3	7
+desultory	1	3	7
+determination	1	3	5	9
+detest	1	6	7
+detestable	1	7
+detestably	1	7
+detriment	1	5	7
+detrimental	1	3	7
+devastate	1	7
+devastated	1	7
+devastating	1	7
+devastatingly	1	7
+devil	1	5	7
+devilish	1	3	7
+devilishly	1	7
+devilment	1	5	7
+devilry	1	5	7
+devious	1	7
+deviously	1	7
+deviousness	1	5	7
+devoid	1	3	7
+devote	1	6	9
+devoted	1	3	9
+devotee	1	5	9
+devotion	1	5	9
+dexterous	1	3	9
+dexterously	1	4	9
+dextrous	1	3	9
+diabolic	1	3	7
+diabolical	1	3	7
+diabolically	1	4	7
+diametrically	1	4	7
+diatribe	1	7
+diatribes	1	7
+difficulty	1	3	5	7
+diffidence	1	3	5	7
+dignified	1	3	9
+dignity	1	5	9
+digress	1	6	7
+dilapidated	1	3	7
+dilly-dally	1	6	7
+dim	1	2	3	7
+dire	1	3	7
+direly	1	7
+direness	1	5	7
+disaccord	1	5	7
+disadvantage	1	5	7
+disadvantageous	1	3	5	7
+disaffect	1	6	7
+disaffected	1	3	7
+disaffirm	1	6	7
+disagree	1	6	7
+disagreeable	1	7
+disagreeably	1	7
+disagreement	1	3	5	7
+disallow	1	6	7
+disappoint	1	6	7
+disappointed	1	3	7
+disappointing	1	7
+disappointingly	1	7
+disappointment	1	3	5	7
+disapprobation	1	5	7
+disapproval	1	3	5	7
+disapprove	1	7
+disapproving	1	7
+disarray	1	3	5	7
+disaster	1	5	7
+disastrous	1	3	7
+disastrously	1	7
+disavow	1	6	7
+disavowal	1	5	7
+disbelief	1	5	7
+disbelieve	1	6	7
+disbeliever	1	5	7
+discern	1	6	8
+discerning	1	9
+disclaim	1	6	7
+discombobulate	1	6	7
+discomfit	1	6	7
+discomfititure	1	5	7
+disconcert	1	6	7
+disconcerted	1	3	7
+disconcerting	1	7
+disconcertingly	1	7
+disconsolate	1	3	7
+disconsolately	1	4	7
+disconsolation	1	5	7
+discontent	1	3	5	7
+discontented	1	3	7
+discontentedly	1	4	7
+discontinuity	1	3	5	7
+discord	1	5	7
+discordance	1	5	7
+discordant	1	3	7
+discountenance	1	5	7
+discourage	1	6	7
+discouragement	1	5	7
+discouraging	1	7
+discouragingly	1	7
+discourteous	1	3	7
+discourteously	1	3	7
+discredit	1	6	7
+discriminatory	1	3	7
+disdain	1	5	6	7
+disdainful	1	7
+disdainfully	1	7
+disfavor	1	6	7
+disgrace	1	5	6	7
+disgraced	1	3	7
+disgraceful	1	7
+disgracefully	1	7
+disgruntle	1	6	7
+disgruntled	1	3	7
+disgust	1	5	6	7
+disgusted	1	3	7
+disgustedly	1	7
+disgustful	1	3	7
+disgustfully	1	7
+disgusting	1	7
+disgustingly	1	7
+dishearten	1	6	7
+disheartening	1	7
+dishearteningly	1	7
+dishonest	1	3	5	7
+dishonestly	1	7
+dishonesty	1	5	7
+dishonor	1	5	6	7
+dishonorable	1	3	7
+dishonorablely	1	4	7
+disillusion	1	5	6	7
+disillusioned	1	3	7
+disinclination	1	5	7
+disinclined	1	7
+disingenuous	1	3	7
+disingenuously	1	4	7
+disinterest	1	5	7
+disinterested	1	2	3	7
+dislike	1	6	7
+disloyal	1	3	5	7
+disloyalty	1	7
+dismal	1	3	7
+dismally	1	7
+dismalness	1	5	7
+dismay	1	5	6	7
+dismayed	1	3	7
+dismaying	1	7
+dismayingly	1	7
+dismissive	1	3	5	7
+dismissively	1	7
+disobedience	1	5	7
+disobedient	1	3	7
+disobey	1	6	7
+disown	1	6	7
+disorganized	1	3	7
+disorient	1	6	7
+disoriented	1	3	7
+disparage	1	6	7
+disparaging	1	3	7
+disparagingly	1	7
+dispirit	1	6	7
+dispirited	1	3	7
+dispiritedly	1	4	7
+dispiriting	1	7
+displease	1	6	7
+displeasing	1	3	7
+displeasure	1	3	5	7
+disposition	1	5	8
+disprove	1	6	7
+disputable	1	7
+dispute	1	5	6	7
+disputed	1	3	7
+disquiet	1	6	7
+disquieting	1	7
+disquietingly	1	7
+disquietude	1	5	7
+disregard	1	3	5	7
+disregardful	1	3	7
+disreputable	1	3	7
+disrepute	1	5	7
+disrespect	1	6	7
+disrespectable	1	3	7
+disrespectablity	1	5	7
+disrespectful	1	7
+disrespectfully	1	7
+disrespectfulness	1	5	7
+disrespecting	1	3	5	7
+disrupt	1	6	7
+disruption	1	3	5	7
+disruptive	1	3	7
+dissatisfaction	1	3	5	7
+dissatisfactory	1	3	7
+dissatisfied	1	3	7
+dissatisfy	1	6	7
+dissatisfying	1	7
+dissemble	1	6	7
+dissembler	1	5	7
+dissension	1	5	7
+dissent	1	3	5	7
+dissenter	1	5	7
+dissention	1	5	7
+disservice	1	3	5	7
+dissidence	1	5	7
+dissident	1	3	5	7
+dissidents	1	3	5	7
+dissocial	1	3	7
+dissolute	1	3	7
+dissonance	1	5	7
+dissonant	1	3	7
+dissonantly	1	4	7
+dissuade	1	6	7
+dissuasive	1	3	7
+distaste	1	5	7
+distasteful	1	3	7
+distastefully	1	4	7
+distinguished	1	3	9
+distort	1	6	7
+distortion	1	3	5	7
+distracting	1	3	7
+distraction	1	3	5	7
+distraught	1	3	7
+distraughtly	1	7
+distraughtness	1	5	7
+distress	1	6	7
+distressed	1	3	7
+distressing	1	3	7
+distressingly	1	7
+distrust	1	6	7
+distrustful	1	3	7
+distrusting	1	7
+disturb	1	6	7
+disturbed	1	3	7
+disturbed-let	1	3	5	7
+disturbing	1	7
+disturbingly	1	7
+disunity	1	5	7
+disvalue	1	5	7
+divine	1	3	9
+divinely	1	9
+divisive	1	3	7
+divisively	1	4	7
+divisiveness	1	5	7
+dizzy	1	3	7
+dizzing	1	3	7
+dizzingly	1	4	7
+doddering	1	3	7
+dodge	1	3	5	9
+dodgey	1	3	7
+dogged	1	3	7
+doggedly	1	4	7
+dogmatic	1	3	7
+doldrums	1	5	7
+domination	1	3	5	7
+domineer	1	6	7
+domineering	1	3	5	7
+doom	1	6	7
+doomsday	1	3	5	7
+dote	1	6	9
+dotingly	1	4	9
+doubt	1	5	6	7
+doubtful	1	3	7
+doubtfully	1	4	7
+doubtless	1	4	9
+doubts	1	3	5	7
+downbeat	1	3	7
+downcast	1	3	7
+downer	1	5	7
+downfall	1	5	7
+downfallen	1	5	7
+downhearted	1	3	7
+downheartedly	1	4	7
+downright	1	8
+downside	1	5	7
+drab	1	3	7
+draconian	1	3	7
+draconic	1	3	7
+dragon	1	5	7
+dragons	1	3	5	7
+dragoon	1	6	7
+drain	1	3	5	7
+drama	1	3	5	7
+dramatic	1	3	8
+dramatically	1	8
+drastic	1	3	7
+drastically	1	3	7
+dread	1	6	7
+dreadful	1	7
+dreadfully	1	7
+dreadfulness	1	5	7
+dream	1	2	3	5	6	9
+dreamland	1	5	9
+dreary	1	3	7
+drones	1	3	5	7
+drunk	1	3	7
+drunkard	1	5	7
+drunken	1	3	7
+dubious	1	3	7
+dubiously	1	4	7
+dubitable	1	3	7
+dullard	1	5	7
+dumb	1	3	5	7
+dumbfound	1	6	7
+dumbfounded	1	3	7
+dummy	1	5	7
+dunce	1	5	7
+dungeon	1	5	7
+dungeons	1	3	5	7
+dupe	1	6	7
+eager	1	3	9
+eagerly	1	9
+eagerness	1	5	9
+earnest	1	3	9
+earnestly	1	9
+earnestness	1	9
+earsplitting	1	3	7
+easygoing	1	3	9
+ebullience	1	5	9
+ebullient	1	3	9
+ebulliently	1	9
+eclectic	1	3	9
+ecstasies	1	5	9
+ecstasy	1	5	9
+ecstatic	1	3	9
+ecstatically	1	9
+edgy	1	3	7
+edify	1	6	9
+effigy	1	5	7
+effortless	1	3	9
+effortlessly	1	4	9
+effrontery	1	7
+effusion	1	5	9
+effusive	1	3	9
+effusively	1	9
+effusiveness	1	5	9
+ego	1	3	5	7
+egocentric	1	3	7
+egomania	1	5	7
+egotism	1	5	7
+egotistical	1	3	7
+egotistically	1	4	7
+egregious	1	3	7
+egregiously	1	7
+ejaculate	1	6	7
+elaborate	1	3	8
+elan	1	5	9
+elated	1	3	9
+elatedly	1	4	9
+elation	1	5	9
+election-rigger	1	3	5	7
+electrification	1	3	5	9
+elegance	1	5	9
+elegant	1	3	9
+elegantly	1	4	9
+eloquence	1	5	9
+eloquent	1	3	9
+eloquently	1	9
+emaciated	1	7
+emasculate	1	6	7
+embarrass	1	6	7
+embarrassing	1	7
+embarrassingly	1	7
+embarrassment	1	5	7
+embellish	1	6	9
+embodiment	1	5	8
+embrace	1	6	9
+embroil	1	6	7
+embroiled	1	3	7
+embroilment	1	5	7
+eminence	1	5	9
+eminent	1	3	9
+emotion	1	3	5	8
+emotional	1	3	7
+empathize	1	6	7
+empathy	1	5	7
+emphatic	1	7
+emphatically	1	7
+emptiness	1	3	5	7
+enchant	1	6	9
+enchanted	1	9
+enchanting	1	9
+enchantingly	1	9
+encouragement	1	3	5	9
+encouraging	1	3	5	9
+encouragingly	1	9
+endanger	1	6	7
+endear	1	6	9
+endearing	1	3	9
+endorse	1	6	9
+endorsement	1	3	5	9
+endorser	1	5	9
+endurable	1	3	9
+endure	1	6	9
+enduring	1	3	9
+enervate	1	6	7
+enfeeble	1	6	7
+enflame	1	6	7
+engaging	1	3	9
+engrossing	1	9
+enjoin	1	6	7
+enjoyable	1	3	9
+enjoyably	1	4	9
+enjoyment	1	5	9
+enmity	1	5	7
+ennoble	1	6	9
+enormities	1	5	7
+enormity	1	5	7
+enormous	1	7
+enormously	1	7
+enrage	1	6	7
+enraged	1	3	7
+enrapt	1	3	9
+enraptured	1	9
+enslave	1	6	7
+entertaining	1	3	9
+enthral	1	6	9
+enthrall	1	6	9
+enthralled	1	9
+enthuse	1	6	9
+enthusiasm	1	5	9
+enthusiast	1	5	9
+enthusiastic	1	3	9
+enthusiastically	1	4	9
+entice	1	6	9
+enticing	1	9
+enticingly	1	9
+entirely	1	8
+entranced	1	9
+entrancing	1	3	9
+entrap	1	6	7
+entrapment	1	5	7
+entreat	1	6	9
+entreatingly	1	9
+entrenchment	1	3	5	8
+enviable	1	3	9
+enviably	1	9
+envious	1	3	7
+enviously	1	7
+enviousness	1	5	7
+envy	1	5	6	7
+epic	1	3	9
+epitome	1	5	9
+equivocal	1	3	7
+err	1	6	7
+erratic	1	3	7
+erratically	1	4	7
+erroneous	1	3	7
+erroneously	1	7
+erudite	1	3	9
+eschew	1	6	7
+especially	1	9
+esteem	1	5	6	9
+estranged	1	3	7
+eternity	1	3	5	9
+ethical	1	3	9
+eulogize	1	6	9
+euphoria	1	5	9
+euphoric	1	3	9
+euphorically	1	9
+evaluate	1	6	8
+everlasting	1	3	9
+evidently	1	9
+evil	1	3	5	7
+evildoer	1	5	7
+evils	1	3	5	7
+eviscerate	1	6	7
+evocative	1	3	9
+exacerbate	1	6	7
+exact	1	3	8
+exactly	1	8
+exaggerate	1	6	7
+exaggeration	1	3	5	7
+exalt	1	3	6	9
+exaltation	1	5	9
+exalted	1	3	9
+exaltedly	1	4	9
+exalting	1	3	9
+exaltingly	1	9
+exasperate	1	6	7
+exasperation	1	5	7
+exasperating	1	3	7
+exasperatingly	1	7
+exceed	1	6	9
+exceeding	1	3	9
+exceedingly	1	9
+excel	1	6	9
+excellence	1	5	9
+excellency	1	5	9
+excellent	1	9
+excellently	1	9
+exceptional	1	9
+exceptionally	1	9
+excessive	1	3	7
+excessively	1	3	7
+excited	1	3	9
+excitedly	1	9
+excitedness	1	5	9
+excitement	1	5	9
+exciting	1	3	9
+excitingly	1	4	9
+exclaim	1	6	7
+excoriate	1	6	7
+excruciating	1	7
+excruciatingly	1	7
+excusable	1	3	5	9
+execrate	1	6	7
+exemplar	1	5	9
+exemplary	1	3	9
+exhilarate	1	6	9
+exhilarating	1	9
+exhilaratingly	1	9
+exhilaration	1	5	9
+exhort	1	6	7
+exonerate	1	6	9
+exorbitant	1	3	7
+exorbitantance	1	5	7
+exorbitantly	1	7
+expansive	1	3	9
+expertly	1	4	9
+expire	1	6	7
+explicit	1	3	9
+explicitly	1	4	9
+exploit	1	6	7
+exploitation	1	3	5	7
+expunge	1	6	7
+exquisite	1	3	9
+exquisitely	1	4	9
+extemporize	1	6	8
+extensively	1	8
+exterminate	1	6	7
+extermination	1	5	7
+extol	1	6	9
+extoll	1	6	9
+extortion	1	5	7
+extraordinarily	1	9
+extraordinary	1	9
+extravagance	1	5	7
+extravagant	1	3	7
+extravagantly	1	7
+extreme	1	2	3	7
+extremely	1	7
+exuberance	1	5	9
+exuberant	1	3	9
+exuberantly	1	9
+exult	1	6	9
+exultation	1	5	9
+exultingly	1	9
+fabrication	1	5	7
+fabulous	1	3	9
+fabulously	1	9
+facetious	1	3	7
+facetiously	1	4	7
+fact	1	8
+facts	1	8
+failing	1	5	7
+fainthearted	1	3	7
+faith	1	3	5	9
+faithful	1	3	5	9
+faithfully	1	9
+faithfulness	1	5	9
+faithless	1	3	7
+fake	1	3	7
+fallacies	1	3	5	7
+fallacious	1	3	7
+fallaciously	1	4	7
+fallaciousness	1	5	7
+fallacy	1	5	7
+fallout	1	5	7
+false	1	3	7
+falsehood	1	5	7
+falsely	1	7
+falsify	1	6	7
+falter	1	6	7
+fame	1	5	9
+famed	1	2	3	9
+famine	1	5	7
+famished	1	3	7
+famously	1	3	9
+fanatic	1	5	7
+fanatical	1	3	7
+fanatically	1	7
+fanaticism	1	5	7
+fanatics	1	5	7
+fanciful	1	3	7
+fancy	1	3	6	9
+fanfare	1	3	5	9
+fantastic	1	9
+fantastically	1	9
+fantasy	1	3	5	9
+far-fetched	1	3	7
+farfetched	1	3	7
+farce	1	5	7
+farcical	1	7
+farcical-yet-provocative	1	3	7
+farcically	1	7
+fascinate	1	6	9
+fascinating	1	9
+fascinatingly	1	9
+fascination	1	9
+fascism	1	3	5	7
+fascist	1	7
+fashionable	1	3	9
+fashionably	1	4	9
+fastidious	1	3	7
+fastidiously	1	4	7
+fastuous	1	3	7
+fatalistic	1	3	7
+fatalistically	1	4	7
+fateful	1	3	7
+fatefully	1	4	7
+fathomless	1	3	7
+fatuity	1	5	7
+fatuous	1	3	7
+fatuously	1	4	7
+fault	1	6	7
+favor	1	2	3	5	6	9
+favorable	1	3	9
+favorite	1	3	9
+fawn	1	6
+fawningly	1	4	7
+favour	1	5	9
+fear	1	5	6	7
+fearful	1	3	7
+fearfully	1	7
+fearless	1	3	9
+fearlessly	1	4	9
+fears	1	3	5	7
+fearsome	1	3	7
+featly	1	9
+feckless	1	3	7
+feebleminded	1	3	7
+feel	1	8
+feels	1	8
+felt	1	6	8
+feeling	1	3	5	6	8
+feelings	1	3	5	8
+feisty	1	3	5	9
+felicitate	1	6	9
+felicitous	1	3	9
+felicity	1	5	9
+fell	1	3	7
+ferocious	1	3	7
+ferociously	1	4	7
+ferocity	1	5	7
+fervent	1	3	9
+fervently	1	9
+fervid	1	3	9
+fervidly	1	9
+fervor	1	5	9
+festive	1	3	9
+fetid	1	3	7
+fiasco	1	5	7
+fib	1	5	6	7
+fibber	1	5	7
+fickle	1	3	7
+fictitious	1	3	7
+fidelity	1	5	9
+fidget	1	6	7
+fidgety	1	3	7
+fiend	1	5	7
+fiendish	1	3	7
+filth	1	5	7
+filthy	1	3	7
+finally	1	8
+finely	1	3	9
+first-rate	1	3	9
+fit	1	3	9
+fitting	1	3	9
+fixer	1	3	5	8
+flabbergast	1	6	7
+flabbergasted	1	7
+flagrant	1	7
+flagrantly	1	7
+flak	1	3	5	7
+flat-out	1	7
+flatter	1	6	9
+flattering	1	3	9
+flatteringly	1	4	9
+flaunt	1	6	7
+flawless	1	3	9
+flawlessly	1	4	9
+fleer	1	6	7
+flexible	1	3	9
+flighty	1	3	7
+flimflam	1	5	7
+flirt	1	6	7
+flirty	1	7
+floored	1	7
+flounder	1	6	7
+floundering	1	7
+flourish	1	3	9
+flourishing	1	3	9
+flout	1	6	7
+foe	1	5	7
+fond	1	3	9
+fondly	1	4	9
+fondness	1	5	9
+fool	1	7
+foolhardy	1	3	7
+foolish	1	7
+foolishly	1	7
+foolishness	1	5	7
+forbid	1	3	7
+forbidden	1	3	7
+foreboding	1	3	7
+forebodingly	1	4	7
+foremost	1	3	9
+forsee	1	5	8
+foresight	1	5	9
+foretell	1	6	8
+forgave	1	6	9
+forget	1	6	7
+forgetful	1	7
+forgetfully	1	7
+forgetfulness	1	5	7
+forgive	1	6	9
+forgiven	1	3	9
+forgiveness	1	5	9
+forgiving	1	9
+forgivingly	1	9
+forlorn	1	3	7
+forlornly	1	4	7
+formidable	1	3	7
+forsake	1	6	7
+forsaken	1	7
+forswear	1	6	7
+fortitude	1	5	9
+fortress	1	3	5	8
+fortuitous	1	3	9
+fortuitously	1	3	9
+fortunate	1	2	3	9
+fortunately	1	9
+fortune	1	3	5	9
+foul	1	2	3	4	6	7
+foully	1	4	7
+foulness	1	5	7
+fractious	1	3	7
+fractiously	1	7
+fragrant	1	3	9
+frank	1	3	9
+frankly	1	8
+frantic	1	3	7
+frantically	1	7
+franticly	1	7
+fraternize	1	6	7
+fraught	1	3	5	7
+freak	1	5	6	7
+freakish	1	3	7
+freakishly	1	7
+frazzle	1	5	6	7
+frazzled	1	3	7
+frenetic	1	3	7
+frenetically	1	7
+frenzied	1	3	7
+frenzy	1	5	7
+fret	1	6	7
+fretful	1	3	7
+friction	1	3	5	7
+frictions	1	3	5	7
+friendliness	1	3	5	9
+friendly	1	3	9
+friggin	1	7
+fright	1	5	7
+frighten	1	6	7
+frightening	1	3	7
+frighteningly	1	3	7
+frightful	1	3	7
+frightfully	1	7
+frivolous	1	3	7
+frolic	1	6	9
+frown	1	3	5	7
+fruitless	1	3	7
+fruitlessly	1	7
+fun	1	3	6	7	9
+frustrate	1	6	7
+frustrated	1	3	7
+frustrating	1	3	7
+frustratingly	1	7
+frustration	1	5	7
+fudge	1	3	5	6	7
+fulminate	1	6	7
+fume	1	6	7
+fundamental	1	3	8
+fundamentally	1	4	8
+funny	1	3	9
+furious	1	3	7
+furiously	1	7
+furor	1	5	7
+furthermore	1	8
+fury	1	5	7
+fuss	1	3	5	6	7
+fustigate	1	6	7
+fussy	1	7
+fusty	1	3	7
+futile	1	3	7
+futilely	1	7
+futility	1	5	7
+gabble	1	6	7
+gaff	1	5	7
+gaffe	1	5	7
+gaiety	1	5	9
+gaily	1	4	9
+gainful	1	3	9
+gainfully	1	4	9
+gainsay	1	6	7
+gainsayer	1	5	7
+gaga	1	7
+gaggle	1	6	7
+gall	1	6	7
+gallant	1	3	9
+gallantly	1	4	9
+galling	1	3	7
+gallingly	1	4	7
+galore	1	9
+gape	1	6	7
+garish	1	3	7
+gasp	1	3	5	7
+gauche	1	3	7
+gaudy	1	3	7
+gawk	1	6	7
+gawky	1	3	7
+geezer	1	7
+generosity	1	5	9
+generous	1	3	9
+generously	1	3	9
+genius	1	5	9
+genocide	1	3	5	7
+get-rich	1	3	5	7
+ghastly	1	3	7
+gibber	1	6	7
+gibberish	1	7
+gibe	1	6	7
+giddy	1	3	9
+gifted	1	3	9
+glad	1	3	9
+gladden	1	6	9
+gladly	1	4	9
+gladness	1	5	9
+glamorous	1	3	9
+glare	1	5	6	7
+glaring	1	3	7
+glaringly	1	4	7
+glean	1	6	8
+glee	1	5	9
+gleeful	1	9
+gleefully	1	9
+glib	1	3	7
+glibly	1	4	7
+glimmer	1	3	5	6	9
+glimmering	1	9
+glisten	1	3	6	9
+glistening	1	9
+glitter	1	3	6	9
+gloat	1	6
+gloatingly	1	4	7
+gloom	1	5	7
+gloomy	1	3	7
+glorify	1	6	9
+glorious	1	3	9
+gloriously	1	9
+glory	1	5	6	9
+gloss	1	6	7
+glossy	1	3	9
+glow	1	6	9
+glower	1	6	7
+glowing	1	9
+glowingly	1	9
+glum	1	3	7
+goad	1	6	7
+goading	1	3	7
+god-awful	1	7
+god-given	1	9
+goddam	1	7
+goddamn	1	7
+godlike	1	9
+goodness	1	5	9
+goodwill	1	3	5	9
+goof	1	5	6	7
+gorgeous	1	3	9
+gorgeously	1	9
+gossip	1	3	5	6	7
+grace	1	5	9
+graceful	1	3	9
+gracefully	1	4	9
+graceless	1	3	7
+gracelessly	1	4	7
+gracious	1	3	9
+graciously	1	4	9
+graciousness	1	5	9
+grandeur	1	5	9
+grandiose	1	3	7
+grate	1	6	7
+grateful	1	3	9
+gratefully	1	9
+gratification	1	5	9
+gratify	1	6	9
+gratifying	1	9
+gratifyingly	1	9
+grating	1	3	7
+gratitude	1	3	5	9
+gratuitous	1	3	5	7
+gratuitously	1	7
+grave	1	3	7
+gravely	1	4	7
+great	1	3	9
+greatest	1	3	9
+greatly	1	4	8
+greatness	1	5	9
+greed	1	5	7
+greedy	1	3	7
+greet	1	6	9
+grief	1	5	7
+grievance	1	5	7
+grievances	1	3	5	7
+grieve	1	6	7
+grieving	1	3	7
+grievous	1	7
+grievously	1	7
+grim	1	3	7
+grimace	1	6	7
+grin	1	9
+grind	1	3	5	7
+gripe	1	5	6	7
+grisly	1	3	7
+grit	1	3	5	9
+grossly	1	7
+grotesque	1	3	7
+grouch	1	5	7
+grouchy	1	3	7
+groundbreaking	1	3	5	9
+groundless	1	3	7
+grouse	1	6	7
+growl	1	6	7
+grudge	1	7
+grudges	1	3	5	7
+grudging	1	7
+grudgingly	1	7
+gruesome	1	7
+gruesomely	1	7
+gruff	1	3	7
+grumble	1	6	7
+guile	1	5	7
+guilt	1	5	7
+guiltless	1	3	9
+guiltily	1	4	7
+gullible	1	3	7
+gumption	1	5	9
+gusto	1	5	9
+gutsy	1	3	9
+haggard	1	3	7
+haggle	1	6	7
+hail	1	6	9
+halcyon	1	3	9
+hale	1	3	9
+halfhearted	1	3	7
+halfheartedly	1	3	7
+hallowed	1	3	9
+hallucinate	1	6	7
+hallucination	1	5	7
+hamper	1	6	7
+hamstring	1	6	7
+hamstrung	1	6	7
+handily	1	4	9
+handsome	1	3	9
+handy	1	3	9
+hanker	1	6	9
+hapless	1	3	7
+happily	1	4	9
+happiness	1	5	9
+happy	1	3	9
+harangue	1	6	7
+harassment	1	3	5	7
+hard-line	1	3	7
+hard-liner	1	5	7
+hardball	1	3	5	7
+hardheaded	1	3	7
+hardhearted	1	3	7
+hardier	1	3	5	9
+hardly	1	7
+hardship	1	5	7
+hardships	1	3	5	7
+harm	1	3	5	7
+harmful	1	3	7
+harmless	1	3	9
+harmonious	1	3	9
+harmoniously	1	9
+harmonize	1	6	9
+harmony	1	3	5	9
+harms	1	3	5	7
+harpy	1	5	7
+harridan	1	5	7
+harried	1	3	7
+harrow	1	6	7
+harsh	1	3	7
+harshly	1	7
+hassle	1	5	7
+haste	1	3	5	7
+hasty	1	2	3	7
+hate	1	6	7
+hater	1	5	7
+hateful	1	3	7
+hatefully	1	7
+hatefulness	1	5	7
+haughtily	1	4	7
+haughty	1	3	7
+hatred	1	5	7
+haunting	1	3	7
+haven	1	5	9
+havoc	1	5	7
+hawkish	1	3	5	7
+heady	1	3	9
+healthful	1	3	9
+heartbreak	1	5	7
+heartbreaker	1	5	7
+heartbreaking	1	3	7
+heartbreakingly	1	4	7
+hearten	1	6	9
+heartening	1	3	9
+heartfelt	1	3	9
+heartily	1	3	9
+heartless	1	3	7
+heartrending	1	3	7
+heartwarming	1	3	9
+heathen	1	3	5	7
+heavenly	1	9
+heavily	1	4	7
+heavy-handed	1	3	7
+heavyhearted	1	3	7
+heck	1	3	5	7
+heckle	1	6	7
+hedge	1	6	7
+hedonistic	1	3	7
+heedless	1	3	7
+hegemonistic	1	3	7
+hegemony	1	2	3	5	7
+heinous	1	3	7
+hell	1	5	7
+hell-bent	1	3	7
+hellion	1	7
+herald	1	9
+heresy	1	5	7
+heretic	1	5	7
+heretical	1	3	7
+hero	1	5	9
+heroic	1	3	9
+heroically	1	9
+heroine	1	5	9
+heroize	1	6	9
+heros	1	5	9
+hesitant	1	3	7
+hideous	1	3	7
+hideously	1	4	7
+hideousness	1	5	7
+highlight	1	5	6	9
+hilarious	1	3	9
+hilariously	1	9
+hilariousness	1	5	9
+hilarity	1	5	9
+hinder	1	6	7
+hindrance	1	5	7
+hm	1	8
+hmm	1	8
+hoard	1	6	7
+hoax	1	6	7
+hollow	1	3	7
+homage	1	5	9
+honest	1	2	3	5	9
+honestly	1	9
+honesty	1	3	5	9
+honor	1	2	3	5	6	9
+honorable	1	9
+hoodwink	1	6	7
+hope	1	3	5	6	9
+hopeful	1	9
+hopefully	1	9
+hopefulness	1	5	9
+hopeless	1	3	7
+hopelessly	1	7
+hopelessness	1	5	7
+hopes	1	3	5	9
+horrendous	1	3	7
+horrendously	1	7
+horrible	1	3	7
+horribly	1	7
+horrid	1	3	7
+horrific	1	3	7
+horrifically	1	7
+horrify	1	3	6	7
+horrifying	1	7
+horrifyingly	1	7
+horror	1	5	7
+horrors	1	5	7
+hospitable	1	3	9
+hostility	1	3	5	7
+hothead	1	5	7
+hotheaded	1	3	7
+hotbeds	1	3	5	7
+hubris	1	5	7
+huckster	1	5	7
+hug	1	3	5	9
+humane	1	3	5	9
+humankind	1	5	9
+humble	1	6	9
+humbling	1	7
+humiliate	1	6	7
+humiliating	1	3	7
+humiliation	1	5	7
+humility	1	5	9
+humor	1	6	9
+humorous	1	9
+humorously	1	9
+humour	1	3	5	9
+humourous	1	9
+hunger	1	6	7
+hypocrisy	1	5	7
+hypocrite	1	5	7
+hypocrites	1	5	7
+hypocritical	1	3	7
+hypocritically	1	5	7
+hysteria	1	5	7
+hysteric	1	3	7
+hysterical	1	7
+hysterically	1	7
+hysterics	1	5	7
+ideal	1	3	5	9
+idealize	1	6	9
+ideally	1	9
+idiocies	1	7
+idiocy	1	7
+idiot	1	7
+idiotic	1	7
+idiotically	1	7
+idiots	1	7
+idol	1	3	5	9
+idolize	1	6	9
+idolized	1	3	9
+idyllic	1	9
+ignoble	1	3	7
+ignominious	1	3	7
+ignominiously	1	4	7
+ignominy	1	5	7
+ignorance	1	3	5	7
+ignorant	1	3	5	7
+ill-advised	1	3	7
+ill-conceived	1	3	7
+ill-fated	1	3	7
+ill-favored	1	3	7
+ill-mannered	1	3	7
+ill-natured	1	3	7
+ill-sorted	1	3	7
+ill-tempered	1	3	7
+ill-treated	1	3	7
+ill-treatment	1	3	5	7
+ill-usage	1	5	7
+ill-used	1	3	7
+illogic	1	5	7
+illogical	1	3	7
+illogically	1	4	7
+illuminate	1	6	9
+illuminati	1	3	5	9
+illuminating	1	9
+illumine	1	6	9
+illusion	1	3	5	7
+illusions	1	3	5	7
+illusory	1	3	7
+illustrious	1	3	9
+imaginary	1	3	7
+imagination	1	3	5	8
+imaginative	1	3	9
+imagine	1	6	8
+imbalance	1	3	5	7
+imbecile	1	7
+imbroglio	1	5	7
+immaculate	1	3	9
+immaculately	1	4	9
+immaterial	1	3	7
+immediately	1	8
+immensely	1	8
+immensity	1	5	8
+immensurable	1	5	8
+imminence	1	5	7
+imminent	1	3	7
+imminently	1	4	7
+immoderate	1	3	7
+immoderately	1	4	7
+immodest	1	3	7
+immoral	1	3	7
+immorality	1	5	7
+immorally	1	7
+immovable	1	3	7
+impair	1	6	7
+impaired	1	3	7
+impasse	1	5	7
+impassioned	1	3	9
+impatience	1	5	7
+impatient	1	3	7
+impatiently	1	4	7
+impeach	1	6	7
+impeccable	1	3	9
+impeccably	1	9
+impede	1	6	7
+impedance	1	5	7
+impediment	1	5	7
+impel	1	6	9
+impending	1	3	5	7
+impenitent	1	3	7
+imperative	1	3	8
+imperatively	1	4	8
+imperialist	1	5	7
+imperil	1	6	7
+imperious	1	3	7
+imperiously	1	4	7
+impertinent	1	3	7
+imperturbable	1	3	9
+impervious	1	3	9
+impetuous	1	3	7
+impetuously	1	7
+impiety	1	5	7
+impinge	1	6	7
+impious	1	3	7
+implacable	1	3	7
+implausible	1	3	7
+implausibly	1	7
+implode	1	6	7
+implore	1	6
+imploring	1	3
+imploringly	1
+imply	1	6	8
+impolite	1	3	7
+impolitely	1	4	7
+impolitic	1	3	7
+importunate	1	3	7
+importune	1	6	7
+impose	1	6	7
+imposers	1	3	5	7
+imposition	1	3	5	7
+impotent	1	3	5	7
+impractical	1	3	5	7
+imprecate	1	6	7
+impregnable	1	3	9
+impressive	1	3	9
+impressively	1	9
+impressiveness	1	5	9
+improbability	1	5	7
+improbable	1	3	7
+improbably	1	4	7
+improper	1	3	7
+improperly	1	4	7
+impropriety	1	5	7
+improvise	1	6	9
+imprudence	1	5	7
+imprudent	1	3	7
+impudence	1	5	7
+impudent	1	3	7
+impudently	1	7
+impugn	1	6	7
+impulsive	1	3	7
+impulsively	1	4	7
+impure	1	3	7
+impurity	1	5	7
+inaccurate	1	3	7
+inaccurately	1	4	7
+inane	1	3	7
+inanely	1	4	7
+inappropriate	1	3	7
+inappropriately	1	4	7
+inapt	1	3	7
+inaptitude	1	5	7
+inarguable	1	3	8
+inarguably	1	4	8
+inarticulate	1	3	7
+inattentive	1	3	7
+incapable	1	3	7
+incapably	1	4	7
+incautious	1	3	7
+incendiary	1	7
+incessant	1	3	7
+incessantly	1	4	7
+incisive	1	3	9
+incisively	1	9
+incisiveness	1	5	9
+incivility	1	5	7
+inclination	1	3	5	9
+inclinations	1	9
+inclined	1	3	9
+incognizant	1	3	7
+incoherence	1	5	7
+incoherent	1	3	7
+incoherently	1	3	7
+incommensurate	1	3	7
+incompetence	1	5	7
+incompetent	1	3	7
+incompetently	1	4	7
+incomprehensible	1	3	7
+incomprehension	1	5	7
+inconceivable	1	3	7
+inconceivably	1	4	7
+incongruous	1	3	7
+incongruously	1	4	7
+inconsequent	1	3	7
+inconsequently	1	4	7
+inconsequential	1	3	7
+inconsequentially	1	4	7
+inconsiderate	1	3	7
+inconsiderately	1	4	7
+inconsistence	1	5	7
+inconsistencies	1	3	5	7
+inconsolable	1	3	7
+inconsolably	1	7
+inconstant	1	3	7
+incontestable	1	3	9
+incontrovertible	1	3	9
+inconvenience	1	3	5	7
+inconvenient	1	7
+inconveniently	1	7
+incorrectly	1	7
+incorrigible	1	3	7
+incorrigibly	1	4	7
+incorruptible	1	3	9
+incredible	1	9
+incredibly	1	9
+incredulous	1	3	7
+incredulously	1	7
+inculcate	1	6	7
+indecency	1	5	7
+indecent	1	3	7
+indecently	1	7
+indecision	1	5	7
+indecisive	1	3	7
+indecisively	1	4	7
+indecorum	1	5	7
+indeed	1	8
+indefatigable	1	3	9
+indefensible	1	3	5	7
+indelible	1	3	9
+indelibly	1	3	9
+indelicate	1	3	7
+indescribable	1	3	9
+indescribably	1	4	9
+indestructible	1	3	9
+indicative	1	3	5	8
+indifference	1	5	7
+indifferent	1	3	7
+indignant	1	3	7
+indignantly	1	7
+indignation	1	5	7
+indignity	1	3	5	7
+indiscreet	1	3	5	7
+indiscreetly	1	4	7
+indiscretion	1	7
+indiscriminate	1	3	7
+indiscriminating	1	3	7
+indiscriminately	1	4	7
+indispensable	1	3	9
+indispensability	1	5	9
+indisposed	1	3	7
+indisputable	1	3	9
+indoctrinate	1	7
+indoctrination	1	3	5	7
+indolent	1	3	7
+indomitable	1	3	9
+indomitably	1	3	9
+indubitable	1	9
+indubitably	1	9
+indulge	1	6	7
+indulgence	1	5	9
+indulgent	1	3	9
+inefficacious	1	3	5	7
+inefficacy	1	5	7
+inelegance	1	5	7
+inelegant	1	3	7
+ineloquent	1	3	7
+ineloquently	1	4	7
+inept	1	3	7
+ineptitude	1	5	7
+ineptly	1	7
+inequality	1	3	5	7
+inequitable	1	3	7
+inequitably	1	4	7
+inequities	1	3	5	7
+inescapable	1	3	7
+inescapably	1	3	7
+inessential	1	3	7
+inestimable	1	3	9
+inestimably	1	4	9
+inevitable	1	3	5	7
+inevitably	1	4	7
+inexcusable	1	3	7
+inexcusably	1	4	7
+inexorable	1	3	7
+inexorably	1	4	7
+inexpiable	1	3	7
+inexplainable	1	3	7
+inexplicable	1	3	7
+inextricable	1	3	7
+inextricably	1	4	7
+infallible	1	3	9
+infallibly	1	4	9
+infallibility	1	5	9
+infamous	1	3	7
+infamously	1	4	7
+infamy	1	5	7
+infatuated	1
+infer	1	6	8
+inferior	1	3	7
+inferiority	1	5	7
+infernal	1	3	7
+infidel	1	5	7
+infidels	1	5	7
+infirm	1	3	7
+inflame	1	6	7
+inflammatory	1	3	7
+inflexible	1	3	7
+inflict	1	6	7
+infringe	1	6	7
+infringement	1	5	7
+infringements	1	3	5	7
+infuriate	1	6	7
+infuriated	1	3	7
+infuriating	1	7
+infuriatingly	1	7
+ingenious	1	3	9
+ingeniously	1	9
+ingenuity	1	5	9
+ingenuous	1	3	9
+ingenuously	1	4	9
+inglorious	1	3	7
+ingrate	1	5	7
+ingratiate	1	6	9
+ingratiating	1	3	9
+ingratiatingly	1	4	9
+ingratitude	1	5	7
+inherent	1	3	5	8
+inhospitable	1	3	7
+inhospitality	1	5	7
+inhuman	1	3	7
+inhumane	1	3	7
+inhumanity	1	5	7
+inimical	1	3	7
+inimically	1	4	7
+iniquitous	1	3	7
+iniquity	1	5	7
+injudicious	1	3	7
+injustice	1	3	5	7
+injustices	1	3	5	7
+inkling	1	8
+inklings	1	3	5	8
+innocuous	1	3	5	9
+innuendo	1	3	5	7
+inoffensive	1	3	9
+inopportune	1	3	7
+inordinate	1	3	7
+inordinately	1	7
+inquisitive	1	3	9
+insane	1	3	7
+insanely	1	7
+insanity	1	5	7
+insatiable	1	3	7
+insecurity	1	3	5	7
+insensitive	1	3	7
+insensitively	1	4	7
+insensitivity	1	3	5	7
+insidious	1	3	7
+insidiously	1	7
+insight	1	3	5	9
+insightful	1	9
+insightfully	1	9
+insights	1	8
+insincere	1	3	7
+insincerely	1	4	7
+insincerity	1	5	7
+insinuate	1	6	7
+insinuating	1	3	7
+insinuation	1	3	5	7
+insist	1	6	9
+insistent	1	3	9
+insistently	1	9
+insociable	1	3	7
+insolence	1	5	7
+insolent	1	3	7
+insolently	1	7
+insouciance	1	5	7
+inspiration	1	5	9
+inspirational	1	3	9
+inspire	1	6	9
+inspiring	1	3	9
+instigate	1	6	7
+instigator	1	5	7
+instigators	1	5	7
+insubstantial	1	3	7
+insubstantially	1	4	7
+insufferable	1	3	7
+insufferably	1	4	7
+insult	1	5	6	7
+insulted	1	3	7
+insulting	1	3	7
+insultingly	1	7
+insupportable	1	3	7
+insupportably	1	4	7
+integrity	1	5	9
+intelligent	1	3	9
+intelligible	1	3	9
+interesting	1	9
+intimacy	1	3	5	9
+intimate	1	2	3	6	8	9
+intimidating	1	7
+intimidatingly	1	7
+intolerable	1	3	7
+intolerablely	1	7
+intolerance	1	3	5	7
+intolerant	1	7
+intransigence	1	3	5	7
+intransigent	1	7
+intrigue	1	2	3	5	6	8	9
+intriguing	1	3	9
+intriguingly	1	9
+intrude	1	6	7
+intrusive	1	3	7
+intuitive	1	3	9
+inundate	1	6	7
+inundated	1	7
+invalid	1	3	7
+invalidate	1	6	7
+invalidity	1	5	7
+invaluable	1	3	9
+invaluablely	1	9
+invective	1	7
+inveigle	1	6	7
+invidious	1	3	7
+invidiously	1	7
+invidiousness	1	5	7
+invigorating	1	9
+invincibility	1	9
+invincible	1	3	9
+inviolable	1	3	9
+inviolate	1	3	9
+invulnerable	1	3	9
+irate	1	3	7
+irately	1	7
+ire	1	5	7
+irk	1	6	7
+irksome	1	7
+ironic	1	3	7
+ironies	1	3	5	7
+irony	1	7
+irrational	1	3	7
+irrationality	1	5	7
+irrationally	1	7
+irreconcilable	1	3	7
+irredeemable	1	3	7
+irredeemably	1	4	7
+irreformable	1	3	7
+irrefutable	1	3	9
+irrefutably	1	9
+irregardless	1	8
+irrelevance	1	5	7
+irrelevant	1	3	7
+irreparable	1	3	7
+irreplacible	1	3	7
+irrepressible	1	3	7
+irreproachable	1	3	9
+irresistible	1	3	9
+irresistibly	1	9
+irresolute	1	3	7
+irresponsible	1	3	7
+irresponsibly	1	4	7
+irreverence	1	5	7
+irreverent	1	3	7
+irreverently	1	4	7
+irreversible	1	3	5	7
+irritable	1	3	7
+irritably	1	4	7
+irritate	1	6	7
+irritated	1	3	7
+irritating	1	7
+irritation	1	3	5	7
+itch	1	6	7
+jabber	1	6	7
+jaded	1	3	7
+jaundiced	1	3	7
+jauntily	1	4	9
+jaunty	1	3	9
+jealous	1	3	7
+jealously	1	7
+jealousness	1	5	7
+jealousy	1	5	7
+jeer	1	5	6	7
+jeering	1	7
+jeeringly	1	7
+jeers	1	5	7
+jeopardize	1	6	7
+jeopardy	1	5	7
+jerk	1	7
+jest	1	6	9
+jittery	1	3	7
+joke	1	5	6	9
+joker	1	5	7
+jolly	1	9
+jovial	1	3	9
+joy	1	5	9
+joyful	1	3	9
+joyfully	1	9
+joyless	1	3	9
+joyous	1	9
+joyously	1	9
+jubilant	1	3	9
+jubilantly	1	9
+jubilate	1	6	9
+jubilation	1	5	9
+judicious	1	3	9
+just	1	2	3	5	9
+justifiable	1	3	9
+justifiably	1	9
+justification	1	5	9
+justify	1	6	9
+justly	1	9
+kaput	1	3	7
+keen	1	3	5	6	7	9
+keenly	1	9
+keenness	1	3	5	9
+kemp	1	3	9
+kick	1	3	5	7
+kid	1	6	9
+killjoy	1	5	7
+kind	1	3	9
+kindly	1	9
+kindliness	1	5	9
+kindness	1	5	9
+kingmaker	1	5	9
+knave	1	5	7
+knew	1	6	8
+know	1	6	8
+knowing	1	8
+knowingly	1	8
+knowledge	1	5	8
+knowledgeable	1	9
+kook	1	5	7
+kooky	1	3	7
+lack	1	3	5	7
+lackadaisical	1	3	7
+lackey	1	5	7
+lackeys	1	3	5	7
+lacking	1	3	7
+lackluster	1	7
+laconic	1	3	7
+lambast	1	6	7
+lambaste	1	6	7
+lame-duck	1	3	7
+lament	1	6	7
+lamentable	1	7
+lamentably	1	7
+languid	1	3	7
+languish	1	6	7
+languor	1	5	7
+languorous	1	3	7
+languorously	1	4	7
+lark	1	6	9
+lascivious	1	3	7
+last-ditch	1	3	5	7
+lastly	1	8
+laud	1	6	9
+laudable	1	9
+laudably	1	9
+laugh	1	5	6	7
+laughable	1	7
+laughably	1	7
+laughingstock	1	5	7
+laughter	1	5	7
+lavish	1	3	6	9
+lavishly	1	9
+law-abiding	1	3	9
+lawbreaker	1	3	7
+lawbreaking	1	7
+lawless	1	3	7
+lawlessness	1	3	5	7
+lax	1	3	5	7
+lazy	1	3	7
+lech	1	5	7
+lecher	1	5	7
+lecherous	1	3	7
+lechery	1	5	7
+leech	1	3	5	6	7
+leer	1	5	6	7
+leery	1	3	7
+left-leaning	1	3	7
+letch	1	5	7
+levity	1	5	9
+lewd	1	3	7
+lewdly	1	4	7
+lewdness	1	5	7
+liability	1	3	5	7
+liar	1	3	5	7
+liars	1	3	5	7
+liberate	1	6	9
+liberty	1	5	9
+licentious	1	3	7
+licentiously	1	4	7
+licentiousness	1	5	7
+lie	1	2	3	5	6	7
+lier	1	5	7
+lies	1	3	5	7
+lifeblood	1	5	9
+light-hearted	1	3	9
+likable	1	3	9
+like	1	6	9
+liking	1	5	9
+likewise	1	8
+limitless	1	3	5	8
+limp	1	3	7
+lionhearted	1	3	9
+listless	1	3	7
+litigious	1	3	7
+little	1	3	7
+little-known	1	3	7
+lively	1	3	9
+livid	1	7
+lividly	1	7
+loath	1	3	7
+loathe	1	3	6	7
+loathing	1	7
+loathly	1	7
+loathsome	1	3	7
+loathsomely	1	7
+lofty	1	3	9
+lone	1	3	5	7
+loneliness	1	5	7
+lonely	1	3	7
+lonesome	1	3	7
+long	1	6	7
+longing	1	5	7
+longingly	1	7
+loophole	1	5	7
+loopholes	1	3	5	7
+loot	1	6	7
+lorn	1	3	7
+losing	1	3	5	7
+lousy	1	3	7
+lovable	1	3	9
+lovably	1	4	9
+love	1	5	6	9
+loveless	1	3	7
+loveliness	1	5	9
+lovelorn	1	3	7
+lover	1	5	9
+lovely	1	3	9
+low-rated	1	3	7
+lowly	1	3	7
+loyalty	1	3	5	9
+lucid	1	3	9
+lucidly	1	3	9
+luck	1	5	9
+luckier	1	3	5	9
+luckiest	1	9
+luckily	1	3	9
+luckiness	1	5	9
+lucky	1	3	5	9
+ludicrous	1	3	7
+ludicrously	1	7
+lugubrious	1	3	7
+lukewarm	1	3	7
+lunatic	1	3	5	7
+lunaticism	1	5	7
+lurch	1	6	7
+lure	1	6	7
+lurid	1	3	7
+lurk	1	6	7
+lurking	1	3	7
+lush	1	3	9
+lust	1	6
+luster	1	5	9
+lustrous	1	3	9
+luxuriant	1	3	9
+luxurious	1	9
+luxuriously	1	9
+luxury	1	3	5	9
+lying	1	7
+lyrical	1	3	9
+macabre	1	3	7
+mad	1	3	7
+madden	1	6	7
+maddening	1	7
+maddeningly	1	7
+madder	1	3	5	7
+madly	1	7
+madman	1	5	7
+madness	1	5	7
+magic	1	3	9
+magical	1	3	9
+magnanimous	1	9
+magnanimously	1	9
+magnificence	1	9
+magnificent	1	3	9
+magnificently	1	9
+majestic	1	3	9
+majesty	1	5	9
+maladjusted	1	3	7
+maladjustment	1	5	7
+malcontent	1	3	5	7
+malcontented	1	3	7
+maledict	1	5	6	7
+malevolence	1	5	7
+malevolent	1	3	7
+malevolently	1	7
+malice	1	5	7
+malicious	1	3	7
+maliciously	1	7
+maliciousness	1	5	7
+malign	1	3	6	7
+malodorous	1	3	7
+maltreatment	1	3	5	7
+mangle	1	6	7
+mania	1	5	7
+maniac	1	5	7
+maniacal	1	3	7
+manic	1	3	7
+manifest	1	3	9
+manipulative	1	3	7
+manipulators	1	3	5	7
+manly	1	3	9
+mannerly	1	3	9
+mantra	1	3	5	8
+mar	1	5	6	7
+martyrdom	1	5	7
+martyrdom-seeking	1	3	7
+marvel	1	5	6	9
+marvellous	1	3	9
+marvelous	1	3	9
+marvelously	1	9
+marvelousness	1	5	9
+marvels	1	5	9
+massacre	1	5	6	7
+massacres	1	5	7
+master	1	3	5	9
+masterful	1	3	9
+masterfully	1	4	9
+masterpiece	1	5	9
+masterpieces	1	5	9
+masters	1	3	5	9
+mastery	1	5	9
+matchless	1	3	9
+maverick	1	3	7
+mawkish	1	7
+mawkishly	1	7
+mawkishness	1	7
+maxi-devaluation	1	3	5	7
+maximize	1	6	9
+maybe	1	8
+meager	1	3	7
+mean	1	2	3	6	7	8
+meaningful	1	3	9
+meaningless	1	3	7
+meanness	1	5	7
+meddle	1	6	7
+meddlesome	1	7
+mediocre	1	3	7
+mediocrity	1	5	7
+meek	1	3	9
+melancholy	1	3	7
+mellow	1	3	9
+melodramatic	1	3	7
+melodramatically	1	4	7
+memorable	1	3	9
+memorialize	1	6	9
+menace	1	5	6	7
+menacing	1	7
+menacingly	1	7
+mendacious	1	3	7
+mendacity	1	5	7
+mentality	1	5	8
+merciful	1	9
+mercifully	1	9
+merciless	1	3	7
+mercilessly	1	4	7
+mercy	1	3	5	9
+mere	1	3	7
+merely	1	7
+merit	1	5	6	9
+meritorious	1	3	9
+merrily	1	3	9
+merriment	1	5	9
+merriness	1	5	9
+merry	1	3	9
+mesmerize	1	6	9
+mesmerizing	1	9
+mesmerizingly	1	9
+mess	1	3	5	7
+metaphorize	1	6	8
+midget	1	3	5	7
+might	1	2	5	8	9
+mightily	1	9
+mighty	1	9
+militancy	1	3	5	7
+mindful	1	3	9
+mindless	1	7
+mindlessly	1	7
+miracle	1	5	9
+miracles	1	5	9
+miraculous	1	3	9
+miraculously	1	9
+miraculousness	1	5	9
+mirage	1	3	5	7
+mire	1	5	6	7
+mirth	1	5	9
+misbecoming	1	3	7
+misbecome	1	6	7
+misbegotten	1	3	7
+misbehave	1	6	7
+misbehavior	1	5	7
+mischief	1	3	5	7
+mischievous	1	7
+mischievously	1	7
+misconception	1	7
+misconceptions	1	3	5	7
+miscreant	1	5	7
+miscreants	1	5	7
+misdirection	1	5	7
+miser	1	5	7
+miserly	1	7
+miserable	1	3	7
+miserableness	1	5	7
+miserably	1	7
+miseries	1	5	7
+misery	1	5	7
+misfit	1	5	7
+misfortune	1	5	7
+misgiving	1	5	7
+misgivings	1	5	7
+misguidance	1	5	7
+misguide	1	6	7
+misguided	1	3	7
+mishandle	1	6	7
+mishap	1	5	7
+misinform	1	6	7
+misinformed	1	3	7
+misinterpret	1	6	7
+misjudge	1	6	7
+misjudgment	1	5	7
+mislead	1	5	6	7
+misleading	1	7
+misleadingly	1	7
+mislike	1	6	7
+mismanage	1	6	7
+misread	1	6	7
+misreading	1	3	5	7
+misrepresent	1	6	7
+misrepresentation	1	7
+misstatement	1	5	7
+mistake	1	3	5	7
+mistaken	1	6	7
+mistakenly	1	4	7
+mistakes	1	3	5	7
+mistrust	1	3	5	7
+mistrustful	1	7
+mistrustfully	1	7
+misunderstand	1	6	7
+misunderstood	1	6	7
+misunderstanding	1	3	5	6	7
+misunderstandings	1	3	5	7
+misuse	1	6	7
+mm	1	8
+moan	1	6	7
+mock	1	3	6	7
+mockeries	1	5	7
+mockery	1	5	7
+mocking	1	3	7
+mockingly	1	7
+moderate	1	3	9
+moderation	1	3	5	9
+molest	1	6	7
+molestation	1	5	7
+mollify	1	6	9
+momentous	1	3	9
+monotonous	1	3	7
+monotony	1	5	7
+monster	1	5	7
+monstrosities	1	5	7
+monstrosity	1	5	7
+monstrous	1	3	7
+monstrously	1	7
+monumental	1	3	9
+monumentally	1	3	9
+moody	1	3	7
+moral	1	3	5	9
+morality	1	5	9
+moralize	1	6	9
+morbid	1	3	7
+morbidly	1	3	7
+mordant	1	3	7
+mordantly	1	3	7
+moreover	1	8
+moribund	1	3	7
+mortification	1	5	7
+mortified	1	3	7
+mortify	1	6	7
+mortifying	1	3	7
+motivate	1	6	9
+motivated	1	3	9
+motivation	1	3	5	9
+motley	1	3	7
+mourn	1	6	7
+mourner	1	5	7
+mournful	1	7
+mournfully	1	7
+moving	1	3	9
+mudslinger	1	5	7
+mudslinging	1	5	7
+mulish	1	3	7
+multi-polarization	1	3	5	7
+mum	1	3	8
+mundane	1	3	7
+muscle-flexing	1	7
+must	1	8
+mysterious	1	3	7
+mysteriously	1	4	7
+mystery	1	5	7
+myth	1	3	5	7
+nag	1	6	7
+nagging	1	7
+naive	1	3	7
+naively	1	4	7
+narrower	1	3	5	7
+nastily	1	7
+nastiness	1	5	7
+nasty	1	3	7
+nationalism	1	3	5	7
+naughty	1	3	7
+nauseating	1	3	7
+nauseatingly	1	4	7
+nebulous	1	3	5	7
+nebulously	1	7
+need	1	2	3	5	6	7	8
+needful	1	3	5	8
+needfully	1	8
+nefarious	1	3	7
+nefariously	1	7
+neglect	1	5	6	7
+neglected	1	3	7
+negligent	1	3	7
+negligence	1	5	7
+nemesis	1	5	7
+nettlesome	1	3	7
+nevertheless	1	8
+nervous	1	3	7
+nervously	1	4	7
+nervousness	1	5	7
+neurotic	1	3	7
+neurotically	1	4	7
+nice	1	3	9
+nicely	1	9
+nifty	1	3	9
+nightmare	1	5	7
+nightmarish	1	3	7
+nightmarishly	1	4	7
+nimble	1	3	9
+nix	1	6	7
+noble	1	3	9
+nobly	1	4	9
+non-confidence	1	3	5	7
+nonsense	1	7
+nosey	1	3	7
+notable	1	3	5	9
+notably	1	9
+noteworthy	1	3	5	9
+notorious	1	3	7
+notoriously	1	4	7
+novel	1	3	9
+nuance	1	3	5	8
+nuances	1	3	5	8
+nuisance	1	3	5	7
+nurture	1	6	9
+nurturing	1	3	5	9
+oasis	1	5	9
+obedience	1	5	9
+obedient	1	3	9
+obediently	1	4	9
+obey	1	6	9
+obese	1	3	5	7
+object	1	6	7
+objection	1	3	5	7
+objectionable	1	3	7
+objections	1	3	5	7
+obliged	1	9
+obliterate	1	6	7
+obliterated	1	3	7
+oblivious	1	3	5	7
+obnoxious	1	3	7
+obnoxiously	1	7
+obscene	1	3	7
+obscenely	1	7
+obscenity	1	5	7
+obscure	1	2	3	6	7
+obscurity	1	7
+obsess	1	6	7
+obsession	1	5	7
+obsessions	1	5	7
+obsessive	1	3	7
+obsessively	1	7
+obsessiveness	1	5	7
+obstacle	1	3	5	7
+obstinate	1	3	7
+obstinately	1	7
+obtrusive	1	3	7
+obtuse	1	3	7
+obviate	1	6	9
+obviously	1	7
+odder	1	7
+oddest	1	7
+oddities	1	3	5	7
+oddity	1	5	7
+oddly	1	7
+offbeat	1	3	9
+offend	1	3	6	7
+offending	1	7
+offenses	1	3	5	7
+offensively	1	7
+offensiveness	1	5	7
+officious	1	3	7
+oh	1	8
+okay	1	2	3	9
+ominous	1	3	7
+ominously	1	7
+one-side	1	3	7
+one-sided	1	7
+onerous	1	3	7
+onerously	1	7
+opinion	1	3	5	8
+opinionated	1	3	7
+opinions	1	3	5	8
+opponent	1	5	7
+opportune	1	3	9
+opportunity	1	5	9
+oppose	1	6	7
+opposition	1	3	5	7
+oppositions	1	3	5	7
+oppress	1	6	7
+oppression	1	3	5	7
+oppressive	1	3	7
+oppressively	1	7
+oppressiveness	1	5	7
+oppressors	1	3	5	7
+optimal	1	3	9
+optimism	1	5	9
+opulent	1	3	9
+ordeal	1	5	7
+orthodoxy	1	5	8
+ostracize	1	6	7
+ought	1	8
+outburst	1	3	5	7
+outbursts	1	3	5	7
+outcast	1	5	7
+outcry	1	5	7
+outdo	1	6	9
+outlaw	1	5	7
+outrage	1	5	6	7
+outraged	1	3	7
+outrageous	1	3	7
+outrageously	1	7
+outrageousness	1	5	7
+outrages	1	5	7
+outright	1	3	8
+outshine	1	6	9
+outsmart	1	6	9
+outstanding	1	3	9
+outstandingly	1	9
+outstrip	1	6	9
+outwit	1	6	9
+ovation	1	3	5	9
+over-acted	1	7
+overachiever	1	5	9
+overact	1	6	7
+overacted	1	7
+overbearing	1	3	7
+overbearingly	1	4	7
+overblown	1	3	7
+overcome	1	6	7
+overdo	1	6	7
+overdone	1	7
+overdue	1	3	7
+overemphasize	1	6	7
+overjoyed	1	3	9
+overkill	1	5	7
+overlook	1	6	7
+overplay	1	6	7
+overstate	1	7
+overstatement	1	3	5	7
+overstatements	1	7
+overture	1	3	5	9
+overwhelming	1	3	7
+overwhelmingly	1	7
+overworked	1	3	7
+overzealous	1	3	7
+overzealously	1	4	7
+pacifist	1	5	9
+pacifists	1	3	5	9
+pain	1	2	3	5	6	7
+pains	1	3	5	7
+painstaking	1	3	9
+painstakingly	1	4	9
+palatable	1	3	9
+palatial	1	3	9
+palliate	1	6	9
+paltry	1	3	7
+pandemonium	1	5	7
+panic	1	5	6	7
+panicky	1	3	7
+paradise	1	5	9
+paradoxical	1	3	7
+paradoxically	1	4	7
+paramount	1	3	9
+paranoia	1	5	7
+paranoid	1	3	7
+pardon	1	6	9
+pariah	1	5	7
+parody	1	6	7
+partiality	1	3	5	7
+partisan	1	3	5	7
+partisans	1	3	5	7
+passe	1	3	7
+passion	1	5	9
+passionate	1	3	9
+passionately	1	9
+passive	1	2	3	5	7
+passiveness	1	3	5	7
+pathetic	1	3	7
+pathetically	1	7
+patience	1	5	9
+patiently	1	4	9
+patriot	1	5	9
+patriotic	1	3	9
+patronize	1	6	7
+paucity	1	3	5	7
+pauper	1	5	7
+paupers	1	3	5	7
+payback	1	3	5	7
+peaceable	1	3	9
+peculiar	1	7
+peculiarly	1	7
+pedantic	1	3	7
+peerless	1	3	9
+peeve	1	6	7
+peeved	1	3	7
+peevish	1	3	7
+peevishly	1	4	7
+penalize	1	6	7
+penetrating	1	3	9
+penitent	1	3	9
+perceptions	1	3	5	8
+perceptive	1	3	9
+perfect	1	3	6	9
+perfection	1	5	9
+perfectly	1	9
+perfidious	1	3	7
+perfidity	1	5	7
+perfunctory	1	3	5	7
+perhaps	1	8
+peril	1	5	7
+perish	1	6	7
+pernicious	1	3	7
+perplex	1	6	7
+perplexed	1	3	7
+perplexing	1	7
+perplexity	1	5	7
+persecute	1	6	7
+persecution	1	3	5	7
+perseverance	1	5	9
+persevere	1	6	9
+personality	1	3	5	9
+perspicuous	1	3	9
+perspicuously	1	4	9
+persuade	1	6	9
+persuasive	1	3	5	9
+persuasively	1	4	9
+pertinacious	1	3	7
+pertinaciously	1	4	7
+pertinacity	1	5	7
+perturb	1	6	7
+perturbed	1	3	7
+pervasive	1	3	5	7
+perverse	1	3	7
+perversely	1	7
+perversion	1	5	7
+perversity	1	5	7
+pervert	1	6	7
+perverted	1	7
+pessimism	1	5	7
+pessimistic	1	3	7
+pessimistically	1	7
+pest	1	5	7
+pestilent	1	3	7
+petrify	1	6	7
+petrified	1	3	7
+pettifog	1	6	7
+petty	1	3	7
+phenomenal	1	3	9
+phenomenally	1	9
+philosophize	1	6	8
+phobia	1	5	7
+phobic	1	3	7
+phony	1	3	7
+picky	1	3	7
+picturesque	1	3	9
+pillage	1	6	7
+pillar	1	3	5	9
+pillory	1	6	7
+pine	1	6	7
+pinnacle	1	5	9
+pious	1	3	9
+pithy	1	3	5	9
+pitiable	1	3	7
+pitiful	1	3	7
+pitifully	1	3	7
+pitiless	1	3	7
+pitilessly	1	4	7
+pittance	1	5	7
+pity	1	5	6	7
+placate	1	6	9
+plagiarize	1	6	7
+plague	1	2	3	5	6	7
+plainly	1	9
+plausibility	1	5	9
+plausible	1	3	9
+playful	1	3	9
+playfully	1	4	9
+plaything	1	3	5	7
+plead	1	6
+pleading	1	3
+pleadingly	1
+pleas	1	3	5	7
+please	1	6	9
+pleased	1	3	9
+pleasing	1	9
+pleasingly	1	9
+pleasurable	1	9
+pleasurably	1	9
+pleasure	1	3	5	9
+plebeian	1	3	7
+pledge	1	5	6	9
+pledges	1	3	5	9
+plenty	1	9
+plight	1	5	7
+plot	1	6	7
+plotters	1	3	5	7
+ploy	1	3	5	7
+plunder	1	6	7
+plunderer	1	7
+plush	1	3	9
+poetic	1	3	9
+poeticize	1	6	9
+poignant	1	3	9
+poise	1	5	9
+poised	1	3	9
+poison	1	3	5	7
+polarisation	1	3	5	7
+polemize	1	6	7
+polluter	1	3	5	7
+polluters	1	3	5	7
+pompous	1	3	7
+ponder	1	6	8
+poorly	1	4	7
+posh	1	3	9
+positiveness	1	5	9
+positively	1	4	9
+posturing	1	3	5	7
+potent	1	3	9
+pout	1	6	7
+poverty	1	5	7
+pragmatic	1	3	9
+praise	1	5	6	9
+praiseworthy	1	3	9
+praising	1	3	5	9
+prate	1	6	7
+pratfall	1	5	7
+prattle	1	6	7
+pray	1	6	8
+preach	1	6	9
+preaching	1	3	5	9
+precaution	1	5	9
+precautions	1	5	9
+precious	1	3	4	5	8	9
+precipitate	1	6	7
+precipitous	1	3	7
+predicament	1	5	7
+prefer	1	6	9
+preferable	1	3	9
+preferably	1	9
+preference	1	5	9
+preferences	1	3	5	9
+prejudge	1	6	7
+prejudice	1	3	5	7
+prejudicial	1	3	7
+premeditated	1	3	7
+preponderance	1	3	5	9
+preposterous	1	3	7
+preposterously	1	7
+pressing	1	3	5	7
+prestige	1	5	9
+presumably	1	8
+presume	1	6	7
+presumptuous	1	3	7
+presumptuously	1	7
+pretence	1	3	5	7
+pretend	1	6	7
+pretense	1	3	5	7
+pretentious	1	7
+pretentiously	1	7
+prettily	1	9
+pretty	1	9
+prevaricate	1	6	7
+priceless	1	3	9
+prickle	1	6	7
+prickles	1	3	5	7
+pride	1	5	9
+prideful	1	3	7
+privilege	1	5	9
+privileged	1	3	9
+prize	1	6	9
+pro-American	1	3	5	9
+pro-Beijing	1	3	5	9
+pro-Cuba	1	3	5	9
+pro-peace	1	3	5	9
+proactive	1	3	5	9
+problematic	1	3	5	7
+proclaim	1	6	8
+procrastinate	1	6	7
+procrastination	1	5	7
+prodigious	1	3	9
+prodigiously	1	9
+prodigy	1	5	9
+profane	1	3	6	7
+profanity	1	5	7
+profess	1	6	9
+proficient	1	3	9
+proficiently	1	4	9
+profound	1	3	9
+profoundly	1	9
+profuse	1	3	9
+profusely	1	9
+profusion	1	5	9
+prognosticate	1	6	8
+promise	1	3	5	9
+promising	1	3	9
+promoter	1	3	5	9
+propaganda	1	3	5	7
+propagandize	1	6	7
+prophesy	1	6	8
+propitious	1	3	9
+propitiously	1	4	9
+proscription	1	3	5	7
+proscriptions	1	3	5	7
+prosecute	1	6	7
+prosper	1	6	9
+protector	1	3	5	9
+protest	1	3	5	6	7
+proud	1	3	9
+providence	1	5	9
+provocation	1	3	5	7
+provocative	1	3	5	7
+provoke	1	6	7
+prowess	1	5	9
+prudent	1	3	9
+prudently	1	4	9
+pugnacious	1	3	7
+pugnaciously	1	7
+pugnacity	1	5	7
+punch	1	3	5	7
+punctual	1	3	9
+pundits	1	3	5	9
+punish	1	6	7
+puny	1	3	7
+puppet	1	3	5	7
+puppets	1	3	5	7
+purposeful	1	3	9
+puzzle	1	6	7
+puzzled	1	7
+puzzlement	1	5	7
+puzzling	1	7
+quack	1	6	7
+quaint	1	3	9
+qualms	1	3	5	7
+quandary	1	5	7
+quarrel	1	2	3	5	6	7
+quarrellous	1	7
+quarrellously	1	7
+quarrels	1	7
+quarrelsome	1	3	7
+quash	1	6	7
+quasi-ally	1	3	5	9
+questionable	1	3	7
+quibble	1	6	7
+quicken	1	6	9
+quite	1	8
+quitter	1	5	7
+racist	1	3	5	7
+racists	1	5	7
+rack	1	6	7
+radiance	1	5	9
+radiant	1	3	9
+radical	1	3	5	7
+radicalization	1	3	5	7
+radically	1	7
+radicals	1	7
+rage	1	5	6	7
+ragged	1	3	7
+raging	1	3	7
+rail	1	6	7
+rally	1	6	9
+rampage	1	6	7
+rampant	1	3	7
+ramshackle	1	3	7
+rancor	1	5	7
+rank	1	3	7
+rankle	1	6	7
+rant	1	6	7
+ranting	1	3	7
+rantingly	1	7
+rapport	1	5	9
+rapt	1	6	9
+rapture	1	5	9
+raptureous	1	3	9
+raptureously	1	9
+rapturous	1	9
+rapturously	1	9
+rascal	1	5	7
+rash	1	3	7
+rather	1	2	4	8
+rational	1	3	9
+rationalize	1	6	7
+rattle	1	6	7
+ravage	1	6	7
+rave	1	6	9
+raving	1	3	7
+re-conquest	1	3	5	9
+reactionary	1	3	7
+realist	1	5	9
+realistic	1	3	9
+realistically	1	4	9
+really	1	8
+reassurance	1	3	5	9
+reassure	1	6	9
+rebellious	1	3	7
+rebuff	1	6	7
+rebuke	1	6	7
+recalcitrant	1	3	7
+recant	1	6	7
+receptive	1	3	9
+reckless	1	3	7
+recklessly	1	7
+recklessness	1	5	7
+recoil	1	6	7
+recommend	1	6	9
+recommendation	1	5	9
+recommendations	1	3	5	9
+recommended	1	9
+rectification	1	3	5	9
+rectify	1	6	9
+rectifying	1	3	5	9
+redeem	1	6	9
+redeeming	1	3	9
+redemption	1	5	9
+reflecting	1	3	5	8
+reflective	1	3	8
+refreshing	1	3	9
+refuge	1	5	9
+refuse	1	6	7
+refutation	1	3	5	7
+refute	1	6	7
+regal	1	3	9
+regally	1	4	9
+regard	1	5	6	8	9
+regardless	1	8
+regardlessly	1	8
+regret	1	3	5	6	7
+regretful	1	7
+regretfully	1	7
+regrettable	1	7
+regrettably	1	7
+reject	1	6	7
+rejection	1	3	5	7
+rejoice	1	6	9
+rejoicing	1	9
+rejoicingly	1	9
+relent	1	6	9
+relentless	1	7
+relentlessly	1	7
+relentlessness	1	5	7
+relief	1	3	5	9
+relish	1	6	9
+reluctance	1	3	5	7
+remarkable	1	3	9
+remarkably	1	9
+reminiscent	1	3	5	9
+remorse	1	5	7
+remorseful	1	3	7
+remorsefully	1	7
+remorseless	1	3	7
+remorselessly	1	7
+remorselessness	1	5	7
+remunerate	1	6	9
+renaissance	1	5	9
+renounce	1	6	7
+renown	1	5	9
+renowned	1	3	9
+renunciation	1	5	7
+repay	1	6	9
+repent	1	6	9
+repentance	1	5	9
+reprehensible	1	3	7
+reprehensibly	1	7
+reprehension	1	5	7
+reprehensive	1	3	7
+reprimand	1	6	7
+reproach	1	3	5	6	7
+reproachful	1	3	7
+reprove	1	6	7
+reprovingly	1	7
+repudiate	1	6	7
+repudiation	1	3	5	7
+repugn	1	6	7
+repugnance	1	5	7
+repugnant	1	3	7
+repugnantly	1	7
+repulsing	1	7
+repulsive	1	7
+repulsively	1	7
+repulsiveness	1	5	7
+resent	1	6	7
+resentful	1	3	7
+resentment	1	3	5	7
+resounding	1	3	9
+resourceful	1	3	9
+resourcefulness	1	5	9
+respect	1	2	3	5	6	9
+respectable	1	3	9
+respectful	1	9
+respectfully	1	9
+respite	1	5	9
+resplendent	1	3	9
+reticent	1	3	7
+revealing	1	3	8
+revel	1	3	5	6	9
+revelatory	1	8
+revenge	1	5	6	7
+revengeful	1	3	7
+revengefully	1	7
+revere	1	6	9
+reverence	1	5	9
+reverent	1	3	9
+reverently	1	4	9
+revile	1	6	7
+reviled	1	3	7
+revolting	1	7
+revoltingly	1	7
+revulsion	1	5	7
+revulsive	1	3	7
+reward	1	6	9
+rewarding	1	9
+rewardingly	1	9
+rhetorical	1	3	5	7
+richly	1	4	9
+richness	1	5	9
+rid	1	6	7
+ridicule	1	5	6	7
+ridiculous	1	7
+ridiculously	1	7
+rife	1	3	7
+rift	1	3	5	7
+rifts	1	3	5	7
+right	1	2	3	5	6	9
+righten	1	6	9
+righteous	1	3	9
+righteously	1	9
+righteousness	1	5	9
+rightful	1	3	9
+rightfully	1	4	9
+rightly	1	9
+rightness	1	3	5	9
+rile	1	6	7
+riled	1	7
+roadblocks	1	3	5	7
+rogue	1	3	5	7
+rollercoaster	1	3	5	7
+romantic	1	9
+romantically	1	9
+romanticize	1	6	9
+rosy	1	3	9
+rotten	1	3	7
+rousing	1	3	9
+rubbish	1	5	7
+rude	1	3	7
+rue	1	3	6	7
+ruffian	1	5	7
+rumbling	1	3	5	7
+rumor	1	3	5	7
+rumors	1	3	5	7
+rumours	1	3	5	7
+rumple	1	6	7
+run-down	1	3	7
+runaway	1	6	7
+rusty	1	3	7
+ruthless	1	3	7
+ruthlessly	1	7
+ruthlessness	1	5	7
+sabotage	1	6	7
+sacred	1	3	9
+sacrifice	1	3	5	7
+sad	1	3	7
+sadden	1	6	7
+sadly	1	7
+sadness	1	5	7
+safeguard	1	6	9
+sagacity	1	5	9
+sage	1	3	9
+sagely	1	4	9
+saint	1	5	9
+saintliness	1	5	9
+saintly	1	3	9
+salacious	1	3	7
+salutary	1	3	9
+salute	1	6	9
+salvation	1	5	9
+sanctimonious	1	3	5	7
+sanctify	1	6	9
+sanction	1	6	9
+sanctity	1	5	9
+sanctuary	1	3	5	9
+sanguine	1	3	9
+sane	1	3	9
+sanity	1	3	5	9
+sap	1	6	7
+sarcasm	1	5	7
+sarcastic	1	3	7
+sarcastically	1	4	7
+sardonic	1	3	7
+sardonically	1	4	7
+sass	1	5	6	7
+satirical	1	3	7
+satirize	1	6	7
+satisfaction	1	3	5	9
+satisfactorily	1	4	9
+satisfactory	1	3	9
+savage	1	3	5	6	7
+savaged	1	3	7
+savagely	1	7
+savagery	1	5	7
+savages	1	5	7
+savvy	1	3	9
+scandalize	1	6	7
+scandalized	1	3	7
+scandalous	1	7
+scandalously	1	7
+scandals	1	5	7
+scapegoat	1	5	7
+scar	1	5	6	7
+scarred	1	3	7
+scarcely	1	7
+scare	1	6	7
+scared	1	3	7
+scarier	1	3	7
+scariest	1	3	7
+scarily	1	7
+scars	1	3	5	7
+scary	1	3	7
+scathing	1	3	7
+scathingly	1	7
+scheming	1	7
+scoff	1	6	7
+scoffingly	1	7
+scold	1	6	7
+scolding	1	5	7
+scoldingly	1	7
+scorching	1	7
+scorchingly	1	7
+scorn	1	6	7
+scornful	1	7
+scornfully	1	7
+scoundrel	1	5	7
+scourge	1	5	7
+scowl	1	5	6	7
+scream	1	6	7
+screaming	1	3	8
+screamingly	1	4	8
+screech	1	5	6	7
+scruples	1	5	9
+scrupulous	1	3	9
+scrupulously	1	9
+scrutinize	1	6	8
+scrutiny	1	3	5	8
+scum	1	5	7
+scummy	1	3	7
+seamless	1	3	9
+second-class	1	3	7
+seductive	1	3	9
+seedy	1	3	7
+seemingly	1	8
+seethe	1	6	7
+seething	1	3	7
+self-coup	1	3	5	7
+self-criticism	1	3	5	7
+self-destructive	1	3	7
+self-determination	1	3	5	9
+self-humiliation	1	3	5	7
+self-interest	1	3	5	7
+self-interested	1	7
+self-respect	1	5	9
+self-satisfaction	1	3	5	9
+self-serving	1	3	5	7
+selfinterested	1	7
+selfish	1	7
+selfishly	1	7
+selfishness	1	5	7
+senile	1	3	7
+sensation	1	3	5	9
+sensational	1	9
+sensationalize	1	7
+sensationally	1	9
+sensations	1	3	5	9
+senseless	1	3	7
+senselessly	1	7
+sensible	1	9
+sensibly	1	9
+sensitively	1	9
+sensitivity	1	3	5	9
+sentiment	1	3	5	9
+sentimentality	1	9
+sentimentally	1	9
+sentiments	1	9
+serene	1	3	9
+serenity	1	5	9
+serious	1	7
+seriously	1	7
+seriousness	1	5	7
+sermonize	1	6	7
+servitude	1	5	7
+set-up	1	3	5	7
+severe	1	2	3	7
+severely	1	7
+severity	1	5	7
+sexy	1	3	9
+shabby	1	3	7
+shadow	1	6	7
+shady	1	3	7
+sham	1	3	7
+shambles	1	3	7
+shame	1	5	6	7
+shameful	1	3	5	7
+shamefully	1	5	7
+shamefulness	1	5	7
+shameless	1	3	7
+shamelessly	1	7
+shamelessness	1	5	7
+shark	1	5	7
+shatter	1	6	7
+sheer	1	3	7
+shimmer	1	9
+shimmering	1	9
+shimmeringly	1	9
+shiny	1	2	3	9
+shirk	1	6	7
+shirker	1	7
+shiver	1	6	7
+shock	1	3	5	6	7
+shocking	1	3	7
+shockingly	1	7
+shoddy	1	3	7
+shortchange	1	6	7
+shortcoming	1	5	7
+shortcomings	1	5	7
+shortsighted	1	7
+shortsightedness	1	7
+shrew	1	5	7
+shrewd	1	3	9
+shrewdly	1	4	9
+shrewdness	1	5	9
+shriek	1	6	7
+shrill	1	3	5	7
+shrilly	1	7
+shrivel	1	6	7
+shroud	1	6	7
+shrouded	1	6	7
+shun	1	6	7
+shunned	1	3	7
+shy	1	3	7
+shyly	1	4	7
+shyness	1	5	7
+sickly	1	4	7
+sickening	1	3	7
+sickeningly	1	7
+sidetrack	1	6	7
+sidetracked	1	3	7
+sillily	1	7
+silly	1	7
+simmer	1	6	7
+simplicity	1	5	9
+simplistic	1	3	5	7
+simplistically	1	7
+sin	1	3	5	7
+sinful	1	3	7
+sinfully	1	4	7
+sincere	1	3	9
+sincerely	1	9
+sinister	1	3	7
+sinisterly	1	7
+skeletons	1	3	5	7
+skeptical	1	3	5	7
+skeptically	1	7
+skepticism	1	3	5	7
+skillful	1	3	5	9
+skillfully	1	4	9
+skittish	1	3	7
+skittishly	1	7
+skulk	1	6	7
+slander	1	5	6	7
+slanderer	1	5	7
+slanderous	1	3	7
+slanderously	1	7
+slanders	1	3	5	7
+slap	1	6	7
+slashing	1	3	5	7
+slaves	1	3	5	7
+sleazy	1	3	7
+slime	1	5	7
+sloppy	1	3	7
+sloppily	1	4	7
+sloth	1	5	7
+slothful	1	3	7
+slur	1	5	7
+sly	1	3	7
+smack	1	3	5	7
+smart	1	3	6	9
+smarter	1	3	9
+smartest	1	9
+smartly	1	9
+smile	1	5	6	9
+smiling	1	3	9
+smilingly	1	4	9
+smitten	1	6	9
+smokescreen	1	3	5	7
+smolder	1	6	7
+smoldering	1	3	7
+smother	1	6	7
+smoulder	1	6	7
+smouldering	1	7
+smug	1	3	7
+smugly	1	4	7
+smut	1	5	7
+smuttier	1	3	7
+smuttiest	1	3	7
+smutty	1	3	7
+sneer	1	5	6	7
+sneering	1	7
+sneeringly	1	7
+snub	1	6	7
+so-cal	1	3	7
+so-called	1	7
+sob	1	6	7
+sober	1	2	3	6	7
+sobering	1	3	7
+sociable	1	3	9
+soften	1	3	5	6	9
+solace	1	6	9
+solicitous	1	9
+solicitously	1	9
+solicitude	1	5	9
+solidarity	1	3	5	9
+soliloquize	1	6	8
+somber	1	3	7
+soothe	1	6	9
+soothingly	1	9
+sophisticated	1	3	9
+sore	1	3	5	7
+sorely	1	7
+sorrow	1	2	5	6	7
+sorrowful	1	7
+sorrowfully	1	7
+sorry	1	3	7
+spade	1	3	5	7
+spank	1	6	7
+sparkle	1	9
+spectacular	1	3	9
+spectacularly	1	9
+spellbind	1	6	9
+spellbinding	1	9
+spellbindingly	1	9
+spellbound	1	6	9
+spilling	1	3	5	7
+spiritless	1	3	7
+spiritual	1	3	5	9
+spite	1	5	7
+spiteful	1	3	7
+spitefully	1	7
+spitefulness	1	5	7
+splayed-finger	1	3	5	8
+splendid	1	3	9
+splendidly	1	9
+splendor	1	5	9
+spoil	1	6	7
+spook	1	6	7
+spookier	1	3	7
+spookiest	1	3	7
+spookily	1	7
+spooky	1	3	7
+spoon-fed	1	7
+spoon-feed	1	6	7
+spoonfed	1	7
+spotless	1	3	9
+sprightly	1	3	9
+spur	1	6	9
+spurious	1	3	7
+spurn	1	6	7
+sputter	1	6	7
+squabble	1	6	7
+squabbling	1	7
+squander	1	6	7
+squarely	1	3	9
+squash	1	6	7
+squirm	1	6	7
+staggering	1	3	7
+staggeringly	1	7
+stagnate	1	6	7
+stagnation	1	5	7
+staid	1	3	7
+stale	1	3	7
+stalemate	1	5	7
+stammer	1	6	7
+standstill	1	5	7
+star	1	3	5	9
+stark	1	3	7
+starkly	1	7
+stars	1	3	5	9
+startle	1	6	7
+startling	1	7
+startlingly	1	7
+stately	1	3	9
+statuesque	1	3	9
+staunch	1	3	9
+staunchly	1	9
+staunchness	1	5	9
+steadfast	1	3	9
+steadfastly	1	4	9
+steadfastness	1	5	9
+stellar	1	3	9
+stellarly	1	9
+stench	1	7
+stereotype	1	5	7
+stereotypical	1	7
+stereotypically	1	7
+stern	1	3	5	7
+stew	1	6	7
+stifle	1	6	7
+stifling	1	7
+stiflingly	1	7
+stigma	1	5	6	7
+stigmatize	1	6	7
+stimulating	1	9
+sting	1	2	3	5	6	7
+stinging	1	3	7
+stingingly	1	3	7
+stink	1	5	6	7
+stinking	1	7
+stir	1	2	3	5	6	8
+stirring	1	3	9
+stirringly	1	9
+stodgy	1	3	7
+stooge	1	7
+stooges	1	3	5	7
+straightforward	1	3	9
+strange	1	3	7
+strangely	1	7
+stranger	1	7
+strangest	1	7
+stress	1	5	6	7
+stressful	1	3	7
+stressfully	1	4	7
+stricken	1	3	7
+strict	1	3	7
+strictly	1	4	7
+stride	1	3	5	9
+strident	1	3	7
+stridently	1	4	7
+strife	1	5	7
+striking	1	3	9
+strikingly	1	9
+striving	1	3	5	9
+struggle	1	3	5	7
+strut	1	6	7
+stubborn	1	3	7
+stubbornly	1	4	7
+stubbornness	1	5	7
+studious	1	3	9
+studiously	1	4	9
+stuffy	1	3	7
+stunned	1	3	9
+stunning	1	3	9
+stunningly	1	9
+stupendous	1	3	9
+stupendously	1	9
+stupid	1	7
+stupidity	1	5	7
+stupidly	1	7
+stupified	1	3	7
+stupify	1	6	7
+stupor	1	5	7
+sty	1	3	5	7
+stylish	1	3	9
+stylishly	1	4	9
+suave	1	3	9
+subjugate	1	5	6	7
+subjugation	1	5	7
+sublime	1	3	9
+subservience	1	5	7
+subservient	1	3	7
+succumb	1	6	7
+sucker	1	5	7
+sufferer	1	5	7
+sufferers	1	3	5	7
+suffering	1	3	5	7
+suffocate	1	6	7
+sugar-coat	1	6	7
+sugar-coated	1	7
+sugarcoated	1	7
+sulk	1	6	7
+sullen	1	3	7
+sully	1	6	7
+sumptuous	1	3	9
+sumptuously	1	4	9
+sumptuousness	1	5	9
+sunder	1	6	7
+super	1	9
+superb	1	9
+superbly	1	9
+superficial	1	3	5	7
+superficiality	1	5	7
+superficially	1	4	7
+superfluous	1	3	7
+superiority	1	3	5	7
+superlative	1	3	9
+superstition	1	5	7
+superstitious	1	5	7
+support	1	2	3	5	6	9
+supporter	1	3	5	9
+supportive	1	3	5	9
+suppose	1	6	8
+supposing	1	8
+supremacy	1	3	5	7
+supreme	1	3	9
+supremely	1	4	9
+supurb	1	3	9
+supurbly	1	9
+sure	1	9
+surely	1	9
+surge	1	5	9
+surging	1	3	9
+surmise	1	6	9
+surmount	1	6	9
+surpass	1	6	9
+surprise	1	3	5	6	8
+surprising	1	8
+surprisingly	1	8
+suspicions	1	3	5	7
+suspicious	1	3	7
+suspiciously	1	7
+swagger	1	6	7
+swamped	1	7
+swear	1	6	7
+sweeping	1	3	9
+swindle	1	6	7
+swipe	1	3	5	7
+swore	1	6	7
+sworn	1	3	9
+sympathetic	1	3	5	7
+sympathetically	1	7
+sympathies	1	3	5	7
+sympathize	1	6	7
+sympathy	1	3	5	7
+taboo	1	3	5	7
+tact	1	5	9
+taint	1	6	7
+tainted	1	7
+talent	1	3	5	9
+talented	1	3	9
+tantalizing	1	9
+tantalizingly	1	9
+tantamount	1	8
+tantrum	1	5	7
+tattered	1	7
+taunt	1	5	6	7
+taunting	1	7
+tauntingly	1	7
+taunts	1	5	7
+tawdry	1	3	7
+teasingly	1	7
+tedious	1	3	7
+tediously	1	4	7
+temerity	1	5	7
+temper	1	2	5	6	7
+tempt	1	6	9
+temptation	1	5	7
+tempting	1	9
+temptingly	1	9
+tenacious	1	3	9
+tenaciously	1	9
+tenacity	1	5	9
+terrible	1	3	7
+terribleness	1	5	7
+terribly	1	7
+terrific	1	3	9
+terrifically	1	9
+terrified	1	3	9
+terrify	1	6	9
+terrifying	1	3	9
+terrifyingly	1	9
+terror	1	5	7
+terror-genic	1	3	5	7
+terrorize	1	6	7
+thank	1	6	9
+thankful	1	9
+thankfully	1	9
+thankless	1	7
+theoretize	1	6	8
+therefore	1	8
+think	1	6	8
+thinkable	1	3	5	9
+thinking	1	3	5	8
+thirst	1	5	6	7
+thorny	1	3	5	7
+though	1	8
+thoughtful	1	3	9
+thoughtfully	1	4	9
+thoughtfulness	1	5	9
+thoughtless	1	3	7
+thoughtlessly	1	7
+thoughtlessness	1	5	7
+thrill	1	5	6	9
+thrilling	1	9
+thrillingly	1	9
+thrills	1	5	9
+throttle	1	6	7
+thus	1	8
+thusly	1	8
+thwart	1	6	7
+tidy	1	3	9
+time-honored	1	3	9
+timid	1	3	7
+timidity	1	5	7
+timidly	1	4	7
+timidness	1	5	7
+tingle	1	6	9
+tint	1	6	8
+tired	1	3	7
+tiresome	1	3	7
+tiring	1	3	5	7
+tiringly	1	7
+titillating	1	9
+titillatingly	1	9
+toast	1	6	9
+togetherness	1	5	9
+toil	1	6	7
+tolerable	1	3	9
+tolerably	1	4	9
+tolerance	1	3	5	9
+tolerantly	1	9
+torment	1	5	6	7
+tormented	1	3	7
+torrent	1	5	7
+torrid	1	9
+torridly	1	9
+tortuous	1	3	7
+torturous	1	3	7
+torturously	1	7
+touches	1	3	5	8
+touchy	1	3	7
+toughness	1	3	5	7
+traduce	1	6	7
+tragic	1	3	7
+tragically	1	7
+traitor	1	5	7
+traitorous	1	3	7
+traitorously	1	3	7
+tramp	1	5	7
+trample	1	6	7
+tranquil	1	3	9
+tranquility	1	3	5	9
+trauma	1	3	5	7
+traumatic	1	3	7
+traumatically	1	7
+traumatize	1	6	7
+traumatized	1	3	7
+travesties	1	5	7
+travesty	1	5	6	7
+treachery	1	5	7
+treason	1	5	7
+treasonous	1	3	7
+treasure	1	6	9
+tremendous	1	9
+tremendously	1	9
+trendy	1	3	9
+trepidation	1	5	9
+tribute	1	5	9
+trick	1	3	5	7
+tricky	1	3	5	7
+trickery	1	5	7
+triumph	1	5	6	9
+triumphal	1	3	9
+triumphant	1	3	6	9
+triumphantly	1	9
+trivial	1	3	5	7
+trivialize	1	6	7
+trivially	1	7
+trouble	1	2	3	5	6	7
+troublemaker	1	3	5	7
+troublesome	1	3	7
+troublesomely	1	7
+troubling	1	7
+troublingly	1	7
+truculent	1	3	9
+truculently	1	9
+true	1	9
+truly	1	9
+trump	1	6	9
+trumpet	1	6	9
+trusting	1	9
+trustingly	1	9
+trustworthiness	1	5	9
+trustworthy	1	3	9
+truth	1	9
+truthful	1	3	9
+truthfully	1	4	9
+truthfulness	1	5	9
+turmoil	1	5	7
+twinkly	1	9
+twist	1	5	6	7
+twisted	1	3	7
+tyrannical	1	3	7
+tyrannically	1	7
+tyranny	1	5	7
+tyrant	1	5	7
+ugh	1	7
+ugliness	1	3	5	7
+ugly	1	3	7
+ulterior	1	3	7
+ultimate	1	9
+ultimately	1	9
+ultimatum	1	5	7
+ultimatums	1	3	5	7
+ultra	1	3	9
+ultra-hardline	1	3	5	7
+unabashed	1	3	9
+unabashedly	1	9
+unacceptable	1	3	7
+unacceptablely	1	7
+unanimous	1	3	9
+unassailable	1	3	5	9
+unattractive	1	3	7
+unbearable	1	3	7
+unbearablely	1	4	7
+unbelievable	1	7
+unbelievably	1	7
+unbosom	1	6	9
+uncivil	1	3	7
+uncivilized	1	3	5	7
+unclean	1	3	7
+uncommon	1	3	9
+uncommonly	1	9
+uncompromising	1	3	7
+uncompromisingly	1	7
+unconcerned	1	3	9
+unconvincing	1	3	7
+unconvincingly	1	7
+uncouth	1	3	7
+undaunted	1	3	9
+undependability	1	5	7
+undependable	1	3	7
+underdog	1	3	5	7
+underestimate	1	6	7
+underlings	1	3	5	7
+undermine	1	6	7
+understand	1	6	9
+understandable	1	3	9
+understood	1	6	9
+understate	1	6	9
+understated	1	9
+understatedly	1	9
+undesirable	1	3	7
+undignified	1	3	7
+undisputable	1	9
+undisputably	1	9
+undoubted	1	3	9
+undoubtedly	1	4	9
+undue	1	3	7
+unease	1	3	5	7
+uneasily	1	7
+uneasiness	1	3	5	7
+uneasy	1	3	7
+unequal	1	7
+unequivocal	1	9
+unequivocally	1	9
+unethical	1	3	7
+unexpectedly	1	7
+unfair	1	3	7
+unfairly	1	4	7
+unfaithful	1	3	7
+unfaithfully	1	4	7
+unfavorable	1	7
+unfazed	1	9
+unfeeling	1	3	7
+unfettered	1	3	9
+unfit	1	3	7
+unforgettable	1	3	9
+unfortunate	1	7
+unfortunately	1	7
+unfounded	1	3	7
+unfriendly	1	3	7
+ungrateful	1	3	7
+ungovernable	1	3	5	7
+unhappily	1	4	7
+unhappiness	1	5	7
+unhappy	1	3	7
+unilateralism	1	3	5	7
+unimaginable	1	3	7
+unimaginably	1	7
+unimportant	1	3	7
+unipolar	1	3	5	7
+unjust	1	3	7
+unjustifiable	1	3	7
+unjustifiably	1	7
+unjustly	1	7
+unkind	1	3	7
+unkindly	1	4	7
+unlamentable	1	7
+unlamentably	1	7
+unleash	1	6	7
+unlucky	1	3	7
+unnaturally	1	7
+unnerve	1	6	7
+unnerved	1	3	7
+unnerving	1	7
+unnervingly	1	7
+unorthodox	1	3	7
+unorthodoxy	1	5	7
+unparalleled	1	3	9
+unpleasant	1	3	7
+unpleasantries	1	3	5	7
+unpopular	1	3	7
+unprecedent	1	3	7
+unprecedented	1	7
+unpretentious	1	3	9
+unqualified	1	3	7
+unquestionable	1	9
+unquestionably	1	9
+unravel	1	3	5	7
+unrealistic	1	3	7
+unreasonable	1	2	3	7
+unreasonably	1	7
+unrelenting	1	3	7
+unrelentingly	1	7
+unreliability	1	3	5	7
+unreliable	1	3	7
+unrest	1	5	7
+unruly	1	3	7
+unsavory	1	3	7
+unscrupulous	1	3	7
+unscrupulously	1	7
+unseemly	1	7
+unselfish	1	3	9
+unsettle	1	6	7
+unsettling	1	7
+unsettlingly	1	7
+unsophisticated	1	3	7
+unsound	1	3	7
+unspeakable	1	3	7
+unspeakablely	1	4	7
+unsuspecting	1	3	7
+untenable	1	3	7
+unthinkable	1	3	7
+unthinkably	1	7
+untimely	1	3	7
+untrue	1	7
+untrustworthy	1	3	7
+untruthful	1	3	7
+unusually	1	7
+unwanted	1	3	7
+unwarranted	1	3	7
+unwelcome	1	7
+unwieldy	1	3	7
+unwilling	1	3	7
+unwillingly	1	4	7
+unwillingness	1	5	7
+unwise	1	3	7
+unwisely	1	4	7
+unworkable	1	3	7
+unworthy	1	3	7
+unyielding	1	3	7
+upbeat	1	3	9
+upbraid	1	6	7
+upheaval	1	5	7
+upheld	1	6	9
+uphold	1	6	9
+uplifting	1	9
+upliftingly	1	9
+upliftment	1	3	5	9
+uproar	1	5	7
+uproarious	1	7
+uproariously	1	7
+uproarous	1	3	7
+uproarously	1	7
+upsetting	1	3	7
+upsettingly	1	7
+upside	1	3	5	9
+urge	1	6	9
+urgency	1	3	5	7
+usurp	1	6	7
+usurper	1	5	7
+utmost	1	3	9
+utter	1	3	7
+utterances	1	3	5	8
+utterly	1	7
+uttermost	1	3	9
+vagrant	1	5	7
+vain	1	3	7
+vainly	1	3	7
+valiant	1	3	9
+valiantly	1	9
+valor	1	5	9
+valuable	1	2	3	9
+vanquish	1	6	9
+vehement	1	7
+vehemently	1	7
+venerable	1	3	9
+venerably	1	4	9
+vengeance	1	5	7
+vengeful	1	7
+vengefully	1	7
+vengefulness	1	5	7
+venom	1	3	5	7
+venomous	1	3	7
+venomously	1	7
+vent	1	3	5	7
+veritable	1	3	9
+vestiges	1	3	5	7
+veto	1	3	5	7
+vex	1	6	7
+vexation	1	5	7
+vexing	1	7
+vexingly	1	7
+vibrant	1	3	9
+vibrantly	1	9
+vice	1	5	7
+vicious	1	3	7
+viciously	1	7
+viciousness	1	5	7
+victimize	1	6	7
+vie	1	6	7
+view	1	3	5	6	8
+viewpoints	1	3	5	8
+views	1	3	5	8
+vile	1	3	7
+vileness	1	5	7
+vilify	1	6	7
+villainous	1	7
+villainously	1	7
+villains	1	3	5	7
+villian	1	5	7
+villianous	1	3	7
+villianously	1	7
+villify	1	6	7
+vindicate	1	6	9
+vindictive	1	7
+vindictively	1	7
+vindictiveness	1	5	7
+violate	1	6	7
+violator	1	3	5	7
+virtue	1	5	9
+virtuous	1	3	9
+virtuously	1	4	9
+virulence	1	5	7
+virulent	1	3	7
+virulently	1	7
+virus	1	3	5	7
+visionary	1	3	9
+vital	1	3	9
+vitality	1	3	5	9
+vivacious	1	3	9
+vivid	1	3	9
+vociferous	1	3	7
+vociferously	1	7
+vouch	1	6	9
+vouchsafe	1	6	9
+vow	1	6	9
+vulgar	1	3	7
+vulnerable	1	3	5	9
+wail	1	6	7
+waning	1	3	5	7
+want	1	6	9
+wanton	1	3	7
+war-like	1	3	5	7
+warlike	1	3	7
+warmhearted	1	3	9
+warmly	1	4	9
+wary	1	3	7
+warily	1	4	7
+wariness	1	5	7
+watchdog	1	3	5	7
+wayward	1	3	7
+weaken	1	6	7
+weakening	1	3	5	7
+weakness	1	3	5	7
+weaknesses	1	3	5	7
+weariness	1	5	7
+wearisome	1	3	7
+weary	1	2	3	5	6	7
+wee	1	3	7
+weird	1	3	5	7
+weirdly	1	4	7
+welcome	1	2	3	5	6	9
+well-being	1	3	5	9
+well-connected	1	3	9
+well-informed	1	3	9
+well-intentioned	1	3	9
+well-managed	1	3	9
+well-received	1	3	9
+well-regarded	1	3	9
+well-run	1	3	9
+well-wishers	1	3	5	9
+wellbeing	1	3	5	9
+wheedle	1	6	7
+whimper	1	6	7
+whimsical	1	3	9
+whine	1	6	7
+whips	1	3	5	7
+wholeheartedly	1	9
+wholesome	1	3	9
+wicked	1	3	7
+wickedly	1	7
+wickedness	1	5	7
+wiles	1	5	7
+will	1	3	5	9
+willful	1	3	9
+willfully	1	3	9
+willing	1	3	9
+willingness	1	3	5	9
+wilt	1	6	7
+wily	1	3	7
+wince	1	6	7
+wink	1	3	5	9
+winnable	1	3	5	9
+winners	1	3	5	9
+wisdom	1	3	5	9
+wise	1	3	5	9
+wisely	1	4	9
+wish	1	3	5	6	9
+wishes	1	3	5	9
+wishing	1	3	5	9
+witty	1	3	9
+woe	1	5	7
+woebegone	1	3	7
+woeful	1	3	7
+woefully	1	7
+wonder	1	9
+wonderful	1	3	9
+wonderfully	1	9
+wonderous	1	3	9
+wonderously	1	9
+wondrous	1	9
+woo	1	6	9
+workable	1	3	9
+world-famous	1	3	9
+worried	1	3	7
+worriedly	1	4	7
+worrier	1	5	7
+worries	1	3	5	7
+worrisome	1	3	7
+worry	1	3	5	6	7
+worrying	1	7
+worryingly	1	7
+worse	1	3	7
+worsen	1	7
+worsening	1	7
+worst	1	3	7
+worth	1	3	5	9
+worth-while	1	3	9
+worthiness	1	3	9
+worthless	1	3	7
+worthlessly	1	7
+worthlessness	1	5	7
+worthwhile	1	3	9
+worthy	1	3	9
+wound	1	2	3	5	6	7
+wow	1	6	9
+wrangle	1	6	7
+wrath	1	5	7
+wrest	1	6	7
+wretch	1	5	7
+wretched	1	3	7
+wretchedly	1	7
+wretchedness	1	5	7
+wrongly	1	7
+wry	1	3	9
+yawn	1	5	6	7
+yeah	1	8
+yearn	1	6	9
+yearning	1	5	9
+yearningly	1	9
+yelp	1	6	7
+yep	1	9
+yes	1	9
+zeal	1	5	9
+zealot	1	5	7
+zealous	1	3	7
+zealously	1	7
+zenith	1	5	9
+zest	1	5	9
+abandonment	2	5	7
+abandon	2	6	7
+abate	2	6	7
+abdicate	2	6	7
+abjure	2	6	7
+abilities	2	5	9
+ability	2	5	9
+able	2	3	9
+abnormal	2	3	7
+abolish	2	6	7
+above	2	9
+above-average	2	3	9
+abound	2	6	9
+abrade	2	6	7
+abrupt	2	3	7
+absence	2	5	7
+absentee	2	7
+absorbed	2	6	8
+abundant	2	3	9
+abundance	2	5	9
+abuses	2	3	5	7
+accept	2	6	9
+acceptance	2	5	9
+acceptable	2	3	9
+accessible	2	3	9
+accidental	2	3	7
+accommodative	2	3	9
+accomplish	2	6	9
+accomplishment	2	5	9
+accomplishments	2	5	9
+accord	2	6	9
+accordance	2	5	9
+accordantly	2	4	9
+accost	2	6	7
+accountable	2	3	7
+accurate	2	3	9
+accurately	2	3	9
+achievable	2	3	9
+achieve	2	6	9
+achievement	2	9
+achievements	2	9
+acknowledge	2	6	9
+acknowledgement	2	5	9
+acquit	2	6	9
+active	2	3	9
+adaptable	2	3	9
+adaptability	2	5	9
+adaptive	2	3	9
+addict	2	5	7
+addiction	2	5	7
+adept	2	3	9
+adeptly	2	4	9
+adequate	2	3	9
+adherence	2	5	9
+adherent	2	3	9
+adhesion	2	5	9
+admission	2	3	5	9
+adrift	2	7
+advanced	2	3	9
+advantage	2	3	5	9
+advantages	2	3	5	9
+adventure	2	3	5	9
+adventurous	2	3	9
+adversarial	2	3	7
+adversary	2	5	7
+adverse	2	3	7
+advice	2	3	5	9
+advisable	2	5	9
+affability	2	5	9
+affably	2	4	9
+affect	2	6	8
+affectation	2	5	7
+affinity	2	5	9
+affirmative	2	5	9
+afflict	2	6	7
+affliction	2	5	7
+affluent	2	3	9
+affluence	2	5	9
+afford	2	6	9
+affordable	2	3	9
+afloat	2	3	9
+against	2	7
+agile	2	3	9
+agilely	2	4	9
+agility	2	5	9
+agreement	2	3	5	9
+ail	2	5	6	7
+ailment	2	5	7
+airs	2	3	5	7
+alarm	2	3	6	7
+alert	2	3	8
+alienate	2	6	7
+alienated	2	3	7
+alienation	2	5	7
+all-time	2	3	5	8
+allege	2	6	7
+allergic	2	3	7
+alleviate	2	6	9
+allow	2	6	9
+allowable	2	3	9
+altercation	2	5	7
+although	2	7
+ambitious	2	3	5	9
+ambitiously	2	9
+ambush	2	5	6	7
+amenity	2	5	9
+amity	2	3	5	9
+amnesty	2	5	9
+ample	2	3	9
+amply	2	4	9
+amplify	2	6	8
+amputate	2	6	7
+analytical	2	3	8
+anemic	2	3	7
+angel	2	5	9
+animated	2	3	9
+anomalous	2	3	7
+anomaly	2	5	7
+antagonist	2	5	7
+apparent	2	8
+apparently	2	8
+appeal	2	3	5	6	9
+appear	2	8
+appearance	2	3	5	8
+appease	2	6	9
+appreciable	2	3	9
+apprehend	2	6	8
+appropriate	2	3	9
+approval	2	5	9
+approve	2	6	9
+apt	2	3	9
+aptly	2	4	9
+aptitude	2	5	9
+aristocratic	2	3	9
+argument	2	3	5	7
+arguments	2	3	5	7
+artificial	2	3	7
+assail	2	6	7
+assassinate	2	6	7
+assault	2	3	5	7
+assertive	2	3	9
+assessment	2	3	5	8
+assessments	2	3	5	8
+asset	2	5	9
+assuage	2	6	9
+assumption	2	3	5	8
+assurance	2	3	5	9
+assurances	2	3	5	9
+astray	2	3	7
+asylum	2	3	5	9
+attack	2	5	6	7
+attain	2	6	9
+attainable	2	3	9
+attitudes	2	3	5	8
+attune	2	3	9
+authentic	2	3	9
+authoritarian	2	3	7
+authoritative	2	3	9
+award	2	3	6	9
+autonomous	2	3	9
+avoid	2	6	7
+avoidance	2	5	7
+back	2	6	9
+backbone	2	5	9
+balanced	2	3	9
+bankrupt	2	3	6	7
+bar	2	6	7
+barely	2	7
+basic	2	3	9
+basically	2	8
+bask	2	6	9
+batons	2	3	5	8
+battered	2	3	7
+battering	2	3	5	7
+battle	2	6	7
+battlefield	2	5	7
+beacon	2	5	9
+bearish	2	3	7
+beggar	2	5	7
+belated	2	3	7
+beliefs	2	3	5	8
+benefactor	2	5	9
+benefit	2	3	5	9
+benefits	2	3	5	9
+benign	2	3	9
+bent	2	3	7
+beset	2	3	7
+besiege	2	6	7
+best-selling	2	3	9
+beware	2	6	7
+bid-rigging	2	3	7
+big	2	3	8
+black	2	3	7
+blackmail	2	6	7
+blast	2	7
+bleed	2	6	7
+blemish	2	5	6	7
+blind	2	7
+blindness	2	3	7
+block	2	5	6	7
+blood	2	3	5	7	8
+bloody	2	3	7
+bloom	2	6	9
+blossom	2	6	9
+blow	2	3	5	7
+blur	2	6	7
+bombard	2	6	7
+bomb	2	6	7
+bonus	2	5	9
+boom	2	5	9
+booming	2	3	9
+boost	2	3	6	9
+boycott	2	3	5	7
+breach	2	3	5	7
+break	2	6	7
+breakdown	2	6	7
+breakthrough	2	3	5	9
+breakthroughs	2	3	5	9
+bright	2	3	9
+brighten	2	9
+brightness	2	5	9
+brilliance	2	5	9
+brisk	2	3	9
+brittle	2	3	7
+broad	2	3	9
+broad-based	2	3	8
+broke	2	3	7
+brotherly	2	3	9
+bruise	2	5	7
+bug	2	6	7
+buckle	2	6	7
+bulky	2	3	7
+bull	2	3	5	9
+bullish	2	3	5	9
+bum	2	5	7
+bumpy	2	3	7
+bunk	2	5	7
+buoyant	2	3	9
+busy	2	3	7
+butcher	2	6	7
+calm	2	3	6	9
+calmness	2	5	9
+cancer	2	5	7
+cancerous	2	3	7
+capable	2	3	9
+capability	2	5	9
+capably	2	3	9
+capitalize	2	6	9
+capitulate	2	6	7
+capsize	2	6	7
+captive	2	3	7
+care	2	6	9
+careful	2	3	9
+cartoon	2	3	5	7
+cash-strapped	2	3	7
+casualty	2	5	7
+cautious	2	3	7
+cave	2	6	7
+ceaseless	2	3	8
+celebrity	2	5	9
+central	2	3	8
+certain	2	8
+certified	2	3	8
+challenge	2	5	6	7
+challenging	2	3	7
+champion	2	3	5	9
+champ	2	5	9
+chant	2	3	5	8
+charitable	2	3	5	9
+charity	2	5	9
+chill	2	6	7
+chilly	2	3	7
+choppy	2	3	7
+choke	2	6	7
+chore	2	5	7
+chronic	2	3	7
+chum	2	5	9
+civilization	2	5	9
+civilize	2	3	6	9
+civil	2	3	9
+claim	2	8
+clamor	2	5	7
+clamorous	2	3	7
+clandestine	2	3	8
+clarity	2	3	9
+clash	2	3	5	7
+classic	2	5	9
+clean	2	3	9
+cleanliness	2	5	9
+cleanse	2	6	9
+clear	2	9
+clique	2	5	7
+clog	2	6	7
+close	2	3	7
+co-operation	2	3	5	9
+coarse	2	3	7
+coddle	2	6	9
+cohesive	2	3	9
+cognizance	2	3	5	8
+cohere	2	6	9
+coherent	2	3	9
+cohesion	2	5	9
+cold	2	3	7
+collapse	2	3	6	7
+collide	2	6	7
+colorful	2	3	9
+colossal	2	3	9
+combative	2	3	7
+comeback	2	3	5	9
+comedy	2	3	5	7
+comfort	2	6	9
+comfortable	2	3	5	9
+comfortably	2	4	9
+comical	2	3	7
+commensurate	2	3	9
+commonsense	2	5	9
+commonsensible	2	3	9
+commonsensibly	2	4	9
+commonsensical	2	3	9
+comment	2	3	5	8
+commentator	2	3	5	8
+commodious	2	3	9
+commitment	2	3	5	9
+commonplace	2	3	7
+compact	2	3	9
+compatible	2	3	5	9
+competent	2	3	9
+competence	2	5	9
+competency	2	5	9
+competitive	2	3	5	9
+competitiveness	2	9
+complete	2	3	8
+completely	2	4	8
+complex	2	3	7
+complicate	2	6	7
+complicated	2	3	7
+complication	2	5	7
+comprehensive	2	3	9
+compromise	2	3	5	6	9
+compromises	2	3	5	9
+compulsory	2	3	7
+concerning	2	3	5	8
+concerted	2	3	8
+concession	2	3	5	7
+concessions	2	3	5	7
+conclusive	2	3	9
+concrete	2	3	9
+conducive	2	3	5	9
+confer	2	6	9
+conflict	2	3	5	7
+confound	2	6	7
+confounded	2	7
+confounding	2	7
+confront	2	6	7
+confrontational	2	3	7
+congested	2	3	7
+congestion	2	5	7
+conquer	2	6	9
+conscience	2	3	5	8	9
+consciousness	2	3	5	8
+consideration	2	3	5	8
+consistent	2	3	9
+console	2	6	9
+conspiracies	2	3	5	7
+conspiracy	2	3	5	7
+constitutions	2	3	5	8
+constrain	2	6	7
+constraint	2	5	7
+constructive	2	3	5	9
+consume	2	6	7
+contagious	2	3	7
+contaminate	2	6	7
+contamination	2	5	7
+continuity	2	5	9
+continuous	2	3	8
+contribution	2	3	5	9
+controversial	2	3	5	7
+controversy	2	3	5	7
+conviction	2	3	5	9
+convince	2	6	9
+cooperate	2	6	9
+cooperation	2	3	5	9
+cooperative	2	3	9
+cooperatively	2	4	9
+coping	2	3	5	7
+cordial	2	3	9
+correct	2	3	9
+corrective	2	3	8
+corrode	2	6	7
+corrosion	2	5	7
+corrosive	2	3	7
+cost-effective	2	3	9
+cost-saving	2	3	9
+costly	2	3	7
+could	2	8
+covenant	2	5	9
+covert	2	3	8
+cow	2	6	7
+crackdown	2	3	5	7
+cramped	2	3	7
+crime	2	5	7
+criminal	2	5	7
+crisis	2	3	5	7
+crisp	2	3	9
+crowded	2	3	7
+crude	2	3	7
+crumble	2	6	7
+crumple	2	6	7
+crush	2	6	7
+crushing	2	3	7
+cursory	2	3	7
+curt	2	3	7
+cut	2	6	7
+damage	2	5	6	7
+damaging	2	3	7
+dance	2	5	6	9
+danger	2	3	5	7
+dangerous	2	3	7
+dark	2	3	7
+darken	2	6	7
+darkness	2	5	7
+dash	2	6	7
+dawn	2	6	9
+dead	2	3	7
+deadly	2	3	7
+deaf	2	3	7
+deal	2	5	9
+death	2	5	7
+debilitate	2	6	7
+debilitating	2	3	7
+debility	2	5	7
+decent	2	3	9
+decency	2	5	9
+decide	2	6	8
+decisive	2	3	9
+decisiveness	2	3	5	9
+decline	2	5	6	7
+declining	2	3	7
+decrease	2	5	6	7
+decreasing	2	3	7
+decrement	2	5	7
+deep	2	3	5	7	8
+defeat	2	5	6	7
+defect	2	5	7
+defend	2	6	9
+defensive	2	3	7
+defense	2	5	9
+deficiency	2	5	7
+deficient	2	3	7
+definite	2	3	9
+definitely	2	9
+definitive	2	3	5	9
+deflationary	2	3	9
+deform	2	6	7
+deformed	2	3	7
+delicacy	2	5	9
+delicate	2	3	9
+delinquency	2	5	7
+delinquent	2	3	7
+deluge	2	5	7
+demands	2	3	5
+democratic	2	3	9
+demolish	2	6	7
+demolisher	2	5	7
+dependable	2	3	9
+dependent	2	3	5	8
+deplete	2	6	7
+depress	2	6	7
+depression	2	3	5	7
+destine	2	6	9
+destined	2	3	9
+destroy	2	6	7
+destruction	2	5	7
+deter	2	6	7
+deteriorate	2	3	7
+deteriorating	2	3	5	7
+deterioration	2	5	7
+deterrent	2	7
+detract	2	6	7
+detraction	2	5	7
+devastation	2	5	7
+deviate	2	3	5	6	7
+deviation	2	5	7
+devout	2	3	9
+dexterity	2	5	9
+dictator	2	5	7
+dictatorial	2	3	7
+differ	2	6	7
+difference	2	3	5	8
+difficult	2	3	7
+difficulties	2	3	5	7
+dig	2	5	6	7	9
+dignify	2	6	9
+dilemma	2	3	5	7
+diligence	2	5	9
+diligent	2	3	9
+diligently	2	4	9
+diminish	2	6	7
+diminishing	2	3	7
+din	2	5	7
+dinky	2	3	7
+diplomacy	2	3	5	8
+diplomatic	2	3	5	9
+direct	2	3	8
+dirt	2	5	7
+dirty	2	3	7
+disable	2	6	7
+disabled	2	3	7
+disadvantaged	2	3	7
+disarm	2	6	7
+discomfort	2	5	7
+discompose	2	6	7
+discreet	2	3	5	9
+discrepant	2	3	7
+discretion	2	5	9
+discriminate	2	6	7
+discriminating	2	3	9
+discriminatingly	2	4	9
+discrimination	2	3	5	7
+disease	2	5	7
+diseased	2	3	7
+disintegrate	2	6	7
+disintegration	2	5	7
+dislocated	2	3	7
+disorder	2	5	6	7
+disordered	2	3	7
+disorderly	2	3	7
+dispensable	2	3	7
+displace	2	6	7
+displaced	2	3	7
+disproportionate	2	3	7
+dissolution	2	5	7
+distinct	2	3	9
+distinction	2	5	9
+distinctive	2	3	5	9
+distinctly	2	3	8
+distinguish	2	6	9
+distract	2	6	7
+divergent	2	3	7
+diversified	2	3	9
+divide	2	6	7
+divided	2	3	7
+division	2	5	7
+divorce	2	5	6	7
+divorced	2	3	7
+dominance	2	3	5	7
+dominant	2	3	5	8
+dominate	2	6	7
+dope	2	5	7
+down	2	5	7
+downgrade	2	6	7
+dreams	2	3	5	9
+dreamy	2	3	9
+drive	2	5	9
+driven	2	3	9
+droop	2	6	7
+drought	2	3	5	7
+drowning	2	7
+dud	2	7
+dull	2	3	7
+dump	2	5	7
+durable	2	3	9
+durability	2	5	9
+dusty	2	3	7
+duty	2	5	8
+dwindle	2	6	7
+dwindling	2	3	7
+dynamic	2	3	9
+dying	2	7
+ease	2	5	6	9
+easier	2	9
+easiest	2	9
+easily	2	9
+easiness	2	9
+easy	2	3	9
+eccentric	2	3	7
+eccentricity	2	5	7
+economical	2	3	9
+educable	2	3	9
+educated	2	3	9
+educational	2	3	9
+effective	2	3	9
+effectively	2	4	8
+effectiveness	2	5	9
+effectual	2	3	9
+efficacious	2	3	9
+efficiency	2	5	9
+efficient	2	3	9
+egalitarian	2	3	9
+elate	2	6	9
+electrify	2	6	9
+elevate	2	6	9
+elevated	2	3	9
+eligible	2	3	9
+eliminate	2	6	7
+elimination	2	5	7
+elite	2	9
+else	2	8
+emancipate	2	6	9
+embattled	2	3	7
+embolden	2	6	9
+emotions	2	3	5	8
+emphasise	2	3	5	8
+empower	2	6	9
+empowerment	2	5	9
+empty	2	3	7
+enable	2	6	9
+encourage	2	6	9
+encroach	2	6	7
+encroachment	2	5	7
+endless	2	3	7
+enemies	2	3	5	7
+enemy	2	5	7
+energetic	2	3	5	9
+energize	2	6	9
+engage	2	6	8
+engross	2	6	8
+engulf	2	6	7
+enhance	2	6	9
+enhanced	2	3	9
+enhancement	2	5	9
+enjoy	2	6	9
+enlighten	2	6	9
+enlightenment	2	5	9
+enliven	2	6	9
+enough	2	8
+enrapture	2	6	9
+enrich	2	6	9
+enrichment	2	5	9
+ensure	2	6	9
+entangle	2	6	7
+entanglement	2	5	7
+enterprising	2	3	9
+entertain	2	6	9
+entire	2	8
+entrance	2	6	9
+entrust	2	6	9
+envision	2	6	9
+envisions	2	3	5	9
+epidemic	2	3	7
+equality	2	3	5	9
+equitable	2	3	9
+eradicate	2	6	7
+erase	2	6	7
+erode	2	6	7
+erosion	2	5	7
+errant	2	3	7
+error	2	3	5	7
+escapade	2	5	7
+esoteric	2	3	7
+essential	2	3	9
+established	2	3	9
+eternal	2	3	7
+evaluation	2	3	5	8
+evade	2	6	7
+evasion	2	5	7
+evasive	2	3	7
+even	2	4	9
+evenly	2	4	9
+eventful	2	3	9
+evident	2	9
+exacting	2	3	7
+excite	2	6	9
+exclude	2	6	7
+exclusion	2	5	7
+exclusive	2	3	9
+exclusively	2	3	8
+excuse	2	3	5	6	7	9
+excuses	2	3	5	7
+exhaust	2	6	7
+exhaustion	2	5	7
+exhaustive	2	3	9
+exhaustively	2	4	9
+exile	2	6	7
+expectation	2	3	5	8
+expedient	2	3	7
+expediencies	2	3	5	7
+expel	2	6	7
+expensive	2	3	5	7
+experienced	2	3	9
+expert	2	3	9
+explode	2	6	7
+expose	2	6	7
+exposed	2	3	7
+explosive	2	3	7
+expound	2	6	8
+expression	2	3	5	8
+expressions	2	3	5	8
+expressive	2	3	9
+expropriate	2	3	5	7
+expropriation	2	3	5	7
+expulse	2	6	7
+extensive	2	3	8
+extinguish	2	6	7
+extort	2	6	7
+extraneous	2	3	7
+extremism	2	3	5	7
+extremist	2	3	7
+extremists	2	3	5	7
+eyebrows	2	3	5	8
+fabricate	2	6	7
+facilitate	2	6	9
+factual	2	8
+fading	2	7
+fail	2	6	7
+failure	2	3	5	7
+failures	2	3	5	7
+faint	2	3	7
+fair	2	3	5	9
+fairly	2	4	9
+fairness	2	3	5	9
+fall	2	6	7
+familiar	2	3	8
+famous	2	3	9
+far-reaching	2	3	8
+farsighted	2	3	9
+fast	2	3	8
+fast-growing	2	3	9
+fast-paced	2	3	9
+fastest-growing	2	3	9
+fat	2	3	7
+fatal	2	3	7
+fatally	2	4	7
+fathom	2	6	9
+fatigue	2	5	7
+fatty	2	3	7
+faulty	2	3	7
+favored	2	3	9
+faze	2	6	7
+feasible	2	3	9
+feasibly	2	4	9
+feat	2	5	9
+feeble	2	3	7
+feeblely	2	3	7
+feign	2	6	7
+feint	2	5	7
+felon	2	5	7
+felonious	2	3	7
+fertile	2	3	5	9
+feverish	2	3	7
+fever	2	5	7
+fiat	2	3	5	7
+fiction	2	3	5	7
+fictional	2	3	7
+fierce	2	3	7
+fiery	2	3	9
+fight	2	3	5	7
+figurehead	2	3	5	7
+finagle	2	6	7
+fine	2	3	6	7	9
+firm	2	3	5	8
+firmly	2	4	8
+first-class	2	3	9
+fissures	2	3	5	7
+fist	2	5	7
+flagging	2	3	7
+flair	2	5	9
+flake	2	5	7
+flakey	2	3	7
+flaky	2	3	7
+flame	2	3	5	9
+flash	2	3	5	7
+flashy	2	7
+flaw	2	3	5	7
+flaws	2	5	7
+flawed	2	3	5	7
+fleeting	2	3	7
+flimsy	2	3	7
+floor	2	6	8
+fluent	2	3	9
+fluster	2	6	7
+foolproof	2	3	9
+forbidding	2	3	5	7
+force	2	6	7
+forceful	2	3	7
+forfeit	2	6	7
+forged	2	3	7
+forthright	2	3	8
+fracture	2	5	6	7
+fragile	2	3	5	7
+fragmented	2	3	7
+frail	2	3	7
+fraud	2	3	5	7
+fraudulent	2	3	7
+free	2	3	9
+freedom	2	3	5	9
+freedoms	2	3	5	9
+frequent	2	3	8
+fresh	2	3	9
+friend	2	3	5	9
+friends	2	3	5	9
+friendship	2	3	5	9
+frigid	2	3	7
+frozen	2	3	7
+fruitful	2	3	9
+fumble	2	6	7
+fugitive	2	3	7
+fulfillment	2	3	5	9
+full	2	3	8
+fully	2	4	8
+full-blown	2	3	7
+full-fledged	2	3	9
+full-scale	2	3	8
+functional	2	3	9
+fundamentalism	2	3	5	7
+funded	2	3	8
+further	2	8
+fuzzy	2	3	7
+gain	2	5	6	9
+galvanize	2	6	8
+gamble	2	5	6	7
+game	2	3	7
+garbage	2	3	5	7
+gem	2	3	5	9
+gems	2	3	5	9
+genial	2	3	9
+gentle	2	3	9
+genuine	2	3	9
+germane	2	3	9
+gestures	2	3	5	8
+ghetto	2	5	7
+giant	2	3	5	8
+giants	2	3	5	8
+gigantic	2	3	8
+glitch	2	5	7
+glut	2	5	7
+gnawing	2	7
+go-ahead	2	3	5	9
+gold	2	5	9
+golden	2	3	9
+good	2	9
+goodly	2	4	9
+graft	2	5	7
+grail	2	3	5	9
+grand	2	3	9
+grapple	2	6	7
+grill	2	6	7
+gritty	2	3	7
+groove	2	6	9
+gross	2	3	7
+growing	2	3	8
+guarantee	2	5	6	9
+guardian	2	5	9
+guidance	2	3	5	9
+guilty	2	3	7
+gush	2	6	9
+halfway	2	3	5	8
+halt	2	3	8
+handicapped	2	3	7
+haphazard	2	3	7
+harass	2	6	7
+harboring	2	3	5	7
+harbors	2	3	5	7
+hard	2	3	7
+hard-hit	2	3	7
+hard-working	2	3	9
+harden	2	6	7
+hardened	2	3	7
+hardliner	2	5	7
+hardliners	2	3	5	7
+hardy	2	3	9
+haunt	2	6	7
+hazard	2	5	6	7
+hazardous	2	3	7
+hazy	2	3	7
+headache	2	5	7
+headaches	2	3	5	7
+headway	2	5	9
+heal	2	6	9
+healthy	2	3	5	9
+heart	2	3	9
+heaven	2	5	9
+heavy-duty	2	3	8
+hectic	2	3	7
+hefty	2	3	8
+hegemonism	2	3	5	7
+help	2	3	5	6	9
+helpful	2	3	9
+helpless	2	3	7
+helplessly	2	4	7
+helplessness	2	5	7
+high	2	3	8
+high-powered	2	3	8
+high-quality	2	3	9
+historic	2	3	9
+hobble	2	6	7
+hole	2	5	7
+holy	2	3	9
+honeymoon	2	5	9
+horde	2	5	7
+hostage	2	5	7
+hostile	2	3	5	7
+hostilities	2	3	5	7
+hot	2	3	9
+hothouse	2	3	5	7
+however	2	8
+huge	2	3	8
+humanists	2	3	5	9
+humanity	2	5	9
+hungry	2	3	7
+hurt	2	3	6	7
+hurtful	2	3	7
+hustler	2	5	7
+hypnotize	2	6	8
+icy	2	3	7
+idea	2	3	5	8
+idealism	2	5	9
+idealist	2	5	9
+idle	2	3	7
+ignite	2	6	8
+ignore	2	6	7
+ill	2	3	5	7
+illegal	2	3	7
+illegally	2	4	7
+illegitimate	2	3	7
+illicit	2	3	7
+illiquid	2	3	7
+illiterate	2	3	7
+illness	2	5	7
+immature	2	3	7
+immediate	2	3	8
+immense	2	3	8
+immobilized	2	7
+immune	2	3	8
+impartial	2	3	9
+impartiality	2	5	9
+impartially	2	4	9
+impassive	2	3
+imperfect	2	3	7
+imperfectly	2	4	7
+imperial	2	3	9
+impermissible	2	3	7
+impersonal	2	3	7
+impetus	2	5	9
+implicate	2	6	7
+implication	2	3	5	7
+implicit	2	3	8
+importance	2	5	9
+important	2	3	9
+importantly	2	4	9
+imposing	2	3	5	7
+impossible	2	3	7
+impossiblity	2	5	7
+impossibly	2	4	7
+impoverish	2	6	7
+impoverished	2	3	7
+imprecise	2	3	7
+imprecisely	2	4	7
+imprecision	2	3	7
+impress	2	6	9
+impression	2	3	5	9
+impressions	2	3	5	9
+imprison	2	6	7
+imprisonment	2	5	7
+improving	2	3	9
+improve	2	6	9
+improved	2	3	9
+improvement	2	5	9
+impunity	2	3	5	7
+inability	2	3	5	7
+inaccessible	2	3	7
+inaccuracy	2	5	7
+inaccuracies	2	5	7
+inaction	2	5	7
+inactive	2	3	7
+inadequacy	2	5	7
+inadequate	2	3	7
+inadequately	2	4	7
+inadverent	2	3	7
+inadverently	2	4	7
+inadvisable	2	3	7
+inadvisably	2	4	7
+inalienable	2	3	9
+incense	2	6	7
+incite	2	6	7
+incitement	2	3	5	7
+inclement	2	3	7
+inclusive	2	3	9
+incomparable	2	3	7
+incomparably	2	4	7
+incompatibility	2	5	7
+incompatible	2	3	5	7
+incomplete	2	3	7
+incompliant	2	3	7
+inconclusive	2	3	7
+inconsistency	2	5	7
+inconsistent	2	3	7
+incorrect	2	7
+increasing	2	3	8
+increasingly	2	4	8
+indebted	2	3	9
+indefinite	2	3	7
+indefinitely	2	4	7
+independence	2	3	5	9
+independent	2	3	9
+indeterminable	2	3	7
+indeterminably	2	4	7
+indeterminate	2	3	7
+indication	2	3	5	8
+indigent	2	3	7
+indirect	2	3	8
+indiscernible	2	3	7
+indistinct	2	3	7
+indistinctive	2	3	7
+individuality	2	5	9
+industrious	2	3	9
+ineffective	2	3	7
+ineffectively	2	4	7
+ineffectiveness	2	5	7
+ineffectual	2	3	7
+ineffectually	2	4	7
+ineffectualness	2	5	7
+inefficiency	2	5	7
+inefficient	2	3	7
+inefficiently	2	4	7
+ineligible	2	3	7
+inequalities	2	3	5	7
+inertia	2	3	5	7
+inexact	2	3	7
+inexpensive	2	3	9
+inexperience	2	5	7
+inexperienced	2	3	7
+inexpert	2	3	7
+inexpertly	2	4	7
+infected	2	7
+infectious	2	3	8
+inference	2	3	5	8
+infest	2	6	7
+infested	2	3	7
+infiltrator	2	5	7
+infiltrators	2	3	5	7
+inflated	2	3	7
+inflationary	2	3	7
+influence	2	3	5	8
+influential	2	3	9
+informational	2	3	8
+informative	2	3	9
+infraction	2	5	7
+inhibit	2	6	7
+inhibition	2	5	7
+injure	2	6	7
+injurious	2	3	7
+injury	2	5	7
+innocence	2	3	5	9
+innocent	2	3	9
+innocently	2	3	9
+innovation	2	3	5	9
+innovative	2	3	9
+innumerable	2	3	8
+innumerably	2	4	8
+innumerous	2	3	8
+insecure	2	3	7
+insensible	2	3	7
+insignificance	2	5	7
+insignificant	2	3	7
+insignificantly	2	4	7
+insistence	2	3	5	9
+isolation	2	5	7
+insolvent	2	3	7
+instability	2	5	7
+instable	2	3	7
+instructive	2	3	9
+instrumental	2	3	9
+insubordinate	2	3	7
+insufficiency	2	5	7
+insufficient	2	3	7
+insufficiently	2	4	7
+insular	2	3	7
+insurmountable	2	3	7
+insurmountably	2	4	7
+insurrection	2	3	5	7
+intact	2	3	9
+integral	2	3	9
+intelligence	2	5	9
+intend	2	6	8
+intense	2	3	5	8
+intensive	2	3	8
+intensively	2	4	8
+intent	2	3	5	8
+intention	2	3	5	8
+intentions	2	3	5	8
+intents	2	3	5	8
+intercede	2	6	9
+interest	2	3	5	6	9
+interested	2	3	9
+interests	2	3	5	9
+interfere	2	6	7
+interference	2	3	5	7
+intermittent	2	3	7
+interrupt	2	6	7
+interruption	2	5	7
+intimidate	2	6	7
+intimidation	2	3	5	7
+intoxicate	2	6	7
+intractable	2	3	7
+intricate	2	3	9
+intrusion	2	5	7
+invader	2	3	5	7
+invasive	2	3	7
+inventive	2	3	9
+invigorate	2	6	9
+invisible	2	3	8
+involuntarily	2	4	7
+involuntary	2	3	7
+irregular	2	3	7
+irregularity	2	5	7
+irresolvable	2	3	7
+irretrievable	2	3	7
+irritant	2	5	7
+isolate	2	6	7
+isolated	2	3	7
+jam	2	5	7
+jar	2	6	7
+jobless	2	3	7
+jollify	2	6	9
+jolt	2	6	7
+judgement	2	3	5	8
+judgements	2	3	5	8
+judgment	2	3	5	8
+judgments	2	3	5	8
+jumpy	2	3	7
+junk	2	5	7
+junky	2	3	7
+justice	2	3	5	9
+juvenile	2	3	7
+key	2	3	8
+kill	2	6	7
+killer	2	5	7
+kiss	2	5	6	9
+knife	2	6	7
+knock	2	5	6	7
+lag	2	6	7
+lame	2	3	7
+lanky	2	3	7
+large	2	3	4	8	9
+large-scale	2	3	8
+lapse	2	5	7
+largely	2	4	8
+lawful	2	3	9
+lawfully	2	4	9
+leading	2	3	9
+leak	2	6	7
+leakage	2	5	7
+leaky	2	3	7
+lean	2	3	5	9
+learn	2	3	8
+learning	2	5	9
+learned	2	5	9
+least	2	7
+lecture	2	5	6	7
+legacy	2	5	8
+legacies	2	3	5	8
+legalistic	2	3	5	8
+legendary	2	3	9
+legitimacy	2	5	9
+legitimate	2	3	9
+legitimately	2	4	9
+lenient	2	3	9
+leniently	2	4	9
+less	2	4	7
+less-developed	2	3	7
+less-expensive	2	3	9
+lessen	2	6	7
+lesser	2	7
+lesser-known	2	3	7
+lethal	2	3	7
+lethargic	2	3	7
+lethargy	2	5	7
+leverage	2	5	6	9
+liable	2	3	7
+liberal	2	3	9
+liberation	2	3	5	9
+liberalism	2	5	9
+liberally	2	4	9
+life-threatening	2	3	7
+lifeless	2	3	7
+lifelong	2	3	9
+light	2	3	5	9
+lighten	2	6	9
+likelihood	2	3	5	8
+likely	2	8
+limit	2	3	6	7
+limitation	2	5	7
+limited	2	3	7
+literate	2	3	9
+live	2	3	9
+logical	2	3	9
+look	2	8
+looking	2	8
+lose	2	6	7
+loser	2	5	7
+loss	2	5	7
+lost	2	3	7
+low	2	3	7
+low-cost	2	3	9
+low-risk	2	3	9
+lower-priced	2	3	9
+loyal	2	3	9
+lucrative	2	3	5	9
+lull	2	6	7
+luminous	2	3	9
+luxuriate	2	6	9
+magnetic	2	3	9
+magnify	2	6	9
+major	2	3	8
+malady	2	5	7
+malaise	2	5	7
+malignant	2	3	7
+manageable	2	3	9
+maneuver	2	3	5	7
+manipulate	2	6	7
+manipulation	2	3	5	7
+marginal	2	3	7
+marginally	2	4	7
+massive	2	3	8
+matter	2	6	8
+mature	2	3	9
+maturely	2	4	9
+maturity	2	5	9
+memories	2	3	5	8
+mend	2	6	9
+menial	2	3	7
+mentor	2	5	9
+messy	2	3	7
+meticulous	2	3	9
+meticulously	2	3	9
+miff	2	6	7
+mild	2	3	9
+mind	2	6	7
+minister	2	6	9
+minor	2	3	8
+misapprehend	2	6	7
+miscalculate	2	6	7
+miscalculation	2	3	5	7
+miss	2	6	7
+modern	2	3	9
+modest	2	3	9
+modesty	2	5	9
+moon	2	6	7
+moot	2	3	7
+mope	2	6	7
+most	2	8
+mostly	2	8
+motionless	2	3	7
+motive	2	3	5	8
+move	2	6	8
+much	2	8
+muddle	2	6	7
+muddy	2	3	7
+murder	2	5	6	7
+murderous	2	3	7
+murderously	2	4	7
+murky	2	3	7
+myriad	2	5	9
+mystify	2	6	7
+mistified	2	3	7
+nap	2	3	5	8
+narrow	2	3	7
+nascent	2	3	8
+natural	2	3	9
+naturally	2	4	9
+nature	2	3	5	8
+nauseate	2	6	7
+navigable	2	3	9
+neat	2	3	9
+neatly	2	4	9
+necessarily	2	3	9
+necessary	2	3	9
+needless	2	3	7
+needlessly	2	4	7
+needs	2	3	5	8
+needy	2	3	7
+negate	2	6	7
+negation	2	5	7
+negative	2	3	7
+negligible	2	3	7
+nettle	2	6	7
+neutralize	2	6	9
+niggle	2	6	7
+noisy	2	3	7
+non-violence	2	5	9
+non-violent	2	3	9
+nonexistent	2	3	7
+nonviolent	2	3	8
+normal	2	3	9
+noticeable	2	3	9
+notion	2	3	5	8
+nourish	2	6	9
+nourishing	2	3	9
+nourishment	2	5	9
+numb	2	6	7
+objective	2	3	9
+objectively	2	4	9
+obligation	2	3	5	8
+oblique	2	3	7
+obsolete	2	3	7
+obstruct	2	6	7
+obstruction	2	5	7
+obvious	2	3	5	8
+odd	2	3	7
+offence	2	3	5	7
+offensive	2	3	5	7
+offset	2	6	9
+olympic	2	3	8
+omission	2	5	7
+omit	2	6	7
+onslaught	2	3	5	7
+onward	2	3	5	9
+open	2	3	9
+openly	2	3	9
+open-ended	2	3	8
+openness	2	3	5	9
+opportunistic	2	3	7
+optimistic	2	3	9
+orderly	2	3	9
+original	2	3	9
+originality	2	5	9
+orphan	2	5	7
+outbreak	2	5	7
+outdated	2	3	7
+outgoing	2	3	9
+outlook	2	3	5	8
+outmoded	2	3	7
+outsider	2	5	7
+outspoken	2	3	5	8
+over-valuation	2	3	5	7
+overawe	2	6	7
+overbalance	2	6	7
+overbalanced	2	3	7
+overpower	2	6	7
+overreach	2	6	7
+overrun	2	6	7
+overshadow	2	6	7
+oversight	2	5	7
+oversimplification	2	5	7
+oversimplified	2	3	7
+oversimplify	2	6	7
+oversized	2	3	7
+overt	2	3	8
+overtaxed	2	3	7
+overthrow	2	6	7
+overturn	2	6	7
+overtures	2	3	5	8
+overwhelm	2	6	7
+pacify	2	6	8
+painful	2	3	7
+painfully	2	4	7
+painless	2	3	9
+painlessly	2	4	9
+pale	2	3	5	7
+pamper	2	6	9
+pan	2	6	7
+paralize	2	6	7
+paralyzed	2	3	7
+parasite	2	5	7
+particular	2	3	8
+particularly	2	4	8
+patient	2	3	5	9
+peace	2	3	5	9
+peaceful	2	3	5	9
+peacefully	2	4	9
+peacekeepers	2	3	5	9
+pedestrian	2	3	7
+penalty	2	3	5	7
+perilous	2	3	7
+perilously	2	4	7
+peripheral	2	3	7
+permissible	2	3	9
+persistence	2	3	5	8
+persistent	2	3	5	9
+personages	2	3	5	9
+perspective	2	3	5	8
+pertinent	2	3	9
+piety	2	5	9
+pinch	2	5	6	7
+pique	2	6	7
+pivotal	2	3	8
+placid	2	3	9
+plain	2	3	9
+player	2	3	5	8
+plea	2	5	7
+pleasant	2	3	9
+pleasantly	2	3	9
+plenary	2	3	8
+plentiful	2	3	9
+point	2	3	5	8
+pointless	2	3	7
+pointlessly	2	4	7
+poisonous	2	3	7
+poisonously	2	3	7
+polished	2	3	9
+polite	2	3	9
+politeness	2	5	9
+pollute	2	6	7
+polution	2	5	7
+poor	2	3	7
+popular	2	3	5	9
+popularity	2	3	5	9
+portable	2	3	9
+position	2	3	5	8
+positive	2	3	9
+possibility	2	3	5	8
+possible	2	8
+possibly	2	8
+posterity	2	5	9
+posture	2	3	5	8
+potential	2	3	5	9
+power	2	3	5	8
+powerful	2	3	9
+powerfully	2	4	9
+powerless	2	3	7
+practicable	2	3	9
+practical	2	3	9
+practically	2	8
+pre-eminent	2	3	9
+precarious	2	3	7
+precariously	2	4	7
+precedent	2	5	9
+precise	2	3	9
+precisely	2	4	9
+precision	2	5	9
+predatory	2	3	7
+predictable	2	3	8
+predictablely	2	4	8
+predominant	2	3	8
+preeminent	2	3	9
+preemptive	2	3	9
+premier	2	3	9
+premium	2	3	9
+preoccupy	2	6	7
+prepared	2	3	9
+press	2	6	9
+pressure	2	3	5	8
+pressures	2	3	5	8
+prestigious	2	3	9
+prevalent	2	3	8
+pricey	2	3	7
+primarily	2	3	8
+primary	2	3	8
+prime	2	3	8
+primitive	2	3	5	7
+principle	2	3	5	9
+principled	2	3	9
+prison	2	5	7
+prisoner	2	5	7
+pro	2	5	9
+problem	2	5	7
+problems	2	3	5	7
+productive	2	3	9
+profit	2	5	6	9
+profitable	2	3	9
+progress	2	5	6	9
+progressive	2	3	9
+prohibit	2	6	7
+prohibitive	2	3	7
+prohibitively	2	4	7
+prolific	2	3	9
+prominent	2	3	9
+prominence	2	5	9
+prompt	2	3	9
+promptly	2	4	9
+proper	2	3	9
+properly	2	4	9
+proportionate	2	3	5	8
+proportionately	2	4	8
+prospect	2	3	5	9
+prospects	2	3	5	9
+prosperity	2	3	5	9
+prosperous	2	3	9
+protect	2	6	9
+protection	2	5	9
+protective	2	3	9
+protests	2	3	5	7
+protracted	2	3	7
+prove	2	8
+prudence	2	3	5	9
+pry	2	6	7
+punishable	2	3	7
+punitive	2	3	5	7
+pure	2	3	9
+purification	2	5	9
+purify	2	6	9
+purity	2	5	9
+qualified	2	3	9
+qualify	2	3	6	9
+queer	2	3	7
+quench	2	6	9
+quick	2	3	8
+quiet	2	3	8
+quit	2	6	7
+racism	2	3	5	7
+rapid	2	3	8
+rapprochement	2	3	5	9
+rare	2	3	8
+rarely	2	4	8
+rat	2	5	7
+rationality	2	3	5	9
+react	2	6	8
+reaction	2	3	5	8
+reactions	2	3	5	8
+readiness	2	3	5	8
+readily	2	4	9
+ready	2	3	9
+reaffirm	2	5	9
+reaffirmation	2	3	5	9
+real	2	9
+realization	2	3	5	8
+reason	2	5	9
+reasonable	2	3	9
+reasonably	2	4	9
+reasoned	2	9
+recession	2	5	7
+recessionary	2	3	7
+reclaim	2	6	9
+recognition	2	3	5	9
+recognizable	2	3	8
+recompense	2	5	6	9
+reconcile	2	6	9
+reconciliation	2	3	5	9
+record-setting	2	3	9
+recourses	2	3	5	7
+recover	2	6	9
+redundancy	2	5	7
+redundant	2	3	7
+reestablish	2	6	9
+refine	2	6	9
+refined	2	3	9
+refinement	2	5	9
+reform	2	5	6	9
+refresh	2	6	9
+refusal	2	3	5	7
+regress	2	6	7
+regression	2	5	7
+regressive	2	3	7
+rehabilitate	2	6	9
+rehabilitation	2	5	9
+reinforce	2	6	9
+reinforcement	2	5	9
+reiterate	2	6	8
+reiterated	2	3	5	8
+reiterates	2	3	5	8
+relapse	2	6	7
+relations	2	3	5	8
+relax	2	6	9
+relaxed	2	3	9
+relevant	2	3	9
+relevance	2	5	9
+reliable	2	3	9
+reliability	2	5	9
+reliably	2	4	9
+relieve	2	6	9
+reluctant	2	3	7
+reluctantly	2	4	7
+remark	2	3	5	8
+remedy	2	5	9
+renewable	2	3	8
+renewal	2	5	9
+renovate	2	6	9
+renovation	2	5	9
+repair	2	5	6	9
+reparation	2	5	9
+repel	2	6	7
+repetitive	2	3	7
+replete	2	3	8
+repress	2	6	7
+repression	2	3	5	7
+repressive	2	3	7
+repulse	2	6	7
+repulsed	2	7
+reputable	2	3	9
+reputed	2	3	8
+rescue	2	5	6	9
+reservations	2	3	5	7
+resignation	2	5	7
+resigned	2	3	7
+resilient	2	3	9
+resistance	2	3	5	7
+resistant	2	3	5	7
+resolute	2	3	9
+resolve	2	3	5	6	9
+resolved	2	3	9
+resound	2	6	9
+responsibility	2	5	9
+responsible	2	3	9
+responsibly	2	4	9
+responsive	2	3	9
+restful	2	3	9
+restless	2	3	7
+restlessness	2	5	7
+restoration	2	5	9
+restore	2	6	9
+restraint	2	3	5	9
+restrict	2	6	7
+restricted	2	3	7
+restriction	2	5	7
+restrictive	2	3	7
+resurgent	2	3	9
+retaliate	2	6	7
+retaliatory	2	3	7
+retard	2	6	7
+retire	2	6	7
+retract	2	6	7
+retreat	2	5	6	7
+reunite	2	6	9
+reveal	2	8
+revelation	2	3	5	9
+revert	2	6	7
+revival	2	5	9
+revive	2	6	9
+revitalize	2	6	9
+revoke	2	6	7
+revolt	2	6	7
+revolution	2	3	5	9
+rhapsodize	2	6	7
+rhetoric	2	3	5	7
+rich	2	3	9
+riches	2	5	9
+rights	2	3	5	9
+rigid	2	3	7
+rigor	2	5	7
+rigorous	2	3	7
+ripe	2	3	9
+risk	2	3	5	7
+risk-free	2	3	9
+risky	2	3	7
+rival	2	5	6	7
+rivalry	2	5	7
+robust	2	3	9
+rocky	2	3	7
+rot	2	5	6	7
+rough	2	3	7
+ruffle	2	6	7
+ruin	2	3	5	6	7
+ruinous	2	3	7
+rupture	2	5	6	7
+safe	2	3	9
+sag	2	6	7
+salable	2	3	9
+salivate	2	6	9
+satisfy	2	6	9
+satisfying	2	3	9
+savor	2	6	9
+scandal	2	3	5	7
+scant	2	3	7
+scarce	2	3	7
+scarcity	2	5	7
+scenic	2	3	9
+scheme	2	5	6	7
+scholarly	2	3	8
+screw	2	6	7
+seasoned	2	3	9
+second-tier	2	3	7
+secretive	2	3	5	7
+secure	2	3	9
+securely	2	4	9
+security	2	3	5	9
+sedentary	2	3	7
+seem	2	8
+selective	2	3	9
+self-defeating	2	3	7
+self-examination	2	3	5	8
+self-sufficiency	2	3	5	9
+self-sufficient	2	3	9
+semblance	2	5	9
+sense	2	3	5	6	9
+sensitive	2	3	5	9
+settle	2	3	9
+sever	2	3	7
+shadowy	2	3	7
+shake	2	6	7
+shaky	2	3	7
+shallow	2	3	7
+sharp	2	3	7
+sharply	2	4	7
+shelter	2	5	6	9
+shield	2	6	9
+shine	2	9
+shipwreck	2	5	7
+short-lived	2	3	7
+shortage	2	5	7
+should	2	8
+show	2	8
+showdown	2	3	5	7
+shred	2	5	6	7
+shrug	2	5	6	7
+sick	2	3	7
+sicken	2	6	7
+sickness	2	5	7
+siege	2	5	7
+signals	2	3	5	8
+significant	2	3	9
+significance	2	5	9
+signify	2	6	9
+simple	2	3	9
+simplified	2	3	9
+simplify	2	6	9
+simply	2	8
+sincerity	2	3	5	9
+sinking	2	3	5	7
+sketchy	2	3	7
+skill	2	5	9
+skilled	2	3	9
+skimpy	2	3	7
+skyrocketing	2	3	7
+slack	2	3	7
+slaughter	2	3	5	6	7
+slaughtered	2	3	7
+sleek	2	3	9
+sleepy	2	3	8
+slender	2	3	9
+slight	2	3	5	6	7
+slightly	2	4	7
+slim	2	3	5	9
+slow	2	3	7
+slowly	2	4	7
+slow-moving	2	3	7
+slug	2	5	7
+sluggish	2	3	7
+slump	2	3	5	7
+smash	2	5	6	7
+smear	2	6	7
+smelling	2	7
+smooth	2	3	9
+snare	2	5	7
+snarl	2	5	6	7
+snatch	2	6	7
+sneak	2	5	6	7
+sneakily	2	4	7
+sneaky	2	3	7
+so	2	8
+soft-spoken	2	3	9
+solemn	2	3	5	7
+solid	2	3	5	9
+soreness	2	5	7
+sound	2	3	9
+sounding	2	7
+soundness	2	5	9
+sour	2	3	7
+sourly	2	3	7
+sovereignty	2	3	5	8
+spacious	2	3	9
+spare	2	6	9
+sparing	2	3	9
+sparingly	2	4	9
+sparkling	2	3	9
+specific	2	3	8
+specifically	2	8
+special	2	3	9
+speculate	2	6	8
+speculation	2	3	5	8
+speedy	2	3	9
+spinster	2	5	7
+spirit	2	3	5	9
+spirited	2	3	9
+split	2	5	6	7
+splitting	2	3	7
+sporadic	2	3	7
+spot	2	3	7
+spotty	2	3	7
+stab	2	6	7
+stability	2	3	5	9
+stabilize	2	6	9
+stable	2	3	5	9
+stagger	2	6	7
+stagnant	2	3	7
+stain	2	6	7
+stainless	2	3	9
+stake	2	3	5	7
+stampede	2	3	5	7
+stance	2	3	5	8
+stances	2	3	5	8
+stand	2	6	9
+stands	2	3	5	8
+starvation	2	5	7
+starve	2	6	7
+statements	2	3	5	8
+static	2	3	7
+steadiness	2	5	9
+steady	2	3	9
+steal	2	6	7
+stealing	2	5	7
+steep	2	3	7
+steeply	2	4	7
+sticky	2	3	7
+stiff	2	3	7
+still	2	8
+stimulate	2	6	9
+stimulative	2	3	9
+stole	2	6	7
+stolen	2	3	6	7
+stood	2	6	9
+storm	2	6	7
+stormy	2	3	7
+straggle	2	6	7
+straggler	2	5	7
+straight	2	3	9
+strain	2	5	6	7
+strained	2	3	7
+strangle	2	6	7
+streamlined	2	3	9
+strength	2	3	5	8
+strenuous	2	3	7
+strides	2	3	5	9
+strike	2	6	7
+stringent	2	3	7
+stringently	2	4	7
+strong	2	3	9
+stronger-than-expected	2	3	8
+struck	2	6	7
+stuffed	2	3	8
+stumble	2	7
+stump	2	6	7
+stun	2	6	7
+stunt	2	5	7
+stunted	2	3	7
+stupefy	2	6	8
+sturdy	2	3	9
+subdued	2	3	7
+subjected	2	7
+subjection	2	5	7
+submissive	2	3	7
+subordinate	2	3	5	7
+subscribe	2	6	9
+subside	2	6	7
+substandard	2	3	7
+substantial	2	3	9
+substantially	2	4	9
+substantive	2	3	9
+subtle	2	3	9
+subtract	2	6	7
+subversion	2	5	7
+subversive	2	3	7
+subversively	2	4	7
+subvert	2	6	7
+succeed	2	6	9
+success	2	3	5	9
+successful	2	3	9
+successfully	2	4	9
+such	2	8
+suffer	2	6	7
+suffice	2	6	9
+sufficient	2	3	9
+sufficiently	2	4	9
+suggest	2	9
+suggestions	2	3	5	9
+suicidal	2	3	7
+suicide	2	5	7
+suit	2	6	9
+suitable	2	3	9
+sunny	2	3	9
+superior	2	3	9
+supposed	2	7
+suppress	2	6	7
+suppression	2	3	5	7
+surrender	2	3	5	7
+survival	2	5	9
+survive	2	6	9
+survivor	2	5	9
+susceptible	2	3	7
+suspect	2	3	5	7
+suspicion	2	3	5	7
+sustainability	2	3	5	9
+sustainable	2	3	5	9
+sustained	2	3	9
+sweet	2	3	9
+sweeten	2	6	9
+sweetheart	2	5	9
+sweetly	2	4	9
+sweetness	2	5	9
+swift	2	3	9
+swiftness	2	5	9
+swing	2	3	5	8
+swoon	2	6	7
+symptom	2	5	7
+syndrome	2	3	5	7
+systematic	2	3	8
+tale	2	3	5	8
+tall	2	3	8
+tamper	2	6	7
+tangled	2	3	7
+tantalize	2	6	9
+tardy	2	3	7
+tarnish	2	6	7
+taste	2	5	6	8	9
+tease	2	6	7
+taxing	2	7
+temperance	2	5	9
+temperate	2	3	9
+tempest	2	5	7
+tendency	2	3	5	8
+tender	2	3	9
+tenderly	2	4	9
+tenderness	2	5	9
+tense	2	3	7
+tension	2	3	5	7
+tentative	2	3	7
+tentatively	2	4	7
+tenuous	2	3	7
+tenuously	2	4	7
+tepid	2	3	7
+terrorism	2	5	7
+thorough	2	3	9
+thought	2	3	5	8
+thrash	2	6	7
+threat	2	3	5	7
+threaten	2	6	7
+threatening	2	3	5	7
+threats	2	3	5	7
+thrift	2	5	9
+thrifty	2	3	9
+thrive	2	6	9
+thriving	2	3	9
+throw	2	6	7
+thumb	2	6	7
+thumbs	2	3	5	7
+tickle	2	6	9
+timely	2	3	9
+tiny	2	3	7
+tire	2	6	7
+titillate	2	6	9
+tolerant	2	3	9
+tolerate	2	6	9
+toleration	2	5	9
+toll	2	3	5	7
+too	2	7
+top	2	3	9
+topple	2	6	7
+torture	2	5	6	7
+tortured	2	3	7
+totalitarian	2	3	7
+tradition	2	5	9
+traditional	2	3	9
+touch	2	6	8
+toxic	2	3	7
+tragedy	2	3	5	7
+transgress	2	6	7
+transgression	2	5	7
+transparency	2	3	5	8
+transparent	2	3	5	8
+transport	2	6	8
+treacherous	2	3	7
+treacherously	2	4	7
+treat	2	5	9
+trial	2	5	7
+trim	2	3	9
+truant	2	3	7
+trust	2	3	5	6	9
+try	2	6	7
+trying	2	3	7
+tumultuous	2	3	7
+turbulent	2	3	7
+twists	2	3	5	7
+unable	2	3	7
+unaccustomed	2	3	7
+unaudited	2	3	8
+unauthentic	2	3	7
+unavailable	2	3	7
+unavoidable	2	3	7
+unavoidably	2	4	7
+unbiased	2	3	9
+unbound	2	3	9
+unbroken	2	3	9
+uncertain	2	3	7
+unclear	2	3	7
+uncollectible	2	3	7
+uncomfortable	2	3	7
+uncompetitive	2	3	7
+unconditional	2	3	9
+unconfirmed	2	3	7
+unconstitutional	2	3	7
+uncontrolled	2	3	7
+unconventional	2	3	9
+undecided	2	3	7
+undefined	2	3	7
+underpaid	2	3	7
+understanding	2	3	5	9
+undetermined	2	3	7
+undid	2	6	7
+undisputed	2	3	9
+undo	2	6	7
+undocumented	2	3	7
+undone	2	6	7
+uneconomical	2	3	7
+unencumbered	2	3	9
+uneven	2	3	7
+uneventful	2	3	7
+unexpected	2	3	7
+unexplained	2	3	7
+unfamiliar	2	7
+unfinished	2	3	7
+unforeseen	2	3	7
+unfulfilled	2	3	7
+unfunded	2	3	7
+unhealthy	2	3	7
+uniform	2	3	9
+uniformly	2	4	9
+uninformed	2	3	7
+uninsured	2	3	7
+unique	2	3	9
+unity	2	3	5	9
+universal	2	3	9
+unjustified	2	3	7
+unlawful	2	3	7
+unlawfully	2	4	7
+unlawfulness	2	3	5	7
+unlicensed	2	3	7
+unlikely	2	7
+unlimited	2	3	9
+unmoved	2	3	7
+unnatural	2	7
+unnecessary	2	3	7
+unneeded	2	3	7
+unnoticed	2	3	7
+unobserved	2	3	7
+unpredictable	2	3	7
+unprepared	2	3	7
+unproductive	2	3	7
+unprofitable	2	3	7
+unraveled	2	3	7
+unresolved	2	3	7
+unrestricted	2	3	9
+unsafe	2	3	7
+unsatisfactory	2	3	7
+unscathed	2	3	9
+unsettled	2	3	7
+unskilled	2	3	7
+unspecified	2	3	7
+unstable	2	3	7
+unsteadily	2	4	7
+unsteadiness	2	5	7
+unsteady	2	3	7
+unsuccessful	2	3	7
+unsuccessfully	2	4	7
+unsupported	2	3	7
+unsure	2	3	7
+unsustainable	2	3	7
+untested	2	3	7
+untouched	2	3	9
+untrained	2	3	9
+unusual	2	7
+upfront	2	3	9
+upgrade	2	6	9
+uplift	2	6	9
+upright	2	3	9
+uprising	2	5	7
+uproot	2	6	7
+upscale	2	3	9
+upset	2	3	6	7
+upward	2	3	9
+urgent	2	3	5	7
+urgently	2	4	7
+usable	2	3	9
+useful	2	3	9
+usefulness	2	5	9
+useless	2	3	7
+utilitarian	2	3	9
+vague	2	3	5	7
+vagueness	2	5	7
+valid	2	3	9
+validity	2	5	9
+value	2	6	9
+values	2	3	5	9
+vanish	2	6	7
+vanity	2	5	7
+vast	2	3	9
+vastly	2	4	9
+vastness	2	4	9
+venerate	2	6	9
+verifiable	2	3	9
+versatile	2	3	9
+versatility	2	5	9
+very	2	8
+viable	2	3	9
+viability	2	5	9
+victorious	2	3	9
+victory	2	3	5	9
+vigilance	2	5	9
+vigilant	2	3	5	9
+vigorous	2	3	9
+vigorously	2	4	9
+vintage	2	3	9
+violation	2	5	7
+violent	2	3	7
+violently	2	4	7
+viper	2	5	7
+vocal	2	3	5	8
+vocally	2	4	7
+void	2	5	7
+volatile	2	3	7
+volatility	2	5	7
+voluntarily	2	4	9
+voluntary	2	3	9
+vomit	2	5	6	7
+wallow	2	6	7
+wane	2	6	7
+war	2	3	5	7
+warfare	2	5	7
+warm	2	3	9
+warmth	2	5	9
+warning	2	3	5	7
+warp	2	6	7
+warped	2	3	7
+waste	2	5	6	7
+wasteful	2	3	7
+wastefulness	2	5	7
+weak	2	3	7
+wealthy	2	3	9
+wedge	2	3	5	7
+weed	2	5	7
+weep	2	6	7
+welfare	2	3	5	9
+well	2	3	4	9
+well-educated	2	3	9
+well-established	2	3	9
+well-positioned	2	3	9
+well-publicized	2	3	9
+whatever	2	7
+whiff	2	3	5	8
+white	2	3	9
+wide	2	3	9
+wide-open	2	3	9
+wide-ranging	2	3	9
+widespread	2	3	7
+wild	2	3	7
+wildly	2	4	7
+withheld	2	6	7
+withhold	2	6	7
+worn	2	3	6	7
+worship	2	6	9
+would	2	8
+wounds	2	3	5	7
+wreck	2	5	6	7
+wrestle	2	6	7
+writhe	2	6	7
+wrong	2	3	7
+wrongful	2	3	7
+wrought	2	3	5	7
+youthful	2	3	9
